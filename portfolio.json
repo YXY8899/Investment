@@ -1,0 +1,9 @@
+{
+  "holdings": [
+    { "ticker": "NVDA", "shares": 1, "avg_cost": 214.00, "bought": "2026-06-05" },
+    { "ticker": "TSLA", "shares": 1, "avg_cost": 416.94, "bought": "2026-06-05" },
+    { "ticker": "MU",   "shares": 1, "avg_cost": 974.27, "bought": "2026-06-05" }
+  ],
+  "currency": "USD",
+  "risk_tolerance": "moderate"
+}

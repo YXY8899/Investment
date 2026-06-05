@@ -1,0 +1,11 @@
+# Environment / secrets — never commit these
+.env
+.env.*
+*.secret
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Node
+node_modules/

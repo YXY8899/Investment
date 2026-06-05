@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "skills": {
+    "earnings-calendar": {
+      "source": "tradermonty/claude-trading-skills",
+      "sourceType": "github",
+      "skillPath": "skills/earnings-calendar/SKILL.md",
+      "computedHash": "ecab3c203d92cdfa98adad5e1025f48fd1679f15007656aafcaac1dbe7e771be"
+    },
+    "macro-regime-detector": {
+      "source": "tradermonty/claude-trading-skills",
+      "sourceType": "github",
+      "skillPath": "skills/macro-regime-detector/SKILL.md",
+      "computedHash": "035be6a6bdd7ab9fcb46a284dee747bb798a5ee4839d1be2da139d8392476b0d"
+    },
+    "market-news-analyst": {
+      "source": "tradermonty/claude-trading-skills",
+      "sourceType": "github",
+      "skillPath": "skills/market-news-analyst/SKILL.md",
+      "computedHash": "d59a98063303c02a7480fdcd003baf1b62286e8d9d974b6b8d1c392e55a7b80f"
+    },
+    "technical-analyst": {
+      "source": "tradermonty/claude-trading-skills",
+      "sourceType": "github",
+      "skillPath": "skills/technical-analyst/SKILL.md",
+      "computedHash": "053cb6c2af39857c83e6e16ff1baa0fccc01aa80f4d0a32fe94c06d4e8337116"
+    },
+    "us-stock-analysis": {
+      "source": "tradermonty/claude-trading-skills",
+      "sourceType": "github",
+      "skillPath": "skills/us-stock-analysis/SKILL.md",
+      "computedHash": "3f3fc917413fd2a3dfb7b45566c27b24afbc2edab9bf48697c524f4f54e05de2"
+    }
+  }
+}
