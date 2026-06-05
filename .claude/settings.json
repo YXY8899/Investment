@@ -1,7 +1,11 @@
 {
-  "networkAllowList": [
-    "query1.finance.yahoo.com",
-    "query2.finance.yahoo.com",
-    "api.telegram.org"
-  ]
+  "sandbox": {
+    "network": {
+      "allowedDomains": [
+        "query1.finance.yahoo.com",
+        "query2.finance.yahoo.com",
+        "api.telegram.org"
+      ]
+    }
+  }
 }
