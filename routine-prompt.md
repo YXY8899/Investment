@@ -308,12 +308,19 @@ If length > 3800 characters: split into two messages at a natural boundary —
   Part 2: portfolio summary + week ahead + action line
   Send Part 1 first, then Part 2 immediately after.
 
-For each message:
-curl -s -X POST \
-  "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
-  -d chat_id="${TELEGRAM_CHAT_ID}" \
-  -d parse_mode="" \
-  --data-urlencode text="<MESSAGE>"
+For each message, write the text to a temp file first, then send using the
+file-read syntax. This avoids encoding failures with multiline text and emojis:
+
+  printf '%s' "<MESSAGE>" > /tmp/tg_msg.txt
+  curl -s -X POST \
+    "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
+    -d chat_id="${TELEGRAM_CHAT_ID}" \
+    -d parse_mode="" \
+    --data-urlencode "text@/tmp/tg_msg.txt"
+  rm -f /tmp/tg_msg.txt
+
+Do NOT use --data-urlencode text="$VARIABLE" — shell variable expansion
+breaks silently with multiline content and emoji, producing an empty message.
 
 If ok:false, retry once after 10 seconds.
 If it fails twice: print "⚠️ Telegram delivery failed — report saved to reports/{date}.txt"
