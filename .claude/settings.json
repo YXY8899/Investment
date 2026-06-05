@@ -1,0 +1,7 @@
+{
+  "networkAllowList": [
+    "query1.finance.yahoo.com",
+    "query2.finance.yahoo.com",
+    "api.telegram.org"
+  ]
+}
