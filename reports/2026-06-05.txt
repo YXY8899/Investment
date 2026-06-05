@@ -124,3 +124,72 @@ Macro regime:   Risk-on but fragile — Fed on hold at 3.50-3.75%, sticky inflat
 - Fed speakers ahead of 18 Jun FOMC blackout
 
 ✅ No action needed today
+
+════════════════════════════════════════
+RUN 3 — Re-run Fri 5 Jun 2026 (degraded)
+════════════════════════════════════════
+
+📊 DAILY PORTFOLIO REPORT
+Fri 5 Jun 2026 — Pre-market (Run 3)
+
+⚠️ DATA SOURCES UNAVAILABLE THIS RUN
+- Yahoo Finance chart API: blocked by network allowlist (query1 and query2)
+- Web search: org monthly spend limit reached
+Price, technical, news, and analyst fields below are N/A.
+Two earlier runs today completed with full data — see reports/2026-06-05.txt for the authoritative Hold/Sell view.
+
+──────────────────────
+
+🔵 NVDA — HOLD  [Low Confidence — data unavailable, prior run verdict carried]
+Price: N/A  |  Your cost: $214.00
+P&L: N/A  |  Held: 0 days
+Analyst: N/A
+Moat: CUDA monopoly in AI training + data-center networking lead
+Trend: N/A (Yahoo Finance unreachable)
+News: N/A (web search quota exhausted)
+Why: Data fetch failed this run. Earlier Run 1/Run 2 today both returned HOLD with High/High Confidence. No reason to flip without new data.
+Stop-loss: N/A (recompute on next successful run)
+Take-profit: Consider taking profit above $300 (carry-over from Run 2 analyst mean target)
+
+──────────────────────
+
+🔵 TSLA — HOLD  [Low Confidence — data unavailable, prior run verdict carried]
+Price: N/A  |  Your cost: $416.94
+P&L: N/A  |  Held: 0 days
+Analyst: N/A
+Moat: FSD/autonomy lead + brand premium + vertical integration
+Trend: N/A
+News: N/A
+Why: Data fetch failed this run. Earlier runs returned HOLD Medium Confidence. No new evidence to change view.
+Stop-loss: N/A
+Take-profit: Consider taking profit above $500 (carry-over analyst high target)
+
+──────────────────────
+
+🔴 MU — HOLD  [Low Confidence — data unavailable, monitor closely]
+Price: N/A  |  Your cost: $974.27
+P&L: N/A  |  Held: 0 days
+Analyst: N/A
+Moat: HBM3E/HBM4 — 2026 production sold out to AI customers
+Trend: N/A
+News: N/A
+Why: Run 2 flagged Sell signal S6 (>8% 5-day drop on Broadcom contagion) offset by intact HBM thesis. Earnings 24 Jun (19 days). Hold stance retained until next run can refresh data.
+Stop-loss: N/A
+Take-profit: Consider taking profit above $1,750 (carry-over Susquehanna high target)
+⚠️ Earnings: 24 Jun 2026 (19 days)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Cost basis: $1,605.21 (1×NVDA + 1×TSLA + 1×MU at avg cost)
+Total value: N/A (live prices unavailable)
+Total P&L: N/A
+⚠️ Concentration: NVDA + MU both in Semiconductors (~73% of cost basis)
+Macro regime: N/A this run — see Run 2 note (risk-on but fragile under new Fed Chair Warsh)
+
+📅 THIS WEEK AHEAD
+- US May CPI (week of 8 Jun) — key inflation print
+- US May PPI mid-week — producer pricing trend
+- MU Q3 earnings in 19 days — concentration risk into report
+
+✅ No action needed today (data unavailable; rely on earlier Run 2 verdicts)
