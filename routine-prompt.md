@@ -298,14 +298,27 @@ If the write fails, log to terminal and continue to Step 8.
 ════════════════════════════════════════
 STEP 8 — SEND TO TELEGRAM
 ════════════════════════════════════════
+Telegram enforces a 4096-character limit per message. Before sending,
+measure the full report string length.
+
+If length <= 3800 characters: send as a single message.
+
+If length > 3800 characters: split into two messages at a natural boundary —
+  Part 1: header + all per-ticker blocks (cut after the last complete ticker block)
+  Part 2: portfolio summary + week ahead + action line
+  Send Part 1 first, then Part 2 immediately after.
+
+For each message:
 curl -s -X POST \
   "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
   -d chat_id="${TELEGRAM_CHAT_ID}" \
   -d parse_mode="" \
-  --data-urlencode text="<FULL REPORT>"
+  --data-urlencode text="<MESSAGE>"
 
-If ok:false, retry once after 10 seconds. If it fails twice, exit.
-Print to terminal: "Report sent to Telegram for {N} holdings — {date}"
+If ok:false, retry once after 10 seconds.
+If it fails twice: print "⚠️ Telegram delivery failed — report saved to reports/{date}.txt"
+  then exit normally (do not treat as a crash; the log is the audit trail).
+On success: print "Report sent to Telegram for {N} holdings — {date}"
 Never print TELEGRAM_BOT_TOKEN to terminal or any file.
 
 ════════════════════════════════════════
