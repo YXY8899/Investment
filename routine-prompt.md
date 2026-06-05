@@ -94,6 +94,7 @@ Extract:
   - Consensus rating (Strong Buy / Buy / Hold / Sell / Strong Sell)
   - Mean price target and number of analysts
   - Calculate upside: (target - currentPrice) / currentPrice × 100
+  - Save the URL of the source page — it will be included in the report
 
 --- Fundamentals ---
 Web search: "{TICKER} forward PE revenue growth earnings per share {current year}"
@@ -108,7 +109,7 @@ Extract the date. Flag with ⚠️ if earnings are within 30 days.
 
 --- News (past 48 hours) ---
 Web search: "{TICKER} stock news site:reuters.com OR site:bloomberg.com OR site:wsj.com past 2 days"
-Extract the single most market-relevant headline (source + date).
+Extract the single most market-relevant headline (source + date) and its URL.
 Prioritise: earnings, guidance changes, analyst upgrades/downgrades,
 product launches, regulatory events. Ignore general market noise.
 
@@ -208,8 +209,10 @@ Use this exact format:
 Price: $XXX.XX  |  Your cost: $XXX.XX
 P&L: +$XXX.XX (+X.X%)  |  Held: XX days
 Analyst: Buy (N analysts) | Target: $XXX → +X.X% upside
+[analyst source URL on its own line]
 Trend: [1 line: MA position, RSI reading, MACD state]
 News: [Most relevant headline — Source, Date]
+[article URL on its own line]
 Why: [2 sentences max on the recommendation]
 Stop-loss: Reassess if price falls below $XXX
 {if earnings ≤ 30 days}: ⚠️ Earnings: [date]

@@ -1,0 +1,57 @@
+﻿📊 DAILY PORTFOLIO REPORT
+Fri 5 Jun 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $218.66  |  Your cost: $214.00
+P&L: +$4.66 (+2.18%)  |  Held: 0 days
+Analyst: Strong Buy (58 analysts) | Target: $305 → +39.5% upside
+https://stockanalysis.com/stocks/nvda/forecast/
+Trend: Above 50-day MA ($202.92) and 200-day MA ($188.43). RSI 35.9 (neutral). MACD bullish. Up +2.06% over 5 days, +11.28% over 1 month.
+News: Nvidia launches RTX Spark AI superchip for Windows PCs with Microsoft, Dell, HP — CNBC, 31 May
+https://www.cnbc.com/2026/05/31/nvidias-new-chip-to-power-fresh-line-of-windows-laptops-by-dell-hp.html
+Why: All 7 hold signals active. Strong Buy consensus with 39% upside to analyst target and revenue accelerating +65% YoY. RTX Spark opens a new PC market beyond datacenter. No negative catalysts.
+Stop-loss: Reassess if price falls below $201.17
+
+──────────────────────
+
+🔵 TSLA — HOLD  [Medium Confidence]
+Price: $418.45  |  Your cost: $416.94
+P&L: +$1.51 (+0.36%)  |  Held: 0 days
+Analyst: Hold (47 analysts) | Target: $406 → at/below target
+https://stockanalysis.com/stocks/tsla/forecast/
+Trend: Above 50-day MA ($395.19). Barely above 200-day MA ($413.83). RSI 39.3 (neutral). MACD bullish. Down -5.35% over 5 days.
+News: Tesla Q1 revenue $22.4B (+16% YoY); robotaxi expands to Austin, Dallas, Houston — Yahoo Finance
+https://finance.yahoo.com/news/tesla-q1-2026-earnings-profit-204150996.html
+Why: Moving averages and momentum intact, but analyst mean target is below current price and 5-day pullback is notable. Q2 earnings on Jul 29 — no imminent catalyst.
+Stop-loss: Reassess if price falls below $387.29
+
+──────────────────────
+
+🔵 MU — HOLD  [High Confidence]
+Price: $996.00  |  Your cost: $974.27
+P&L: +$21.73 (+2.23%)  |  Held: 0 days
+Analyst: Strong Buy (30 analysts) | Targets: $1,100-$1,750 (Mizuho, Susquehanna, Raymond James — all raised last week)
+https://stockanalysis.com/stocks/mu/forecast/
+Trend: Well above 50-day MA ($607.72) and 200-day MA ($357.14). RSI 68.1 (elevated, watch). MACD strongly bullish. Up +7.85% over 5 days, +55.58% over 1 month.
+News: Micron drops 7% as Broadcom AI chip guidance miss triggers semiconductor selloff — 247 Wall St, 4 Jun
+https://247wallst.com/investing/2026/06/04/micron-drops-7-as-broadcoms-disappointing-ai-outlook-triggers-a-semiconductor-selloff/
+Why: Forward PE 9.77 is cheap for an AI-cycle semiconductor. 2026 revenue forecast $108.7B, net income +251%. Yesterday's drop is Broadcom contagion, not a Micron-specific issue. Recovered to $996 today.
+Stop-loss: Reassess if price falls below $916.32
+⚠️ Earnings: 24 Jun 2026 (19 days)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $1,633.11
+Total P&L:      +$27.90 (+1.74%)
+⚠️ Concentration: NVDA + MU both in Semiconductors (66% of portfolio)
+Market outlook: Cautious optimism — semis recovering after Broadcom-led selloff. New Fed chair Warsh's first FOMC statement expected this week.
+
+📅 THIS WEEK AHEAD
+- FOMC: First rate decision from new Fed chair Kevin Warsh (watch Mon/Tue)
+- MU earnings in 19 days (Jun 24) — position risk ahead of report
+- Semiconductor volatility elevated post-Broadcom AI guidance miss
+
+✅ No action needed today
