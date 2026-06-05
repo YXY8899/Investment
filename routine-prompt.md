@@ -1,9 +1,10 @@
-# Stock Portfolio Routine — Prompt (v2)
+# Stock Portfolio Routine — Prompt (v3)
 
 Paste the block below into claude.ai/code/routines as the routine prompt.
-Updates over v1: Yahoo Finance API for reliable price data, market holiday check,
-analyst consensus + price targets, confidence scoring, stop-loss levels,
-portfolio correlation warning, week-ahead macro calendar, historical report log.
+Updates over v2: fixed 1-day % change calculation (uses closes[-1] as yesterday's
+close, not chartPreviousClose); removed Yahoo Finance v10 quoteSummary endpoint
+(now crumb-locked); analyst targets, recommendations, earnings dates, and
+fundamentals moved to web search in Step 3.
 
 ---
 
@@ -42,24 +43,27 @@ Use the User-Agent header shown — Yahoo Finance blocks requests without it.
 
 --- COMMAND A: Price, technicals, 52-week range ---
 
-curl -s "https://query1.finance.yahoo.com/v8/finance/chart/TICKER?interval=1d&range=3mo" \
+Use range=1y to get enough history for 200-day MA calculation (~252 trading days).
+
+curl -s "https://query1.finance.yahoo.com/v8/finance/chart/TICKER?interval=1d&range=1y" \
   -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 
 Extract from the JSON response:
-  meta.regularMarketPrice          → current price
-  meta.previousClose               → previous close (for 1-day % change)
+  meta.regularMarketPrice          → current live price (intraday)
   meta.fiftyTwoWeekHigh            → 52-week high
   meta.fiftyTwoWeekLow             → 52-week low
-  meta.fiftyDayAverage             → 50-day MA
-  meta.twoHundredDayAverage        → 200-day MA
   meta.regularMarketVolume         → today's volume
   meta.averageDailyVolume3Month    → avg volume (for volume comparison)
-  indicators.quote[0].close[]      → daily close price array (last 90 days)
+  indicators.quote[0].close[]      → daily close price array (last ~252 trading days)
   indicators.quote[0].volume[]     → daily volume array
 
-From the close price array, calculate:
-  - 5-day % change: (close[-1] - close[-6]) / close[-6] × 100
-  - 1-month % change: (close[-1] - close[-22]) / close[-22] × 100
+From the close price array (filter out any null values first):
+  - yesterday's close  = closes[-1]  (last completed trading day's close)
+  - 1-day % change     = (regularMarketPrice - closes[-1]) / closes[-1] × 100
+  - 5-day % change     = (closes[-1] - closes[-6]) / closes[-6] × 100
+  - 1-month % change   = (closes[-1] - closes[-22]) / closes[-22] × 100
+  - 50-day MA          = average of closes[-50] through closes[-1]
+  - 200-day MA         = average of closes[-200] through closes[-1]
   - RSI (14-day): use the standard formula below
   - MACD: 12-day EMA minus 26-day EMA; signal = 9-day EMA of MACD line
 
@@ -76,40 +80,37 @@ EMA formula (period N, on array of prices):
   EMA[0] = prices[0]
   EMA[i] = prices[i] × multiplier + EMA[i-1] × (1 - multiplier)
 
---- COMMAND B: Fundamentals + analyst targets + earnings date ---
-
-curl -s "https://query1.finance.yahoo.com/v10/finance/quoteSummary/TICKER?modules=financialData,recommendationTrend,defaultKeyStatistics,calendarEvents,summaryDetail" \
-  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-
-Extract from the JSON response:
-  financialData.targetMeanPrice.raw     → analyst mean price target
-  financialData.targetHighPrice.raw     → analyst high target
-  financialData.targetLowPrice.raw      → analyst low target
-  financialData.recommendationKey       → "strongBuy" | "buy" | "hold" | "sell" | "strongSell"
-  financialData.numberOfAnalystOpinions.raw → analyst count
-  financialData.revenueGrowth.raw       → revenue growth (decimal, e.g. 0.12 = 12% YoY)
-  defaultKeyStatistics.forwardPE.raw    → forward P/E ratio
-  defaultKeyStatistics.trailingEps.raw  → trailing EPS
-  defaultKeyStatistics.shortRatio.raw   → short interest ratio (days to cover)
-  recommendationTrend.trend[0]          → current period: strongBuy, buy, hold, sell, strongSell counts
-  calendarEvents.earnings.earningsDate[0] → next earnings Unix timestamp (convert to date)
-
-If a field is missing or null, record it as "N/A". Do not abort.
-
-Calculate for each ticker:
-  - Upside to analyst target: (targetMeanPrice - currentPrice) / currentPrice × 100
-  - Days to earnings: earningsDate - today (flag if ≤ 30 days)
-
-If either curl command fails or returns an error, fall back to web search for
-that ticker's data and note "API fallback" in the report.
+If the curl command fails or returns an error, note "API fallback" and rely on
+web search (Step 3) for all data for that ticker.
 
 ════════════════════════════════════════
-STEP 3 — FETCH NEWS & MACRO CALENDAR
+STEP 3 — FETCH ANALYST, FUNDAMENTAL & NEWS DATA
 ════════════════════════════════════════
---- News (past 48 hours per ticker) ---
+Run the following web searches for EVERY ticker.
+
+--- Analyst consensus & price target ---
+Web search: "{TICKER} analyst price target consensus rating {current year}"
+Extract:
+  - Consensus rating (Strong Buy / Buy / Hold / Sell / Strong Sell)
+  - Mean price target and number of analysts
+  - Calculate upside: (target - currentPrice) / currentPrice × 100
+
+--- Fundamentals ---
+Web search: "{TICKER} forward PE revenue growth earnings per share {current year}"
+Extract:
+  - Forward P/E ratio
+  - Revenue growth (most recent quarter YoY %)
+  - EPS — last earnings beat / miss / in-line
+
+--- Next earnings date ---
+Web search: "{TICKER} next earnings date {current year}"
+Extract the date. Flag with ⚠️ if earnings are within 30 days.
+
+--- News (past 48 hours) ---
 Web search: "{TICKER} stock news site:reuters.com OR site:bloomberg.com OR site:wsj.com past 2 days"
-Extract up to 3 headlines. Prioritise: earnings, guidance, analyst changes, product/regulatory events.
-Ignore general market noise unrelated to the specific company.
+Extract the single most market-relevant headline (source + date).
+Prioritise: earnings, guidance changes, analyst upgrades/downgrades,
+product launches, regulatory events. Ignore general market noise.
 
 --- Week-ahead macro calendar ---
 Web search: "US economic calendar next week {current date} CPI PPI Fed FOMC earnings"
