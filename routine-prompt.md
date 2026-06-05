@@ -68,6 +68,14 @@ chart API. Use the User-Agent header — requests fail without it.
 curl -s "https://query1.finance.yahoo.com/v8/finance/chart/TICKER?interval=1d&range=1y" \
   -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 
+If query1 is unreachable or returns an error, retry once with query2:
+curl -s "https://query2.finance.yahoo.com/v8/finance/chart/TICKER?interval=1d&range=1y" \
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+
+Only fall back to web search if both query1 and query2 fail. Note: web search
+returns pre-computed MA values from third-party sites that may differ from
+raw-calculated values — flag any web-search-sourced technicals as approximate.
+
 Extract from the JSON response:
   meta.regularMarketPrice       → current live price
   meta.fiftyTwoWeekHigh         → 52-week high
@@ -119,6 +127,11 @@ Financial Health:
 Valuation:
   - Analyst consensus (Strong Buy / Buy / Hold / Sell / Strong Sell)
   - Mean price target, number of analysts, % upside from current price
+  - Cross-check: web search "{TICKER} analyst price target upgrade {current year}"
+    If recent individual analyst targets (past 60 days) differ from the
+    consensus mean by more than 30%, the consensus is stale. In that case:
+    use the most recent individual targets with their dates and sources, and
+    note the consensus mean as "(stale — see recent upgrades)".
   - Save the source URL for the report
 
 --- B. NEXT EARNINGS DATE ---
@@ -193,6 +206,9 @@ a stop-loss price, and a take-profit price.
   S4: High-impact negative news that materially changes the investment thesis
   S5: Unrealised gain > 40% AND MACD shows bearish crossover
   S6: Price fell > 8% in the past 5 days with no recovery
+      Exception: if the drop is confirmed sector-wide contagion from a peer
+      company's earnings/guidance (not a company-specific event), count S6
+      as half-weight only — it does not by itself justify a sell.
 
   3+ signals → SELL, High Confidence
   2 signals  → SELL, Medium Confidence
