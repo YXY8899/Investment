@@ -55,3 +55,72 @@ Market outlook: Cautious optimism — semis recovering after Broadcom-led sellof
 - Semiconductor volatility elevated post-Broadcom AI guidance miss
 
 ✅ No action needed today
+
+
+════════════════════════════════════════
+RUN 2 — Re-run Fri 5 Jun 2026
+════════════════════════════════════════
+
+📊 DAILY PORTFOLIO REPORT
+Fri 5 Jun 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $216.34  |  Your cost: $214.00
+P&L: +$2.34 (+1.1%)  |  Held: 0 days
+Analyst: Strong Buy (60 analysts) | Target: $300 → +38.7% upside
+https://www.marketbeat.com/stocks/NASDAQ/NVDA/forecast/
+Moat: CUDA monopoly in AI training + data-center networking lead
+Trend: Above 200d MA ($214.80), just under 50d MA ($216.67); RSI ~47 neutral; MACD flat; volume normal
+News: Jensen Huang COMPUTEX 2026 keynote, RTX Spark AI superchip unveiled — NVIDIA Newsroom, 4 Jun 2026
+https://nvidianews.nvidia.com/news/latest
+Why: 7 of 8 hold signals trip — above 200d MA, healthy RSI, Strong Buy with ~39% upside, intact AI moat, no negative catalysts. Forward P/E ~24 leaves room as AI capex cycle extends.
+Stop-loss: Reassess if price falls below $212
+Take-profit: Consider taking profit above $300 (analyst mean target)
+
+──────────────────────
+
+🔵 TSLA — HOLD  [Medium Confidence]
+Price: $422.73  |  Your cost: $416.94
+P&L: +$5.79 (+1.4%)  |  Held: 0 days
+Analyst: Buy/Hold mix (47 analysts) | Target: $400 mean — current price already exceeds
+https://stockanalysis.com/stocks/tsla/forecast/
+Moat: FSD/autonomy lead + brand premium + vertical integration
+Trend: Above 20d ($401.81) and 200d MA; RSI ~50 neutral; MACD +11.8 bullish; consolidating in mid-range
+News: Unsupervised robotaxi rollout expanded across Austin metro 3 Jun — Teslarati
+https://www.teslarati.com/tesla-tsla-q1-2026-earnings-results/
+Why: Trend intact, MACD bullish, Q1 EPS beat 14%, robotaxi catalyst progressing. Tempered by stretched valuation (above mean target) and Hold-leaning consensus — medium confidence.
+Stop-loss: Reassess if price falls below $394
+Take-profit: Consider taking profit above $500 (analyst high target — mean already exceeded)
+
+──────────────────────
+
+🔵 MU — HOLD  [Low Confidence]
+Price: $971.43  |  Your cost: $974.27
+P&L: -$2.84 (-0.3%)  |  Held: 0 days
+Analyst: Buy (30 analysts) | Mean target $733 (stale) / Recent upgrades $1,100-$1,750 (Mizuho, Susquehanna, Raymond James)
+https://www.marketbeat.com/stocks/NASDAQ/MU/forecast/
+Moat: HBM3E/HBM4 — entire 2026 production pre-contracted to AI customers
+Trend: Up ~260% YTD; hit $1,089 ATH 1 Jun then -10% intraday 4 Jun on Broadcom sector shadow; RSI cooling from overbought; MACD bearish crossover risk
+News: MU sold off ~10% on 4 Jun as Broadcom AI guidance dragged chip stocks — Motley Fool, 4 Jun 2026
+https://www.fool.com/investing/2026/06/01/why-micron-stock-hit-a-new-all-time-high-today/
+Why: Sell signal S6 trips (>8% drop in 5 days) but offset by intact HBM thesis, 9.8x forward P/E, sold-out 2026 supply, and Q3 earnings 19 days out. Holding through earnings on fundamentals; tight stop given volatility.
+Stop-loss: Reassess if price falls below $894
+Take-profit: Consider taking profit above $1,750 (Susquehanna high target — mean is stale)
+⚠️ Earnings: 24 Jun 2026 (19 days)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $1,610.50
+Total P&L:      +$5.29 (+0.3%)
+⚠️ Concentration: NVDA + MU both in Semiconductors (73.7% of portfolio)
+Macro regime:   Risk-on but fragile — Fed on hold at 3.50-3.75%, sticky inflation and elevated energy keeping cuts data-dependent under new Chair Warsh
+
+📅 THIS WEEK AHEAD
+- US May CPI release (week of 8 Jun) — key inflation print
+- US May PPI release (mid-week) — producer pricing trend
+- Fed speakers ahead of 18 Jun FOMC blackout
+
+✅ No action needed today
