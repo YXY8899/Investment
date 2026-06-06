@@ -1,7 +1,6 @@
 # Environment / secrets — never commit these
 .env
 .env.*
-!.env.example
 *.secret
 
 # OS files
