@@ -64,6 +64,12 @@ If FMP_API_KEY is set as an environment variable, also run:
   .agents/skills/earnings-calendar/SKILL.md  (earnings dates via FMP API)
   .agents/skills/macro-regime-detector/SKILL.md  (macro regime via FMP API)
 
+  IMPORTANT — FMP endpoint override: the skill files reference the legacy v3
+  endpoint (api/v3/earning_calendar) which is no longer supported for new keys.
+  Use the stable endpoint instead:
+    https://financialmodelingprep.com/stable/earnings-calendar?apikey=${FMP_API_KEY}&from=YYYY-MM-DD&to=YYYY-MM-DD
+  All other FMP calls: replace /api/v3/ with /stable/ in any URL from the skill files.
+
 ════════════════════════════════════════
 STEP 2 — FETCH PRICE & TECHNICAL DATA
 ════════════════════════════════════════
