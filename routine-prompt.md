@@ -1,11 +1,12 @@
-# Stock Portfolio Routine — Prompt (v4)
+# Stock Portfolio Routine — Prompt (v5)
 
 Paste the block below into claude.ai/code/routines as the routine prompt.
-Updates over v3: integrates us-stock-analysis and market-news-analyst skill
-frameworks; adds take-profit price per holding; deeper fundamental analysis
-(moats, margins, balance sheet) and impact-ranked news via tiered sources.
-Skills earnings-calendar and macro-regime-detector need FMP_API_KEY env var
-to unlock — add it to the routine env vars when ready.
+Updates over v4.1: adds SEC EDGAR insider trading check per ticker (Step 3E,
+no API key needed); adds FRED API for live macro data — Fed funds rate, CPI,
+yield curve (Step 3D, needs free FRED_API_KEY); adds S7 sell signal and H9
+hold signal for insider activity; insider line added to Telegram report format.
+FMP_API_KEY unlocks earnings-calendar and macro-regime-detector skills.
+FRED_API_KEY unlocks live macro data (free at fred.stlouisfed.org/docs/api/).
 
 ---
 
@@ -54,6 +55,10 @@ Apply these frameworks throughout the analysis. The us-stock-analysis skill
 governs how you assess fundamentals, technicals, and investment quality per
 ticker. The market-news-analyst skill governs how you collect, rank, and
 interpret news by market impact.
+
+If FRED_API_KEY is set as an environment variable, use it in Step 3D to fetch
+live macro data (Fed funds rate, CPI, yield curve) via the FRED REST API
+instead of relying solely on web search.
 
 If FMP_API_KEY is set as an environment variable, also run:
   .agents/skills/earnings-calendar/SKILL.md  (earnings dates via FMP API)
@@ -162,13 +167,65 @@ Categories to prioritise (High impact):
 
 --- D. MACRO CONTEXT ---
 
-Web search: "US market outlook {today's date} Fed macro sentiment"
-Web search: "US economic calendar this week {current date}"
+If FRED_API_KEY is set, fetch live macro data (use User-Agent header on all calls):
+
+  # Current Fed funds rate
+  curl -s "https://api.stlouisfed.org/fred/series/observations?series_id=FEDFUNDS&api_key=${FRED_API_KEY}&file_type=json&limit=1&sort_order=desc" \
+    -H "User-Agent: StockPortfolioRoutine contact@gmail.com"
+
+  # CPI — fetch 13 months to calculate YoY change
+  curl -s "https://api.stlouisfed.org/fred/series/observations?series_id=CPIAUCSL&api_key=${FRED_API_KEY}&file_type=json&limit=13&sort_order=desc" \
+    -H "User-Agent: StockPortfolioRoutine contact@gmail.com"
+
+  # Yield curve: 10-year minus 2-year Treasury spread
+  curl -s "https://api.stlouisfed.org/fred/series/observations?series_id=T10Y2Y&api_key=${FRED_API_KEY}&file_type=json&limit=1&sort_order=desc" \
+    -H "User-Agent: StockPortfolioRoutine contact@gmail.com"
+
+  Extract:
+    FEDFUNDS  → value field = Fed funds rate (%)
+    CPIAUCSL  → YoY % = (observations[0].value / observations[12].value − 1) × 100
+    T10Y2Y    → value field = yield curve spread (negative = inverted = recession watch)
+
+If FRED_API_KEY is not set, fall back to:
+  Web search: "US Fed funds rate current CPI latest yield curve {today's date}"
+
+Also run regardless:
+  Web search: "US market outlook {today's date} macro sentiment"
+  Web search: "US economic calendar this week {current date}"
 
 Identify:
   - Current risk-on / risk-off environment (1 sentence)
+  - Fed funds rate, latest CPI YoY print, yield curve status (inverted/flat/normal)
   - Up to 3 macro events in the next 5 trading days that could move markets
     (FOMC, CPI, PPI, PCE, NFP, mega-cap earnings)
+
+--- E. INSIDER TRADING (SEC EDGAR) ---
+
+For each ticker, check SEC Form 4 filings (insider transactions) in the past
+30 days. No API key needed. Use User-Agent on all EDGAR requests.
+
+Step 1 — Get CIK for all tickers (one call):
+  curl -s "https://www.sec.gov/files/company_tickers.json" \
+    -H "User-Agent: StockPortfolioRoutine contact@gmail.com"
+  Find the entry where ticker matches (case-insensitive).
+  Extract cik_str and zero-pad to 10 digits (e.g. 1045810 → "0001045810").
+
+Step 2 — Get recent filings per ticker:
+  curl -s "https://data.sec.gov/submissions/CIK{10-digit-CIK}.json" \
+    -H "User-Agent: StockPortfolioRoutine contact@gmail.com"
+
+  From filings.recent, count entries where:
+    form = "4" AND filingDate >= (today − 30 days)
+
+  If count > 0, supplement with:
+    Web search: "{TICKER} insider buy sell SEC Form 4 {current month year}"
+    Extract: filer name/title, transaction type (buy/sell), dollar value, date.
+
+Classify per ticker:
+  insider_buy_flag  = true if any C-suite/director bought >$500,000 in past 30 days
+  insider_sell_flag = true if any C-suite/director sold  >$1,000,000 in past 30 days
+  No flag if transactions are routine RSU sell-to-cover (automatic tax withholding
+  on vesting) — only flag discretionary purchases or large discretionary block sales.
 
 ════════════════════════════════════════
 STEP 4 — CALCULATE PORTFOLIO METRICS
@@ -209,6 +266,7 @@ a stop-loss price, and a take-profit price.
       Exception: if the drop is confirmed sector-wide contagion from a peer
       company's earnings/guidance (not a company-specific event), count S6
       as half-weight only — it does not by itself justify a sell.
+  S7: insider_sell_flag = true (discretionary sale >$1M by C-suite in past 30 days)
 
   3+ signals → SELL, High Confidence
   2 signals  → SELL, Medium Confidence
@@ -223,10 +281,11 @@ a stop-loss price, and a take-profit price.
   H6: Upside to analyst mean target > 10%
   H7: No high-impact negative news
   H8: Business quality / moat assessment is intact (from fundamental review)
+  H9: insider_buy_flag = true (discretionary purchase >$500K by C-suite in past 30 days)
 
-  7–8 signals → HOLD, High Confidence
-  5–6 signals → HOLD, Medium Confidence
-  1–4 signals → HOLD, Low Confidence
+  8–9 signals → HOLD, High Confidence
+  6–7 signals → HOLD, Medium Confidence
+  1–5 signals → HOLD, Low Confidence
 
 Be decisive. Every ticker must get HOLD or SELL. No "WATCH" or "NEUTRAL".
 
@@ -261,6 +320,7 @@ Analyst: [rating] (N analysts) | Target: $XXX → +X.X% upside
 [analyst source URL]
 Moat: [1 phrase — e.g. "CUDA monopoly in AI training" or "brand + FSD lead"]
 Trend: [MA position, RSI, MACD, volume — 1 line]
+Insider: [e.g. "CEO bought $2.1M (15 Jun)" or "No significant activity (30d)"]
 News: [Highest-impact headline — Source, Date]
 [article URL]
 Why: [2 sentences on the recommendation, referencing key signals]
