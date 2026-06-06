@@ -1,4 +1,5 @@
 {
+  "schema_version": 1,
   "holdings": [
     { "ticker": "NVDA", "shares": 5, "avg_cost": 209.00, "bought": "2026-06-05" }
   ],
