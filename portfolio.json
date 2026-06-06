@@ -1,6 +1,7 @@
 {
   "holdings": [
-    { "ticker": "NVDA", "shares": 5, "avg_cost": 209.00, "bought": "2026-06-05" },
+    { "ticker": "NVDA", "shares": 5, "avg_cost": 209.00, "bought": "2026-06-05" }
+  ],
   "currency": "USD",
-  "risk_tolerance": "moderate" ]
+  "risk_tolerance": "moderate"
 }
