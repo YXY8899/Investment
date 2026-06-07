@@ -1,0 +1,31 @@
+📊 DAILY PORTFOLIO REPORT
+Sun 7 Jun 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [Medium Confidence]
+Price: $205.10  |  Your cost: $209.00
+P&L: -$19.50 (-1.9%)  |  Held: 2 days
+Analyst: Strong Buy (38 analysts) | Target: $298 → +45.5% upside
+https://public.com/stocks/nvda/forecast-price-target
+Moat: CUDA monopoly + Blackwell ramp + Vera Rubin in full production
+Trend: Above 50d MA ($203.45) and 200d MA ($188.57). RSI 43.8 neutral. MACD bearish (2.30 vs signal 4.26). Friday volume elevated on -6.2% selloff.
+News: Senate scrutiny on China chip exports + hot jobs data triggered 6.2% Friday drop — Yahoo Finance, 5 Jun 2026
+https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-nvidia-stock-drops-6-in-ugly-day-for-chip-stocks-100000734.html
+Why: Fundamentals intact (FY26 revenue +65% YoY, Blackwell ramp, Strong Buy with ~45% upside to $298). Price still above both 50d and 200d MA. Bearish MACD and the June 11 Senate hearing on China exports warrant caution but do not yet break the AI infrastructure thesis.
+Stop-loss: Reassess if price falls below $199
+Take-profit: Consider taking profit above $298 (analyst mean target)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $1,025.50
+Total P&L:      -$19.50 (-1.9%)
+Macro regime:   Risk-off lean — strong NFP pushed back rate-cut bets; new Fed Chair Warsh signals tighter tone ahead of June 17 FOMC.
+
+📅 THIS WEEK AHEAD
+- Wed Jun 10: May CPI release (8:30 ET)
+- Thu Jun 11: Senate hearing on NVDA China chip exports
+- Tue–Wed Jun 16–17: FOMC decision + Chair Warsh first press conference (SEP/Dot Plot)
+
+✅ No action needed today
