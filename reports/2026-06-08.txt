@@ -1,0 +1,31 @@
+📊 DAILY PORTFOLIO REPORT
+Mon 8 Jun 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $205.10  |  Your cost: $209.00
+P&L: -$19.50 (-1.9%)  |  Held: 3 days
+Analyst: Strong Buy (62 analysts) | Target: $298.42 → +45.5% upside
+https://stockanalysis.com/stocks/nvda/forecast/
+Moat: CUDA software lock-in + ~86% AI accelerator share
+Trend: Above 50DMA ($203.45) and 200DMA ($188.57). RSI 43.8 neutral. MACD line +2.30 but crossed below signal — short-term bearish after Friday's selloff.
+News: NVDA -6.2% Fri on hot May NFP (172K vs ~80K consensus) + Broadcom AI guide miss — Yahoo Finance, 5 Jun 2026
+https://finance.yahoo.com/markets/stocks/articles/nvidia-shares-sink-strong-u-172315309.html
+Why: Fundamentals intact — record Q1 FY27 revenue $81.6B (+85% YoY), 74.9% gross margin, $80B buyback announced. Friday drop is macro/sector contagion (rate-cut hopes fading), not a thesis break. Hold; thesis rides AI capex, not Fed dots.
+Stop-loss: Reassess if price falls below $199.38
+Take-profit: Consider taking profit above $298.42 (analyst mean target)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $1,025.50
+Total P&L:      -$19.50 (-1.9%)
+Macro regime:   Risk-off — hot May NFP pushed 10Y yield to 4.54%, killing 2026 rate-cut bets; Fed seen on hold at 3.50-3.75%.
+
+📅 THIS WEEK AHEAD
+- May CPI release — Wed 10 Jun (key inflation print)
+- May PPI release — Thu 11 Jun
+- FOMC meeting + dot plot — Tue-Wed 16-17 Jun
+
+✅ No action needed today
