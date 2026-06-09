@@ -1,0 +1,31 @@
+📊 DAILY PORTFOLIO REPORT
+Tue 9 Jun 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $208.64  |  Your cost: $209.00
+P&L: -$1.80 (-0.17%)  |  Held: 4 days
+Analyst: Strong Buy (38 analysts) | Target: $298.87 → +43.2% upside
+https://public.com/stocks/nvda/forecast-price-target
+Moat: CUDA + Blackwell monopoly in AI training & inference
+Trend: Above 50DMA ($204) & 200DMA ($189); RSI 47 neutral; MACD 1.56 below signal 3.72 (bearish crossover); volume 0.83x avg
+News: Nvidia + LG Group humanoid robot & data center pact; SK Hynix multiyear memory deal — Reuters, 8 Jun 2026
+https://finance.yahoo.com/quote/NVDA/
+Why: Q1 FY27 was a blowout — $81.6B revenue (+85% YoY), Data Center $75.2B (+92%), beating consensus on both top and bottom line. Forward PE ~21 is below the semis median (~35) with Strong Buy consensus and +43% to mean target; bearish MACD reflects last week's hot-NFP-driven tech selloff, not a thesis break.
+Stop-loss: Reassess if price falls below $200
+Take-profit: Consider taking profit above $298.87 (analyst mean target)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $1,043.20
+Total P&L:      -$1.80 (-0.17%)
+Macro regime:   Risk-off tilt — hot May NFP (+172k) lifted rate-hike odds to 72%; Brent >$100 keeps Fed cautious into 16–17 Jun FOMC.
+
+📅 THIS WEEK AHEAD
+- US May CPI release (mid-week)
+- FOMC meeting 16–17 Jun (next week setup)
+- Oracle earnings & Adobe earnings (AI-spend read-through)
+
+✅ No action needed today
