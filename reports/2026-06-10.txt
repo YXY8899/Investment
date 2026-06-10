@@ -1,0 +1,31 @@
+📊 DAILY PORTFOLIO REPORT
+Wed 10 Jun 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $208.19  |  Your cost: $209.00
+P&L: -$4.05 (-0.4%)  |  Held: 5 days
+Analyst: Strong Buy (62 analysts) | Target: $298 → +43.2% upside
+https://stockanalysis.com/stocks/nvda/forecast/
+Moat: CUDA + Blackwell monopoly in AI training/inference
+Trend: Above 50d MA ($204) and 200d MA ($189); RSI 47 neutral; MACD bearish crossover; volume normal (1.08x avg)
+News: Apple to run Apple Intelligence on NVIDIA GPUs via Google Cloud Private Cloud Compute — Reuters, 9 Jun 2026
+https://finance.yahoo.com/quote/NVDA/news/
+Why: Q1 FY27 blew out — revenue $81.6B (+85% YoY), Data Center $75.2B (+92% YoY), Q2 guide $91B. Apple win adds another hyperscaler-class customer. 5-day pullback is sector contagion (S6 half-weight), not thesis-breaking; price holding above both MAs with massive 43% upside to consensus.
+Stop-loss: Reassess if price falls below $200
+Take-profit: Consider taking profit above $298 (analyst mean target)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $1,040.95
+Total P&L:      -$4.05 (-0.4%)
+Macro regime:   Risk-on but narrow (AI/energy leadership); Fed on hold under new Chair Warsh, no cuts priced until mid-late 2027
+
+📅 THIS WEEK AHEAD
+- May CPI release today 10 Jun (08:30 ET) — first inflation print under Warsh
+- May PPI release 11 Jun (08:30 ET)
+- FOMC meeting + SEP/dot plot 16-17 Jun — 98% probability of hold at 3.50-3.75%
+
+✅ No action needed today
