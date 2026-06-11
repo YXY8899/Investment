@@ -1,0 +1,31 @@
+📊 DAILY PORTFOLIO REPORT
+Thu 11 Jun 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [Medium Confidence]
+Price: $200.42  |  Your cost: $209.00
+P&L: -$42.90 (-4.1%)  |  Held: 6 days
+Analyst: Strong Buy (62 analysts) | Target: $298 → +48.7% upside
+https://stockanalysis.com/stocks/nvda/forecast/
+Moat: CUDA software lock-in + AI training GPU monopoly
+Trend: Below 50dMA ($205.71), above 200dMA ($189.02); RSI 41 (neutral); MACD bearish (-0.20 vs signal 2.49); volume normal
+News: Nvidia secured Apple as major AI client; AI-chip sector broadly lower Jun 10 (MU/AMD/INTC also down) — Yahoo Finance, Jun 10 2026
+https://finance.yahoo.com/quote/NVDA/
+Why: 5-day pullback (-6.7%) is sector-wide AI-chip contagion, not a company-specific event — Apple partnership reinforces the moat and Q1 FY27 revenue printed $44.1B (+69% YoY). Bearish MACD + price under 50dMA warrants caution but thesis intact.
+Stop-loss: Reassess if price falls below $202 (just under 50d MA — already testing this level)
+Take-profit: Consider taking profit above $298 (analyst mean target)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $1,002.10
+Total P&L:      -$42.90 (-4.1%)
+Macro regime:   Mixed-to-cautious — Fed on hold at 3.50–3.75%, inflation sticky on rising energy, Middle East uncertainty; strong earnings backdrop providing a floor
+
+📅 THIS WEEK AHEAD
+- May 2026 CPI release (mid-week)
+- June FOMC meeting — rate decision + SEP
+- Energy/oil supply headlines tied to Middle East
+
+✅ No action needed today
