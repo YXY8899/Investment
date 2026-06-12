@@ -1,0 +1,32 @@
+📊 DAILY PORTFOLIO REPORT
+Fri 12 Jun 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [Medium Confidence]
+Price: $204.87  |  Your cost: $209.00
+P&L: -$20.65 (-1.98%)  |  Held: 7 days
+Analyst: Strong Buy (62 analysts) | Target: $300 → +46.4% upside
+https://www.marketbeat.com/stocks/NASDAQ/NVDA/forecast/
+Moat: CUDA monopoly in AI training + Blackwell data-center lead
+Trend: Just below 50d MA ($206.32), above 200d MA ($189.14); RSI 45 neutral; MACD bearish crossover; volume 0.93x avg
+News: KKR/NVDA/Vistra/KIA commit $10B+ to Helix AI data-centers — Reuters, 11 Jun 2026
+https://finance.yahoo.com/quote/NVDA/
+Why: Thesis intact — Q1 FY27 hit record $81.6B revenue (+85% YoY) with $91B Q2 guide above consensus, and the $10B+ Helix consortium confirms AI capex tailwind. Mild technical weakness (4-week pullback, price just under 50d MA) is consolidation, not a thesis-breaker; ~46% upside to mean target.
+Stop-loss: Reassess if price falls below $202.19
+Take-profit: Consider taking profit above $300 (analyst mean target)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $1,024.35
+Total P&L:      -$20.65 (-1.98%)
+Concentration:  Single-name portfolio (100% NVDA / Semiconductors)
+Macro regime:   Mixed — AI/tech leadership intact, but hot PPI keeps Fed hawkish; CME prices ~70% odds of one 25bps hike by Dec 2026
+
+📅 THIS WEEK AHEAD
+- June FOMC meeting + Summary of Economic Projections (rate decision)
+- May CPI release
+- PPI / retail sales data
+
+✅ No action needed today
