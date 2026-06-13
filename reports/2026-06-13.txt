@@ -1,0 +1,32 @@
+📊 DAILY PORTFOLIO REPORT
+Sat 13 Jun 2026 — Weekend recap (Fri 12 Jun close)
+
+──────────────────────
+
+🔵 NVDA — HOLD  [Medium Confidence]
+Price: $205.19  |  Your cost: $209.00
+P&L: -$19.05 (-1.82%)  |  Held: 8 days
+Analyst: Strong Buy (62 analysts) | Target: $298.42 → +45.4% upside
+https://stockanalysis.com/stocks/nvda/forecast/
+Moat: CUDA + AI training stack monopoly; Blackwell ramp underway
+Trend: Price ~0.8% below 50DMA ($206.91), +8.4% above 200DMA ($189.26); RSI 45 (neutral); MACD -1.10 below signal (bearish but histogram stabilising); volume 0.68x avg (light)
+News: Tigress Financial raised PT to $425; China Renaissance initiated Buy at $319 (early June 2026)
+https://www.benzinga.com/quote/NVDA/analyst-ratings
+Why: Fundamentals intact — FY26 revenue $215.9B (+65% YoY), Q1 FY27 record $81.6B (+85% YoY). Pullback is rate-driven (CPI/FOMC nerves), not company-specific. Below 50DMA but well above 200DMA; analyst upside remains exceptional. Holding while macro overhang resolves.
+Stop-loss: Reassess if price falls below $202.77
+Take-profit: Consider taking profit above $298.42 (analyst mean target)
+⚠️ Annual Stockholder Meeting: Jun 24 (11 days)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $1,025.95
+Total P&L:      -$19.05 (-1.82%)
+Macro regime:   Risk-off lean — sticky inflation (April CPI 3.8% YoY) has pushed fed funds futures toward a hike by year-end; Fed at 3.50-3.75%; new Chair Warsh's first FOMC this week sets tone.
+
+📅 THIS WEEK AHEAD
+- Tue Jun 16 — FOMC meeting begins (Warsh's first as Chair)
+- Wed Jun 17 — CPI, Retail Sales, FOMC decision + dot plot
+- Thu Jun 18 — PPI; jobless claims
+
+✅ No action needed today — markets closed Sat; next live data Mon 16 Jun
