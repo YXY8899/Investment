@@ -1,0 +1,31 @@
+📊 DAILY PORTFOLIO REPORT
+Sun 14 Jun 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [Medium Confidence]
+Price: $205.19  |  Your cost: $209.00
+P&L: -$19.05 (-1.8%)  |  Held: 9 days
+Analyst: Strong Buy (62 analysts) | Target: $309 → +50.6% upside
+https://stockanalysis.com/stocks/nvda/forecast/
+Moat: CUDA + Blackwell/Rubin lead in AI training silicon
+Trend: Just below 50d MA ($206.91), above 200d MA ($189.26); RSI 45 neutral; MACD bearish (-1.10 vs signal 1.26); volume 0.68x avg
+News: KKR, NVIDIA, Vistra + Kuwait Investment Authority commit $10B+ to Helix Digital Infrastructure — Tier 2, Jun 13
+https://nvidianews.nvidia.com/news/latest
+Why: Q1 FY27 print (May 20) delivered record $82B revenue +85% YoY with Data Center +92% YoY and Q2 guide of $91B — investment thesis fully intact. Pullback to 50d MA on macro de-rate is healthy consolidation, not a thesis break; analyst Strong Buy with ~50% upside supports holding.
+Stop-loss: Reassess if price falls below $202.77
+Take-profit: Consider taking profit above $309 (analyst mean target)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $1,025.95
+Total P&L:      -$19.05 (-1.8%)
+Macro regime:   Risk-off undertone — sticky 4.2% CPI, Fed funds 3.5-3.75%, Iran-war oil pressure; first Warsh-led FOMC Jun 16-17 with possible easing-to-neutral bias shift.
+
+📅 THIS WEEK AHEAD
+- May CPI release (Tue Jun 16) — sticky inflation is the swing factor
+- FOMC decision + SEP (Wed Jun 17) — first meeting under Chair Warsh
+- May PPI + retail sales — second-derivative inflation signal
+
+✅ No action needed today
