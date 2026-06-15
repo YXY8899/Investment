@@ -1,0 +1,32 @@
+📊 DAILY PORTFOLIO REPORT
+Mon 15 Jun 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [Medium Confidence]
+Price: $205.19  |  Your cost: $209.00
+P&L: -$19.05 (-1.82%)  |  Held: 10 days
+Analyst: Strong Buy (61 analysts) | Target: $298.93 → +45.7% upside
+https://stockanalysis.com/stocks/nvda/forecast/
+Moat: CUDA software lock-in + Blackwell platform dominance in AI training
+Trend: Just below 50d MA ($206.91), well above 200d MA ($189.26); RSI 45 neutral; MACD bearish (hist -2.36); volume 0.68x avg (light)
+News: KKR, NVIDIA, KIA & Vistra launch Helix — $10B+ AI infrastructure vehicle, NVDA anchor partner for DSX AI factory platform — Yahoo Finance, Jun 12
+https://finance.yahoo.com/sectors/technology/articles/kkr-launches-helix-digital-infrastructure-181442992.html
+Why: Zero sell signals triggered; 6 of 8 hold signals intact. Q1 FY27 was a record print ($81.6B rev +85% YoY; Data Center $75.2B +92% YoY; 75% GM) with Q2 guide of $91B, and Street consensus stays Strong Buy with ~46% upside to mean target. Short-term softness — bearish MACD and price 0.8% under 50d MA — is consolidation, not regime change; thesis (AI capex, CUDA moat, hyperscaler demand) intact.
+Stop-loss: Reassess if price falls below $202.77
+Take-profit: Consider taking profit above $298.93 (analyst mean target)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $1,025.95
+Total P&L:      -$19.05 (-1.82%)
+Concentration:  Single-holding portfolio — 100% Semiconductors (NVDA). Diversification risk noted.
+Macro regime:   Cautiously risk-on into Kevin Warsh's first FOMC (Jun 16-17, hold expected at 3.50-3.75%); 4.2% CPI keeps Fed hawkish but Iran-ceasefire optimism and AI capex driving narrow tech-led leadership.
+
+📅 THIS WEEK AHEAD
+- FOMC decision + dot plot / Summary of Economic Projections (Tue-Wed, Jun 16-17) — Warsh debut
+- US Retail Sales (May) — Tue Jun 16
+- Iran / Strait of Hormuz developments — oil risk premium
+
+✅ No action needed today
