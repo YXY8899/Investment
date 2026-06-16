@@ -1,0 +1,31 @@
+📊 DAILY PORTFOLIO REPORT
+Tue 16 Jun 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $212.45  |  Your cost: $209.00
+P&L: +$17.25 (+1.65%)  |  Held: 11 days
+Analyst: Strong Buy (62 analysts) | Target: $309 → +45.4% upside
+https://stockanalysis.com/stocks/nvda/forecast/
+Moat: CUDA + Blackwell monopoly in AI training silicon
+Trend: Above 50d MA ($206.91) and 200d MA ($189.26); RSI 45 neutral; MACD bearish but flattening; vol 79% of 3M avg
+News: NVDA launching $20B bond offering across 7 tranches (2-30y) — first IG debt since 2021, fuels AI chip capex. CNBC, Jun 15.
+https://www.cnbc.com/2026/06/15/nvidia-plans-to-raise-about-20-billion-first-debt-sale-in-ai-boom.html
+Why: Q1 FY27 print (May 20) was a blowout — revenue $81.6B (+85% YoY), GAAP gross margin 74.9%, Q2 guide $91B at 75% GM. Consensus Strong Buy, 45% upside to mean target. Pullback from $236 high left price above both MAs with no fundamental crack — accumulation zone, not exit.
+Stop-loss: Reassess if price falls below $202.77
+Take-profit: Consider taking profit above $309 (analyst mean target)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $1,062.25
+Total P&L:      +$17.25 (+1.65%)
+Macro regime:   Risk-on but cautious — Fed Funds 3.50-3.75%, May CPI 4.2% YoY, no cuts priced for 2026; Chair Warsh's first FOMC tomorrow.
+
+📅 THIS WEEK AHEAD
+- FOMC decision + SEP, Wed Jun 17 (rate hold ~99% priced; dot-plot is the real event)
+- May Retail Sales, Tue Jun 16
+- Initial jobless claims + Philly Fed, Thu Jun 18
+
+✅ No action needed today
