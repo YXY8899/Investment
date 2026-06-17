@@ -1,0 +1,31 @@
+📊 DAILY PORTFOLIO REPORT
+Wed 17 Jun 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [Medium Confidence]
+Price: $207.41  |  Your cost: $209.00
+P&L: -$7.95 (-0.76%)  |  Held: 12 days
+Analyst: Strong Buy (62 analysts) | Target: $298.93 → +44.1% upside
+https://stockanalysis.com/stocks/nvda/forecast/
+Moat: CUDA monopoly in AI training + data-center compute
+Trend: Price $207 just below 50d MA ($208), well above 200d MA ($190). RSI 47 neutral. MACD bearish crossover (-0.97 vs signal 0.48). Volume 125M elevated.
+News: NVDA -2.37% Mon 16 Jun ahead of FOMC; $25B bond offering priced 15 Jun — CNBC
+https://www.cnbc.com/quotes/NVDA
+Why: Fundamentals remain exceptional — Q1 FY27 revenue $82B (+85% YoY), data-center +92%, Q2 guide $91B above $86.8B consensus, last EPS beat. Weakness today is macro-driven (FOMC, bond issuance) not company-specific; MACD bearish but RSI/MA support and 44% upside to consensus keep the thesis intact.
+Stop-loss: Reassess if price falls below $204
+Take-profit: Consider taking profit above $298.93 (analyst mean target)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $1,037.05
+Total P&L:      -$7.95 (-0.76%)
+Macro regime:   Risk-on tilted but cautious — Fed expected to hold at 3.50–3.75% today; Warsh's first FOMC press conference is the key swing factor.
+
+📅 THIS WEEK AHEAD
+- Wed 17 Jun: FOMC rate decision + dot plot + Warsh press conference (2:30pm ET); May Retail Sales
+- Thu 18 Jun: Initial jobless claims, FedEx earnings
+- Fri 19 Jun: US markets CLOSED for Juneteenth
+
+✅ No action needed today
