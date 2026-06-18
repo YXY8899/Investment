@@ -1,0 +1,34 @@
+📊 DAILY PORTFOLIO REPORT
+Thu 18 Jun 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [Medium Confidence]
+Price: $204.65  |  Your cost: $209.00
+P&L: -$21.75 (-2.08%)  |  Held: 13 days
+Analyst: Strong Buy (62 analysts) | Target: $298 → +45.6% upside
+https://stockanalysis.com/stocks/nvda/forecast/
+Moat: CUDA + AI training stack monopoly; deepening HBM tie-up with SK hynix
+Trend: Below 50-day MA ($208.74), above 200-day MA ($189.70). RSI 45 (neutral). MACD below signal (bearish, histogram improving). Volume normal. 1d -1.3% / 5d +2.1% / 1mo -8.0%.
+News: Nvidia preparing first $20B US investment-grade bond offering since 2021 to fund AI chip capacity — Reuters, Jun 17
+https://www.reuters.com/
+Why: 0 of 6 sell signals trigger; 6 of 8 hold signals intact (above 200MA, neutral RSI, Strong Buy consensus, +46% target upside, no negative thesis news, moat intact). Below 50MA and bearish MACD reflect macro de-rating after Jun 17 hawkish Fed hold, not a thesis change.
+Stop-loss: Reassess if price falls below $204.56
+Take-profit: Consider taking profit above $298 (analyst mean target)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $1,023.25
+Total P&L:      -$21.75 (-2.08%)
+Concentration:  Single-name (NVDA = 100% of portfolio, Semiconductors)
+Macro regime:   Risk-off tilt — Fed held rates at 3.63% on Jun 17 under new Chair Warsh; cutting bias dropped, markets now pricing a possible Dec hike (~40% odds) rather than a cut.
+
+📅 THIS WEEK AHEAD
+- Post-FOMC Fed speakers digest the hawkish Jun 17 hold (Jun 18-20)
+- Weekly initial jobless claims — Thu Jun 18
+- S&P Global Flash PMI (mfg + services) — week of Jun 22
+- Juneteenth market holiday — Fri Jun 19 (NYSE/NASDAQ closed)
+
+⚠️ Heads-up: NVDA is sitting almost exactly at the $204.56 stop-loss trigger ($204.65 last close). Watch today's open — a clean break below 50-day MA on volume would warrant re-evaluation.
+✅ No action needed today.
