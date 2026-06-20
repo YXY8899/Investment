@@ -1,0 +1,31 @@
+📊 DAILY PORTFOLIO REPORT
+Sat 20 Jun 2026 — Weekend (last close: Thu 18 Jun; Fri was Juneteenth)
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $210.69  |  Your cost: $209.00
+P&L: +$8.45 (+0.81%)  |  Held: 15 days
+Analyst: Strong Buy (~50 analysts) | Target: $300 → +42% upside
+https://stockanalysis.com/stocks/nvda/forecast/
+Moat: CUDA software lock-in + Blackwell platform dominance in AI training
+Trend: Above 50d MA ($209) and 200d MA ($190); RSI 50 neutral; MACD bearish crossover (-1.07 vs signal -0.11); 5d +2.8%, 1m -4.5%
+News: NVIDIA + SK hynix multiyear partnership for AI factory memory — NVIDIA Newsroom, Jun 2026
+https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-first-quarter-fiscal-2027
+Why: Q1 FY27 crushed expectations (revenue $81.6B, +85% YoY; Data Center +92%) with Q2 guide raised to $91B; forward P/E ~22 is reasonable for the growth. Bearish MACD crossover and hawkish Warsh-led Fed warrant stop discipline, but moat and 42% analyst upside support holding.
+Stop-loss: Reassess if price falls below $205
+Take-profit: Consider taking profit above $300 (analyst mean target)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $1,053.45
+Total P&L:      +$8.45 (+0.81%)
+Macro regime:   Risk-off tilt after new Fed Chair Warsh's hawkish FOMC debut — rates held at 3.50-3.75% but dot plot signals possible 2026 hike; sticky core PCE 3.3% pressuring tech multiples.
+
+📅 THIS WEEK AHEAD
+- Tue Jun 24: NVIDIA annual stockholder meeting
+- Thu Jun 25: May PCE / Core PCE (Fed's preferred inflation gauge; consensus +0.3% MoM core)
+- Ongoing: Fedspeak parsing Warsh's hawkish pivot
+
+✅ No action needed today
