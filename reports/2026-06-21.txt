@@ -1,0 +1,31 @@
+📊 DAILY PORTFOLIO REPORT
+Sun 21 Jun 2026 — Pre-market (Mon open)
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $210.69  |  Your cost: $209.00
+P&L: +$8.45 (+0.81%)  |  Held: 16 days
+Analyst: Strong Buy (38 analysts) | Target: $298.93 → +41.9% upside
+https://www.marketbeat.com/stocks/NASDAQ/NVDA/forecast/
+Moat: CUDA + accelerator dominance in AI training/inference
+Trend: Above 50d MA ($209.31) and 200d MA ($189.90), RSI 50 (neutral), MACD bearish, volume 1.47x avg
+News: Q1 FY27 record revenue $81.6B (+85% YoY), Data Center $75.2B (+92% YoY), $80B buyback authorized, dividend raised to $0.25 — Nvidia IR, May 20 2026
+https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000051/q1fy27pr.htm
+Why: 7 of 8 hold signals firing — price above both major MAs, RSI neutral, Strong Buy consensus with 42% upside, no high-impact negative news, and the moat thesis is intact (Data Center +92% YoY). Only weak signal is bearish MACD — short-term momentum cooldown after the Q1 print rally, not a thesis change.
+Stop-loss: Reassess if price falls below $205.12
+Take-profit: Consider taking profit above $298.93 (analyst mean target)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $1,053.45
+Total P&L:      +$8.45 (+0.81%)
+Macro regime:   Risk-neutral — Fed on hold (Warsh chair), energy-driven inflation pressure heading into Thursday's May PCE print.
+
+📅 THIS WEEK AHEAD
+- Thu Jun 25: May PCE & Core PCE (Fed's preferred inflation gauge; consensus core +0.3% m/m, 3.4% y/y)
+- Wed Jun 24: NVIDIA Annual Stockholder Meeting
+- Light data week otherwise; eyes on PCE for next Fed signal
+
+✅ No action needed today
