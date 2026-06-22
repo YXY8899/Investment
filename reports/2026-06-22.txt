@@ -1,0 +1,31 @@
+📊 DAILY PORTFOLIO REPORT
+Mon 22 Jun 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $210.69  |  Your cost: $209.00
+P&L: +$8.45 (+0.81%)  |  Held: 17 days
+Analyst: Strong Buy (62 analysts) | Target: $298.93 → +41.9% upside
+https://www.marketbeat.com/stocks/NASDAQ/NVDA/forecast/
+Moat: CUDA monopoly in AI training, 75% gross margin, Blackwell ramp
+Trend: Price $210.69 just above 50-day MA ($209.31), well above 200-day ($189.90); RSI 50 neutral; MACD slightly bearish (hist -0.96); volume 1.47x avg
+News: BofA names NVDA among 5 top tech buys; annual shareholder meeting Wed Jun 24 (Blackwell + Vera updates) — Yahoo Finance, 20-21 Jun 2026
+https://finance.yahoo.com/quote/NVDA/
+Why: Q1 FY27 was a blowout — $81.6B revenue (+85% YoY), Data Center $75.2B (+92% YoY), $80B buyback added. Mild near-term MACD softness offset by intact AI demand cycle, Strong Buy consensus and 42% upside to mean target.
+Stop-loss: Reassess if price falls below $205.13
+Take-profit: Consider taking profit above $298.93 (analyst mean target)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $1,053.45
+Total P&L:      +$8.45 (+0.81%)
+Macro regime:   Cautious risk-on — Fed held at 3.50-3.75% on Jun 17, but Warsh dot plot tilted hawkish (quarter-point hike pencilled in for 2026)
+
+📅 THIS WEEK AHEAD
+- NVDA annual shareholder meeting (Wed Jun 24) — Blackwell & Vera production updates
+- Light Fed calendar — no FOMC; Powell-era handoff to Warsh still being digested
+- PCE inflation release (Fri Jun 26) — Fed's preferred gauge
+
+✅ No action needed today
