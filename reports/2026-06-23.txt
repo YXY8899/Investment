@@ -1,0 +1,31 @@
+📊 DAILY PORTFOLIO REPORT
+Tue 23 Jun 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [Medium Confidence]
+Price: $208.65  |  Your cost: $209.00
+P&L: -$1.75 (-0.2%)  |  Held: 18 days
+Analyst: Strong Buy (59 analysts) | Target: $298.93 → +43.3% upside
+https://stockanalysis.com/stocks/nvda/forecast/
+Moat: CUDA + Blackwell monopoly in AI training/inference
+Trend: Just below 50d MA $209.81; well above 200d MA $190.09; RSI 48.7 neutral; MACD bearish (-1.04 vs signal -0.30); volume 71% of 3m avg (light)
+News: Nvidia unveils Halos full-stack robotics safety system; 35 EU AI HPC supercomputers in development — Nvidia Newsroom, 22 Jun 2026
+https://nvidianews.nvidia.com/
+Why: Fundamentals exceptional — Q1 FY27 revenue $81.6B (+85% YoY), data center +92% YoY, $49B FCF, dividend hiked 25x. Mild MACD bearishness reflects hawkish-Fed pressure on duration, not a thesis break; consolidation near 50d MA with +43% analyst upside still intact.
+Stop-loss: Reassess if price falls below $205.61
+Take-profit: Consider taking profit above $298.93 (analyst mean target)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $1,043.25
+Total P&L:      -$1.75 (-0.2%)
+Macro regime:   Risk-off tilt — 17 Jun FOMC held at 3.50–3.75% but dot plot revised hawkishly (median now 3.8% for YE26, one more hike possible; 2026 core inflation outlook raised to 3.3%), pressuring rate-sensitive growth/tech.
+
+📅 THIS WEEK AHEAD
+- Wed 24 Jun: Micron (MU) earnings — direct semi-sector read-through for NVDA
+- Thu 25 Jun: May PCE inflation (Fed's preferred gauge)
+- Thu 25 Jun: Q1 GDP third estimate
+
+✅ No action needed today
