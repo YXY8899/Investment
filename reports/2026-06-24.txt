@@ -1,0 +1,31 @@
+📊 DAILY PORTFOLIO REPORT
+Wed 24 Jun 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [Medium Confidence]
+Price: $200.04  |  Your cost: $209.00
+P&L: -$44.80 (-4.29%)  |  Held: 19 days
+Analyst: Strong Buy (38 analysts) | Target: $300 → +50.0% upside
+https://www.marketbeat.com/stocks/NASDAQ/NVDA/forecast/
+Moat: CUDA monopoly in AI training + Blackwell/Vera Rubin pipeline
+Trend: Below 50d MA ($210), above 200d MA ($190); RSI 42 neutral; MACD bearish, histogram falling; volume normal (0.94x avg)
+News: Tech sell-off on hawkish Fed dot plot; NVDA -3% with sector, no company-specific issue. Bernstein reiterates Buy — Reuters/CNBC, Jun 23
+https://www.cnbc.com/quotes/NVDA
+Why: Q1 FY27 (May) was a clean beat — $81.6B rev (+85% YoY), Data Center $75.2B (+92%), EPS $1.87 vs $1.76 est, dividend raised 25x, $80B buyback. Pullback is macro (Fed hike-back-on-table), not fundamentals; H2/H3/H5/H6/H7/H8 still intact.
+Stop-loss: Reassess if price falls below $205.83 (already breached — monitor closely)
+Take-profit: Consider taking profit above $300 (analyst mean target)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $1,000.20
+Total P&L:      -$44.80 (-4.29%)
+Macro regime:   Risk-off tilt — Fed dot plot now signals 1+ hike by year-end, inflation outlook raised to 3.3% core PCE; Middle East/Iran oil risk overlay weighs on growth names.
+
+📅 THIS WEEK AHEAD
+- Thu 26 Jun: May PCE (core est +0.24% m/m, 3.3% y/y) — Fed's preferred inflation gauge
+- Thu 26 Jun: Final Q1 GDP + May Durable Goods + jobless claims
+- Multiple Fed speakers all week — watch for hawkish reinforcement of June SEP
+
+✅ No action needed today
