@@ -1,0 +1,31 @@
+📊 DAILY PORTFOLIO REPORT
+Thu 25 Jun 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [Medium Confidence]
+Price: $199.00  |  Your cost: $209.00
+P&L: -$50.00 (-4.78%)  |  Held: 20 days
+Analyst: Strong Buy (62 analysts) | Target: $298.93 → +50.2% upside
+https://stockanalysis.com/stocks/nvda/forecast/
+Moat: CUDA software lock-in + Vera Rubin AI-accelerator lead
+Trend: Below 50d MA ($210), above 200d MA ($190); RSI 41.8 neutral; MACD bearish; 5d -4.0%, 1m -7.6%
+News: NVDA -4.1% in broad semi-sector selloff; Vera Rubin architecture rollout announced — Yahoo/Reuters, Jun 24 2026
+https://finance.yahoo.com/quote/NVDA/
+Why: Sector-wide selloff (S6 half-weight per framework) and mild technical softness do not break the AI thesis. Strong Buy consensus with ~50% upside, business quality intact, and Vera Rubin launch supports the hold.
+Stop-loss: Reassess if price falls below $183 (8% drawdown floor; 50d MA support already broken — watch closely)
+Take-profit: Consider taking profit above $298.93 (analyst mean target)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $995.00
+Total P&L:      -$50.00 (-4.78%)
+Macro regime:   Cautious / risk-off lean — Fed June dot plot pivoted hawkish (one 2026 hike now in median path); S&P 500 near ATH ~7,420 but tech vulnerable to higher rates and Middle East energy risk.
+
+📅 THIS WEEK AHEAD
+- Core PCE inflation print (Fri Jun 26) — Fed's preferred gauge
+- Fed speakers clarifying the hawkish dot plot
+- Consumer confidence / final Q1 GDP revision
+
+✅ No action needed today
