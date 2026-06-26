@@ -1,0 +1,31 @@
+📊 DAILY PORTFOLIO REPORT
+Fri 26 Jun 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [Medium Confidence]
+Price: $195.74  |  Your cost: $209.00
+P&L: -$66.30 (-6.3%)  |  Held: 21 days
+Analyst: Strong Buy (59 buy / 1 sell) | Target: $298 → +52% upside
+https://www.tipranks.com/stocks/nvda/forecast
+Moat: CUDA + Blackwell lock-in on AI training; data-center revenue +92% YoY
+Trend: Below 50d MA ($210), above 200d MA ($191); RSI 40 neutral; MACD bearish; volume normal (0.93x)
+News: US Commerce tightened loophole on Rubin/Blackwell exports via offshore subs to China — Timothy Sykes, Jun 23
+https://www.timothysykes.com/news/nvidia-corporation-nvda-news-2026_06_23/
+Why: Q1 FY27 was a blowout ($81.6B rev, +85% YoY, $91B Q2 guide vs $87B consensus) and analyst conviction is unchanged at Strong Buy with ~52% upside. Recent pullback is China-export overhang plus broad semi weakness, not a thesis break.
+Stop-loss: Reassess if price falls below $180 (8% drawdown; price already under 50d MA so MA-based stop would trigger immediately)
+Take-profit: Consider taking profit above $298 (analyst mean target)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $978.70
+Total P&L:      -$66.30 (-6.3%)
+Macro regime:   Risk-off — Fed held at 3.50-3.75% on Jun 17 but flipped hawkish (2026 PCE forecast lifted to 3.6%, dot plot now leans hike); tech selling off.
+
+📅 THIS WEEK AHEAD
+- May PCE inflation print (consensus 4.0% headline / 3.4% core) — primary tape mover
+- Fed speakers parsing the hawkish FOMC shift
+- Quarter-end rebalancing flows
+
+✅ No action needed today
