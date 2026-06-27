@@ -1,0 +1,31 @@
+📊 DAILY PORTFOLIO REPORT
+Sat 27 Jun 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [Medium Confidence]
+Price: $192.53  |  Your cost: $209.00
+P&L: -$82.35 (-7.9%)  |  Held: 22 days
+Analyst: Strong Buy (38 analysts) | Target: $298.87 → +55.2% upside
+https://www.marketbeat.com/stocks/NASDAQ/NVDA/forecast/
+Moat: CUDA monopoly in AI training + Blackwell/Rubin chip lead
+Trend: Below 50MA ($210), holding 200MA ($191) | RSI 37 | MACD bearish | Vol 1.1x avg | 5d -8.6%
+News: B200 GPU cloud rental rate fell 31% in 3 weeks ($6.11 → $4.22/hr) sparking margin worry; insider sales $410M last 3mo — Yahoo Finance, 25 Jun
+https://finance.yahoo.com/markets/stocks/articles/why-nvidia-nvda-shares-getting-055214383.html
+Why: Weak week driven by hawkish Fed + sector-wide AI-trade cooling (Broadcom AI guide miss), not NVDA-specific. Q1 FY27 was $81.6B rev (+85% YoY), Q2 guided $91B. Fundamentals intact, 200MA is the line in the sand.
+Stop-loss: Reassess if price falls below $177 (8% drawdown floor; 200MA at $191 is the immediate technical support)
+Take-profit: Consider taking profit above $299 (analyst mean target)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $962.65
+Total P&L:      -$82.35 (-7.9%)
+Macro regime:   Risk-off — Fed held 3.5-3.75% on Jun 17 but dot plot flipped hawkish on Iran-war inflation; high-multiple growth under pressure.
+
+📅 THIS WEEK AHEAD
+- Thu Jul 2: NFP (consensus +172k) — released a day early
+- Wed Jul 1: Fed Chair Warsh speaks in Portugal
+- Fri Jul 3: US markets closed (Independence Day observed)
+
+✅ No action needed today
