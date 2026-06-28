@@ -1,0 +1,31 @@
+📊 DAILY PORTFOLIO REPORT
+Sun 28 Jun 2026 — Weekend (data as of Fri 26 Jun close)
+
+──────────────────────
+
+🔵 NVDA — HOLD  [Medium Confidence]
+Price: $192.53  |  Your cost: $209.00
+P&L: -$82.35 (-7.88%)  |  Held: 23 days
+Analyst: Strong Buy (38 analysts) | Target: $298 → +55.0% upside
+https://www.marketbeat.com/stocks/NASDAQ/NVDA/forecast/
+Moat: CUDA + Blackwell scale lock-in for AI training (81% of TOP500)
+Trend: Below 50d MA $210, just above 200d MA $191; RSI 37 (neutral-oversold); MACD -3.70 below signal -1.79 (bearish, widening); volume 1.11x avg
+News: Chip stocks sold off Fri on AI infra cost concerns; B200 GPU rental down ~31% in 3 weeks; Huawei Ascend taking China share — CNBC, 26 Jun
+https://www.cnbc.com/2026/06/26/global-tech-stocks-ai-infrastructure-costs-selloff-softbank-apple.html
+Why: Tape is weak (-8.6% in 5 days, -9.4% in 1 month, MACD bearish) but fundamentals remain strong — Q1 FY27 beat ($81.6B rev, +85% YoY DC, $1.87 EPS vs $1.77), Q2 guide $91B, Strong Buy with 55% upside to mean target. S6 sell trigger fires at half-weight (Fri drop was sector-wide chip selloff). Holding through weakness, but the 200d MA at $191 is the line — break it and the thesis is on the clock.
+Stop-loss: Reassess if price falls below $205.88 (50d MA × 0.98 — note: already triggered; secondary line is 200d MA at $190.64)
+Take-profit: Consider taking profit above $298 (analyst mean target)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $962.65
+Total P&L:      -$82.35 (-7.88%)
+Macro regime:   Mildly risk-off — Fed held at 3.50–3.75% in Jun, dot plot now hints at 1–2 hikes (not cuts) on Middle East energy risk; new Chair Warsh leaning hawkish; S&P near ATH but breadth narrow.
+
+📅 THIS WEEK AHEAD
+- US June jobs report (NFP) — key for rate path
+- Fed Chair Warsh speeches — tone watch
+- Fri 3 Jul: US markets closed (Independence Day observed)
+
+✅ No action needed today
