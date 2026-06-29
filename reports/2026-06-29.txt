@@ -1,0 +1,31 @@
+📊 DAILY PORTFOLIO REPORT
+Mon 29 Jun 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [Medium Confidence]
+Price: $192.53  |  Your cost: $209.00
+P&L: -$82.35 (-7.88%)  |  Held: 24 days
+Analyst: Strong Buy (62 analysts) | Target: $298.93 → +55.3% upside
+https://www.marketbeat.com/stocks/NASDAQ/NVDA/forecast/
+Moat: CUDA monopoly in AI training; Data Center revenue +92% YoY
+Trend: Below 50d MA ($210), just above 200d MA ($191); RSI 37.5 (neutral, oversold-lean); MACD bearish; 5d -8.6%
+News: NVIDIA enters correction as B200 GPU rental prices drop 31% in 3 weeks (peak $6.11 → $4.22/hr) — Jun 27
+https://intellectia.ai/blog/ai-tech-stock-selloff-june-2026
+Why: Fundamentals intact (Q1 FY27 record $81.6B rev +85% YoY, $91B Q2 guide) and consensus strongly bullish (+55% upside), but tape is weak after sector-wide selloff sparked by Broadcom's Jun 5 AI guide miss. The 5-day drop is sector contagion (S6 half-weight only), so signal count still favors hold despite the bruising correction.
+Stop-loss: Reassess if price falls below $177.13
+Take-profit: Consider taking profit above $298.93 (analyst mean target)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $962.65
+Total P&L:      -$82.35 (-7.88%)
+Macro regime:   Risk-off lean — Fed held at 3.50-3.75% on Jun 17 with upgraded inflation forecast (PCE 3.6%, core 3.3%); AI/semi mega-caps in correction since Broadcom Jun 5 guide miss; new Chair Warsh balancing sticky inflation vs slowing growth.
+
+📅 THIS WEEK AHEAD
+- Tue Jun 30: JOLTS job openings
+- Wed Jul 1: ADP private payrolls + Fed Chair Warsh speech (Portugal)
+- Thu Jul 2: NFP early release (consensus +172k jobs)
+
+✅ No action needed today
