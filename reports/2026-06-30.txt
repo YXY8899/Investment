@@ -1,0 +1,31 @@
+📊 DAILY PORTFOLIO REPORT
+Tue 30 Jun 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [Medium Confidence]
+Price: $194.97  |  Your cost: $209.00
+P&L: -$70.15 (-6.7%)  |  Held: 25 days
+Analyst: Strong Buy (38 analysts) | Target: $299 → +53.4% upside
+https://www.marketbeat.com/stocks/NASDAQ/NVDA/forecast/
+Moat: CUDA software lock-in + Blackwell/Vera production lead in AI training silicon
+Trend: Below 50d MA ($210), above 200d MA ($191), RSI 40, MACD bearish, volume 0.92x avg
+News: Morgan Stanley reiterates bullish view; NVDA-AMD-TSMC still slid -1.2% on Fri — Yahoo Finance, Jun 26
+https://finance.yahoo.com/quote/NVDA/
+Why: 5-day pullback of -6.6% broke the 50-day MA but price holds above the 200-day floor with neutral RSI 40 — a cooling, not a breakdown. Q1 FY27 beat ($81.6B rev, +85% YoY) plus $91B Q2 guide and Strong Buy consensus (37/37 Buy or Strong Buy) keep the thesis intact.
+Stop-loss: Reassess if price falls below $205.82
+Take-profit: Consider taking profit above $299 (analyst mean target)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $974.85
+Total P&L:      -$70.15 (-6.7%)
+Macro regime:   Risk-off tilt — Fed held at 3.50–3.75% with hawkish dot plot, persistent core PCE 3.4% keeps "higher for longer" intact.
+
+📅 THIS WEEK AHEAD
+- Wed Jul 1: ISM Manufacturing PMI (June)
+- Thu Jul 2: June Nonfarm Payrolls (consensus < May's 172k)
+- Fri Jul 3: US market closed (Independence Day observed)
+
+✅ No action needed today
