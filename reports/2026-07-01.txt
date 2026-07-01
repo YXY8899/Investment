@@ -1,0 +1,31 @@
+📊 DAILY PORTFOLIO REPORT
+Wed 1 Jul 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [Medium Confidence]
+Price: $200.09  |  Your cost: $209.00
+P&L: -$44.55 (-4.26%)  |  Held: 26 days
+Analyst: Strong Buy (38 analysts) | Target: $303 → +51.4% upside
+https://www.marketbeat.com/stocks/NASDAQ/NVDA/forecast/
+Moat: CUDA + Blackwell data-center dominance in AI training
+Trend: Below 50DMA $210, above 200DMA $191, RSI 45, MACD bearish but histogram narrowing
+News: Nvidia–Palantir federal AI partnership (positive), offsetting June -12% correction and capex-growth caution — CNBC, 30 Jun
+https://www.cnbc.com/quotes/NVDA
+Why: Q1 FY27 blowout ($81.6B rev +85% YoY, $91B Q2 guide, $80B buyback, 25x dividend hike) plus Strong Buy consensus with +51% upside keeps the thesis intact. Technical softness (below 50DMA, June -12%) reflects macro AI rotation, not a broken story.
+Stop-loss: Reassess if price falls below $205.79 (already under 50DMA — trigger active)
+Take-profit: Consider taking profit above $303 (analyst mean target)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $1,000.45
+Total P&L:      -$44.55 (-4.26%)
+Macro regime:   Risk-mixed — Fed on hold at 3.50–3.75%, July hike odds ~30%, no cuts expected in H2. AI remains the dominant equity driver but capex-growth doubts add volatility.
+
+📅 THIS WEEK AHEAD
+- Jun NFP jobs report — Thu 2 Jul (moved forward, Fri 3 Jul holiday)
+- 3 Jul US markets closed (Independence Day observed)
+- Next FOMC meeting late-Jul — rate decision watch
+
+✅ No action needed today
