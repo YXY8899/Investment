@@ -1,0 +1,31 @@
+📊 DAILY PORTFOLIO REPORT
+Thu 2 Jul 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [Medium Confidence]
+Price: $197.58  |  Your cost: $209.00
+P&L: -$57.10 (-5.46%)  |  Held: 27 days
+Analyst: Strong Buy (38-62 analysts) | Target: $300 → +51.8% upside
+https://www.tipranks.com/stocks/nvda/forecast
+Moat: CUDA + Blackwell lock-in for AI training/inference — irreplaceable in hyperscaler capex
+Trend: Below 50d MA ($209.90), above 200d MA ($190.94). RSI 43. MACD bearish (-3.90 vs -2.84). 22-day -6.4%.
+News: Michael Burry discloses new NVDA short, warns AI overheating — TipRanks/media, 1 Jul 2026 (Medium impact)
+https://finance.yahoo.com/quote/NVDA/
+Why: Q1 FY27 crushed it — $81.6B revenue (+85% YoY), guided Q2 to $91B ± 2%, raised dividend 25x. Thesis intact despite pullback; consensus 51.8% upside and 74% gross margins argue for patience through the mid-cycle drawdown.
+Stop-loss: Reassess if price falls below $205.70 (50d MA breach already triggered — monitor for further breakdown toward $181.77 / -8%)
+Take-profit: Consider taking profit above $300 (analyst mean target)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $987.90
+Total P&L:      -$57.10 (-5.46%)
+Macro regime:   Risk-off tilt — new Fed Chair Warsh hawkish, no more forward guidance, PCE revised up to 3.6%, market pricing rate HIKES not cuts.
+
+📅 THIS WEEK AHEAD
+- Thu 2 Jul — June NFP (moved up from Fri due to Jul 3 holiday); wage inflation the key print
+- Fri 3 Jul — US markets closed (Independence Day observed)
+- Mid-Jul — June CPI release; hot print would accelerate Fed hike odds
+
+✅ No action needed today
