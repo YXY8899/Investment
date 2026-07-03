@@ -1,7 +1,8 @@
 {
   "schema_version": 1,
   "holdings": [
-    { "ticker": "NVDA", "shares": 5, "avg_cost": 209.00, "bought": "2026-06-05" }
+    { "ticker": "NVDA", "shares": 5, "avg_cost": 209.00, "bought": "2026-06-05" },
+    { "ticker": "IONQ", "shares": 30, "avg_cost": 54.00, "bought": "2026-06-24" }
   ],
   "currency": "USD",
   "risk_tolerance": "moderate"
