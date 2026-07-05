@@ -1,0 +1,48 @@
+📊 DAILY PORTFOLIO REPORT
+Sun 5 Jul 2026 — Pre-market (Mon 6 Jul session)
+Data: 2 Jul close (3 Jul Independence Day observed)
+
+──────────────────────
+
+🔵 NVDA — HOLD  [Medium Confidence]
+Price: $194.83  |  Your cost: $209.00
+P&L: -$70.85 (-6.8%)  |  Held: 30 days
+Analyst: Strong Buy (61 analysts) | Target: $301.62 → +54.8% upside
+https://www.marketbeat.com/stocks/NASDAQ/NVDA/forecast/
+Moat: CUDA + AI-training dominance; deep software stack
+Trend: Below MA50 ($209.80), just above MA200 ($191.03); RSI 41 neutral; MACD bearish; 1mo -12.6%
+News: Nvidia hires Microsoft veteran Nicholas Parker as EVP Worldwide Field Ops — CNBC, 2 Jul
+https://www.cnbc.com/quotes/NVDA
+Why: Consensus Strong Buy and CUDA moat intact; price holds above MA200 with RSI neutral. Recent softness looks like AI-cap rotation after a strong run, not a thesis break — no earnings miss or downgrade.
+Stop-loss: Reassess if price falls below $179
+Take-profit: Consider taking profit above $302 (analyst mean target)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [Medium Confidence]
+Price: $49.12  |  Your cost: $54.00
+P&L: -$146.40 (-9.0%)  |  Held: 11 days
+Analyst: Buy (12 analysts) | Target: $71.25 → +45.1% upside
+https://www.marketbeat.com/stocks/NYSE/IONQ/forecast/
+Moat: Trapped-ion quantum lead, expanding US gov contracts, quantum-network build-out
+Trend: Below MA50 ($54.96) and just under MA200 ($49.59); RSI 41 neutral; MACD bearish; 1mo -31.2%
+News: Q1 2026 revenue +755% YoY; FY guide raised to $260–270M — IonQ IR, May
+https://investors.ionq.com
+Why: Q1 blowout and June exec orders backing quantum computing reinforce thesis; the -31% drawdown reflects post-run profit-taking, not deteriorating fundamentals. Buy consensus and 45% upside support holding.
+Stop-loss: Reassess if price falls below $45
+Take-profit: Consider taking profit above $71 (analyst mean target)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,447.75
+Total P&L:      -$217.25 (-8.2%)
+⚠️ Thematic concentration: both holdings sit in the AI/quantum-compute theme — vulnerable to a single sector-rotation event
+Macro regime: Risk-on but inflation-cautious. Fed on hold at 3.50–3.75%; May CPI 4.2% YoY keeps cuts off the table. New Chair Warsh emphasising price stability.
+
+📅 THIS WEEK AHEAD
+- Jun FOMC minutes (Wed 8 Jul)
+- Q2 earnings season kicks off (Delta ~10 Jul)
+- Energy prices — pressure point for the 15 Jul CPI print
+
+✅ No action needed today
