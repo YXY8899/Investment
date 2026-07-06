@@ -1,0 +1,47 @@
+📊 DAILY PORTFOLIO REPORT
+Mon 6 Jul 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [Medium Confidence]
+Price: $194.83  |  Your cost: $209.00
+P&L: -$70.85 (-6.78%)  |  Held: 31 days
+Analyst: Strong Buy (73B/1H/0S, 74 analysts) | Target: $303 → +55.5% upside
+https://stockanalysis.com/stocks/nvda/forecast/
+Moat: CUDA + Blackwell/Rubin lock-in for AI training
+Trend: Below 50MA ($209.80), above 200MA ($191.03), RSI 41, MACD bearish, volume normal
+News: Vera Rubin first samples shipped this week; Blackwell sold out through mid-2026 (TradingKey, Jul 2026, Medium impact)
+https://intellectia.ai/blog/nvidia-stock-analysis-july-2026
+Why: Price consolidated -12.6% over the last month on macro tape, but thesis intact — $500B Blackwell+Rubin revenue visibility, Rubin pulled forward. 6/8 hold signals, 0 sell triggers.
+Stop-loss: Reassess if price falls below $205.60 (already testing 50MA break)
+Take-profit: Consider taking profit above $303 (analyst mean target)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [Low Confidence]
+Price: $49.12  |  Your cost: $54.00
+P&L: -$146.40 (-9.04%)  |  Held: 12 days
+Analyst: Strong Buy (12 analysts) | Target: $69.31 → +41.1% upside
+https://public.com/stocks/ionq/forecast-price-target
+Moat: Trapped-ion quantum leader; cloud reach via Microsoft, Google, AWS
+Trend: Below 50MA ($54.96), just below 200MA ($49.59), RSI 41, MACD bearish, volume low
+News: Stock -26.1% in June on profit-taking (no negative catalyst); Northland lifted target to $70 on Jun 22 (Motley Fool, Jul 3, Medium impact)
+https://www.fool.com/investing/2026/07/03/why-ionq-stock-plummeted-261-in-june/
+Why: Q1 revenue +755% YoY, 2026 guide raised to $260-270M, SkyWater deal advancing. June selloff was mean-reversion after May run-up, not a thesis break. Only 4/8 hold signals — fundamentals intact but technicals weak, so low conviction.
+Stop-loss: Reassess if price falls below $53.86 (already broken below 50MA)
+Take-profit: Consider taking profit above $69.31 (analyst mean target)
+⚠️ Earnings: 4 Aug 2026 (29 days)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,447.75
+Total P&L:      -$217.25 (-8.15%)
+Macro regime:   Risk-off tilt — Fed on pause at 3.50-3.75%, hawkish June dot plot, ~80% odds of zero cuts in 2026, sticky 4.2% CPI
+
+📅 THIS WEEK AHEAD
+- Wed Jul 8: FOMC June meeting minutes (first under Chair Warsh)
+- Q2 bank earnings season kicks off next week (JPM, WFC, C, BAC)
+- July CPI print later this month — key for reopening rate-cut door
+
+✅ No action needed today — both holdings HOLD, but IONQ is on Low-Confidence watch into 4 Aug earnings.
