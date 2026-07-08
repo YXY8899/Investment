@@ -1,0 +1,47 @@
+📊 DAILY PORTFOLIO REPORT
+Wed 8 Jul 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [Medium Confidence]
+Price: $196.93  |  Your cost: $209.00
+P&L: -$60.35 (-5.8%)  |  Held: 33 days
+Analyst: Strong Buy (61 analysts) | Target: $309 → +56.9% upside
+https://public.com/stocks/nvda/forecast-price-target
+Moat: CUDA + Blackwell dominance in AI training/inference
+Trend: Below 50MA $210, above 200MA $191, RSI 33 (near oversold), MACD bearish, volume normal
+News: Nvidia refutes Kyber NVL144 2028 delay claim; Goldman calls 21.7x fwd PE "compelling" — TradingKey, Jul 7
+https://www.tradingkey.com/analysis/stocks/us-stocks/262015350-nvidia-nvda-stock-forecast-july-2026-kyber-denial-goldman-tradingkey
+Why: -10% one-month drawdown reflects sector rotation, not thesis damage — Blackwell sold out through mid-2026, new AI-factory revenue-share model with Sharon AI (40k GB300 GPUs) and Firmus (Indonesia 360MW campus), fwd PE now near S&P mean. Oversold RSI plus Strong Buy consensus argue for hold through the drawdown.
+Stop-loss: Reassess if price falls below $205 (note: already below 50-day MA — watch for further downside)
+Take-profit: Consider taking profit above $309 (analyst mean target)
+⚠️ Earnings: Aug 26 (49 days)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [Low Confidence]
+Price: $45.36  |  Your cost: $54.00
+P&L: -$259.20 (-16.0%)  |  Held: 14 days
+Analyst: Buy (13 analysts) | Target: $68.63 → +51.3% upside
+https://public.com/stocks/ionq/forecast-price-target
+Moat: Trapped-ion quantum computing leader; first-mover 256-qubit commercial systems
+Trend: Below 50MA $55 and 200MA $49, RSI 25.5 (deeply oversold), MACD bearish, volume subdued
+News: IonQ sold first 256-qubit Tempo system to University of Cambridge; RPO up 554% YoY to $470M — The Quantum Insider, May 6
+https://thequantuminsider.com/2026/05/06/ionq-reports-64-7-million-q1-2026-revenue-fueled-by-quantum-contracts-and-system-sales/
+Why: -16% 5-day drop triggers S6 sell signal, but fundamentals moved the other way — Q1 revenue +755% YoY at $64.7M, FY26 guide raised to $260-270M, Horizon Quantum added a second 6th-gen 256-qubit order. RSI 25.5 typically marks reversal zone; hold on judgment despite low conviction and speculative multiple.
+Stop-loss: Reassess if price falls below $54 (note: already below 50-day MA — position is technically broken)
+Take-profit: Consider taking profit above $68.63 (analyst mean target)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,345.45
+Total P&L:      -$319.55 (-12.0%)
+Macro regime:   Cautious/mixed — Fed funds at 3.50-3.75%, hawkish June dot plot (9 officials pencilling one more hike), Chair Warsh's data-dependence pivot has raised policy uncertainty; both holdings AI/compute-thematic, size exposure to any AI capex pause.
+
+📅 THIS WEEK AHEAD
+- FOMC June Minutes — Wed 8 Jul (today)
+- PepsiCo Q2 earnings — Thu 9 Jul (consumer bellwether)
+- Delta Air Lines Q2 earnings — Fri 10 Jul (travel demand)
+
+✅ No action needed today — but both positions are technically broken; monitor for further downside.
