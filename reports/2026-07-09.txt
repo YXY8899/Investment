@@ -1,0 +1,48 @@
+📊 DAILY PORTFOLIO REPORT
+Thu 9 Jul 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $204.12  |  Your cost: $209.00
+P&L: -$24.40 (-2.3%)  |  Held: 34 days
+Analyst: Strong Buy (75 analysts) | Target: $302 → +47.9% upside
+https://www.tipranks.com/stocks/nvda/forecast
+Moat: CUDA + Blackwell/Kyber lock-in on AI training and hyperscaler capex
+Trend: Above 200MA ($191) / below 50MA ($210), RSI 46.7 neutral, MACD bullish crossover forming, +3.7% on the day
+News: China moving to allow H200 chip purchases; Goldman flags 21.7x fwd P/E as "compelling" — Benzinga, 8 Jul
+https://www.benzinga.com/markets/tech/26/07/60337946/what-is-going-on-with-nvidia-stock-on-wednesday
+Why: Strong Buy consensus with ~48% upside, Q1 FY27 revenue +85% YoY at $81.6B, and fundamentals intact. Zero sell signals triggered; positive China H200 catalyst and Kyber schedule denial support the bullish stance.
+Stop-loss: Reassess if price falls below $187.79
+Take-profit: Consider taking profit above $302 (analyst mean target)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [Low Confidence]
+Price: $45.08  |  Your cost: $54.00
+P&L: -$267.60 (-16.5%)  |  Held: 15 days
+Analyst: Strong Buy (13 analysts) | Target: $67 → +48.6% upside
+https://www.marketbeat.com/stocks/NYSE/IONQ/forecast/
+Moat: Trapped-ion quantum leader but pressured by IBM's ramp in quantum investment
+Trend: Below 50MA ($55) and 200MA ($49), RSI 30.0 (oversold), MACD bearish (-2.68 vs signal -1.39), 5-day -15.4%
+News: Insider selling by multiple execs + IBM competitive push weighs on shares; -31% over 30 days — TipRanks, 5 Jul
+https://www.tipranks.com/news/weekend-updates/ionq-stock-slides-as-quantum-hype-meets-reality
+Why: S6 sell signal triggered (>8% 5-day drop) but selloff is valuation compression + insider sales, not thesis break — Q1 revenue +755% YoY, FY26 guidance raised to $260-270M, and oversold RSI supports a bounce. Hold with tight risk control.
+Stop-loss: Reassess if price falls below $41.47
+Take-profit: Consider taking profit above $67 (analyst mean target)
+⚠️ Earnings: Aug 12, 2026 (34 days)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,373.00
+Total P&L:      -$292.00 (-11.0%)
+Macro regime:   Cautious risk-on — Fed (Warsh) hawkishly on hold at 3.50-3.75%, CPI at 4.2% YoY, but hyperscaler AI capex ($400-425B in 2026) insulates mega-cap tech.
+
+📅 THIS WEEK AHEAD
+- Tue 14 Jul: June CPI (critical for Fed path)
+- Wed 15 Jul: June PPI
+- Thu 16 Jul: June Retail Sales
+- Fri 17 Jul: UMich Consumer Sentiment (July prelim)
+
+✅ No action needed today
