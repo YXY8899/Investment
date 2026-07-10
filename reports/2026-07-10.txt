@@ -1,0 +1,47 @@
+📊 DAILY PORTFOLIO REPORT
+Fri 10 Jul 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $202.78  |  Your cost: $209.00
+P&L: -$31.10 (-3.0%)  |  Held: 35 days
+Analyst: Strong Buy (61 analysts) | Target: $301.62 → +48.7% upside
+https://stockanalysis.com/stocks/nvda/forecast/
+Moat: CUDA + Blackwell/Rubin AI-training dominance
+Trend: Just under 50d MA ($209), above 200d MA ($192); RSI 48 neutral; MACD bullish crossover forming; +2.6% over 5d
+News: Rubin Ultra Kyber rack slips to 2028 — mfg delay opens door for AMD/Google (CNBC, Jul 5)
+https://www.cnbc.com/quotes/NVDA
+Why: Q1 FY27 blowout ($81.6B rev, $80B buyback, dividend hike) thesis intact. Consolidating between 50d/200d with MACD histogram turning positive. Tape still overwhelmingly bullish with 48% upside to mean target.
+Stop-loss: Reassess if price falls below $187 (8% drawdown floor)
+Take-profit: Consider taking profit above $302 (analyst mean target)
+
+──────────────────────
+
+🔴 IONQ — HOLD  [Medium Confidence]
+Price: $44.77  |  Your cost: $54.00
+P&L: -$276.90 (-17.1%)  |  Held: 16 days
+Analyst: Strong Buy (13 analysts) | Target: $69.31 → +54.8% upside
+https://public.com/stocks/ionq/forecast-price-target
+Moat: Trapped-ion quantum leader; 256-qubit Tempo sale to Cambridge marks commercial shift
+Trend: Below 50d MA ($55) and 200d MA ($49); RSI 31 near oversold; MACD bearish crossover; -12.9% over 5d, -28.7% over 1 mo
+News: Quantum sector selloff Jul 7 — IONQ -7.2%, RGTI -7.9%, QBTS -6.7% on AI/chip weakness + valuation fears (TipRanks, Jul 7)
+https://www.tipranks.com/news/quantum-stocks-slide-why-ionq-rgti-and-qbts-fell-on-july-7
+Why: Drawdown is sector-wide contagion, not company-specific — Q1 revenue +755% YoY, RPO $470M +554% YoY. RSI 31 hints at bounce; MACD confirms downtrend, so conviction is trimmed. Analysts still see 55% upside; thesis intact but position sizing needs discipline.
+Stop-loss: Reassess if price falls below $41 (8% drawdown floor)
+Take-profit: Consider taking profit above $69 (analyst mean target)
+⚠️ Earnings: Aug 12, 2026 (33 days)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,357.00
+Total P&L:      -$308.00 (-11.6%)
+Macro regime:   Risk-off tilt — Fed on hold at 3.50-3.75%, CPI stuck at 4.2% YoY, H2 rate cuts unlikely; elevated yields pressuring high-beta growth/quantum names
+
+📅 THIS WEEK AHEAD
+- June CPI print (Tue Jul 14) — primary catalyst for yield direction
+- Big-bank Q2 earnings kick off: JPM, WFC, C (week of Jul 13)
+- US retail sales (Jul 16) — consumer health check
+
+✅ No action needed today
