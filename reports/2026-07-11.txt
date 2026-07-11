@@ -1,0 +1,50 @@
+📊 DAILY PORTFOLIO REPORT
+Sat 11 Jul 2026 — Weekend preview (Fri 10 Jul close)
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $210.96  |  Your cost: $209.00
+P&L: +$9.80 (+0.94%)  |  Held: 36 days
+Analyst: Strong Buy (38 analysts) | Target: $302 → +43.2% upside
+https://stockanalysis.com/stocks/nvda/forecast/
+Moat: CUDA + AI training monopoly, Blackwell / Rubin roadmap intact
+Trend: Above 50MA ($209) and 200MA ($192), RSI 57, MACD bullish crossover, +8.3% past 5 days
+News: NVIDIA denies Kyber NVL144 delay to 2028; DeepSeek reported building own chip (Reuters, Jul 7-8) — stock initially -2% but recovered
+https://www.tradingkey.com/analysis/stocks/us-stocks/262018250-nvidia-nvda-stock-forecast-july-2026-deepseek-chip-long-setup-tradingkey
+Why: Q1 FY27 revenue $81.6B (+85% YoY), Q2 guide $91B, gross margin 75%. Goldman flags fwd P/E of 21.7x as attractive vs 5-yr avg 72x. All 8 hold signals fire — trend, momentum, fundamentals and moat all confirm.
+Stop-loss: Reassess if price falls below $205
+Take-profit: Consider taking profit above $302 (analyst mean target)
+Earnings: Aug 26 (Q2 FY27) — 46 days out
+
+──────────────────────
+
+🟡 IONQ — HOLD  [Low Confidence]
+Price: $42.86  |  Your cost: $54.00
+P&L: -$334.20 (-20.6%)  |  Held: 17 days
+Analyst: Strong Buy | Target: $69.31 → +61.7% upside
+https://www.tipranks.com/news/3-quantum-computing-stocks-to-consider-in-july-2026-according-to-analysts
+Moat: Trapped-ion quantum pure-play; $470M backlog; Q1 revenue $64.7M (≈7x YoY)
+Trend: Below 50MA ($55) and 200MA ($49), RSI 33.7 (near oversold), MACD bearish, -12.7% past 5 days, -22.8% past month
+News: Quantum sector sell-off — IONQ re-benchmarking vs $17-19B market cap ahead of Aug earnings
+https://247wallst.com/investing/2026/07/06/3-quantum-computing-stocks-to-buy-in-july/
+Why: Sell signal S6 (>8% drop in 5 days) triggers, framework says SELL Low Conf. Judgement override to HOLD Low: RSI 33.7 is near oversold, analyst Strong Buy with +61% upside, Q1 revenue beat + $470M backlog intact, Aug 12 earnings is a near-term catalyst either way. Selling at drawdown low locks in losses at a technically stretched point.
+Stop-loss: Reassess if price falls below $39.43 (8% floor; 50MA is above current so not usable as stop)
+Take-profit: Consider taking profit above $69.31 (analyst mean target)
+Earnings: Aug 12 — 32 days out (near-term catalyst)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,340.60
+Total P&L:      -$324.40 (-12.2%)
+Sector mix: NVDA (Semiconductors) + IONQ (Quantum) — different sectors, no concentration flag
+Macro regime: Risk-off tilt — May CPI 4.2% YoY (highest since Apr 2023), market prices 76-82% Fed hold at Jul 28-29 FOMC, some Sep hike odds building. High-multiple names remain rate-sensitive.
+
+📅 THIS WEEK AHEAD
+- Tue Jul 14: US CPI + Core CPI (June)
+- Wed Jul 15: US PPI (June); Fed Chair Warsh first Congressional testimony
+- Thu-Fri: Big-bank Q2 earnings — JPM, BAC, WFC, GS, C
+- Fri Jul 17: UMich July preliminary consumer sentiment
+
+✅ No SELL action today — both positions HOLD. IONQ on tight watch into Aug 12 earnings.
