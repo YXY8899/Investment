@@ -1,0 +1,47 @@
+📊 DAILY PORTFOLIO REPORT
+Mon 13 Jul 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $210.96  |  Your cost: $209.00
+P&L: +$9.80 (+0.9%)  |  Held: 38 days
+Analyst: Strong Buy (78 analysts) | Target: $302.73 → +43.5% upside
+https://stockanalysis.com/stocks/nvda/forecast/
+Moat: CUDA + AI-datacenter monopoly; H200 China licenses granted
+Trend: Above 50d MA ($209) and 200d MA ($192); RSI 50 neutral; MACD bullish; +8.3% wk
+News: NVDA refutes Kyber NVL144 delay; Goldman calls 21.7x fwd P/E compelling — 10 Jul 2026
+https://www.tradingkey.com/analysis/stocks/us-stocks/262015350-nvidia-nvda-stock-forecast-july-2026-kyber-denial-goldman-tradingkey
+Why: 8/8 hold signals — all MAs, RSI, MACD, consensus, upside, moat intact. Kyber-denial removes overhang; FY26 revenue $216B (+65%). No stress signals.
+Stop-loss: Reassess if price falls below $205.02
+Take-profit: Consider taking profit above $302.73 (analyst mean target)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [Low Confidence]
+Price: $42.86  |  Your cost: $54.00
+P&L: -$334.20 (-20.6%)  |  Held: 19 days
+Analyst: Strong Buy (13 analysts) | Target: $69.31 → +61.7% upside
+https://public.com/stocks/ionq/forecast-price-target
+Moat: Trapped-ion quantum lead; RPO $470M (+554% YoY); first 256-qubit Tempo sale to Cambridge
+Trend: BELOW 50d MA ($55) and 200d MA ($49); RSI 24 oversold; MACD bearish; -12.7% wk, -24.4% mo
+News: IONQ -7.1% on 7 Jul as IQM Quantum Nasdaq listing sparks sector-wide selloff — StockStory
+https://stockstory.org/us/stocks/nyse/ionq/news/why-up-down/why-ionq-ionq-stock-is-nosediving
+Why: Sell trigger S6 (-8% in 5d) counts half-weight — drop is sector-wide contagion, not IONQ-specific; company thesis intact (Cambridge win, RPO surge). Only 4/8 hold signals — MAs and momentum broken, but fundamentals + analyst view unchanged. Hold conviction is low; capitulation risk into Aug earnings.
+Stop-loss: 50d MA already broken; reassess if price falls below $39.43 (8% floor)
+Take-profit: Consider taking profit above $69.31 (analyst mean target)
+⚠️ Earnings: 12 Aug 2026 (30 days)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,340.60
+Total P&L:      -$324.40 (-12.2%)
+Macro regime:   Risk-mixed — Fed hawkish bias, CPI Tuesday; markets price potential Sep rate hike; earnings season kickoff
+
+📅 THIS WEEK AHEAD
+- Tue: US June CPI + Fed Chair Warsh congressional testimony
+- Tue-Thu: Big bank earnings (JPM, GS, WFC, BAC, C, MS)
+- Wed: US PPI; Thu: Retail sales, jobless claims
+
+🚨 Action needed: monitor IONQ — no sell trigger today, but thin margin
