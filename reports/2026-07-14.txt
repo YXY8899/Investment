@@ -1,0 +1,48 @@
+📊 DAILY PORTFOLIO REPORT
+Tue 14 Jul 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $203.53  |  Your cost: $209.00
+P&L: -$27.35 (-2.6%)  |  Held: 39 days
+Analyst: Strong Buy (61 analysts) | Target: $309 → +51.8% upside
+https://www.marketbeat.com/stocks/NASDAQ/NVDA/forecast/
+Moat: CUDA/Blackwell monopoly in AI training; Blackwell sold out through mid-2026
+Trend: Below 50d MA ($209), above 200d MA ($192); RSI 49.9 neutral; MACD bullish crossover (hist +1.21); 5d +4.1%, 1m +1.6%
+News: Q1 FY27 net income $58.3B (+210% YoY), Q2 guide $91B, $80B buyback + dividend raise — NVIDIA IR, May 2026
+https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2026
+Why: Zero sell signals fired; 7 of 8 hold signals intact. MACD flipped bullish this week and price is holding above 200d MA despite AI-trade wobble. Fundamentals dominant, valuation reasonable vs consensus target.
+Stop-loss: Reassess if price falls below $204.90
+Take-profit: Consider taking profit above $309 (analyst mean target)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [Low Confidence]
+Price: $38.88  |  Your cost: $54.00
+P&L: -$453.60 (-28.0%)  |  Held: 20 days
+Analyst: Strong Buy (13 analysts) | Target: $69 → +77.5% upside
+https://www.marketbeat.com/stocks/NYSE/IONQ/forecast/
+Moat: Trapped-ion quantum leader; Q1 2026 revenue +755% YoY to $64.7M
+Trend: Below 50d MA ($55) and 200d MA ($49); RSI 29.5 oversold; MACD bearish (hist -1.45); 5d -20.4%, 1m -31.3%; at 22% of 52w range
+News: Stock fell 8% Jul 13 on Pentagon contract-loss rumors + Strait of Hormuz risk-off; whole quantum sector sold off (D-Wave, Rigetti, QUBT also down 6%+) — 24/7 Wall St, Jul 13, 2026
+https://247wallst.com/investing/2026/07/13/ionq-tumbles-8-d-wave-rigetti-quantum-computing-drop-6-as-risk-off-ripple-effects-hit-speculative-quantum-stocks/
+Why: S6 triggered (>8% drop 5d), but drop is largely macro/sector-wide risk-off + unconfirmed rumor — not a company-specific thesis break. RSI oversold, revenue growth intact, earnings catalyst in 29 days. Hold with tight stop; do not add.
+Stop-loss: Reassess if price falls below $35.77
+Take-profit: Consider taking profit above $69 (analyst mean target)
+⚠️ Earnings: Aug 12, 2026 (29 days)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,184.05
+Total P&L:      -$480.95 (-18.1%)
+Cost basis:     $2,665.00
+Macro regime:   Risk-off — Strait of Hormuz conflict + oil spike + AI-trade angst; Fed hold expected but 65% odds of Sep hike being priced
+
+📅 THIS WEEK AHEAD
+- Jun CPI today Jul 14 8:30 ET (headline exp 3.9%, core 2.9%)
+- FOMC meeting Jul 28-29 (no SEP this cycle)
+- NVDA earnings Aug 26; IONQ earnings Aug 12
+
+🚨 Action needed: Monitor IONQ — stop at $35.77, one more leg lower could trigger sell
