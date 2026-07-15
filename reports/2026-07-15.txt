@@ -1,0 +1,52 @@
+📊 DAILY PORTFOLIO REPORT
+Wed 15 Jul 2026 — Pre-market (SGT)
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $211.80  |  Your cost: $209.00
+P&L: +$14.00 (+1.34%)  |  Held: 40 days
+Analyst: Strong Buy (61 analysts) | Target: $301.62 → +42.4% upside
+https://stockanalysis.com/stocks/nvda/forecast/
+Moat: CUDA + data center dominance (Data Center = ~90% of sales, +92% YoY)
+Trend: Above 50MA ($209.08) & 200MA ($191.80); RSI 45.4 neutral; MACD -1.47 vs signal -2.68 (bullish); +4.06% today on UAE export easing
+News: Trump admin eases UAE AI chip export controls; Goldman calls 21.7x fwd P/E "compelling" — TradingKey, 10 Jul 2026
+https://www.tradingkey.com/analysis/stocks/us-stocks/262024598-nvidia-nvda-stock-forecast-july-2026-uae-export-double-top-tradingkey
+Why: 8/8 hold signals — Q1 FY27 crushed with $81.6B revenue (+85% YoY), Blackwell "off the charts", $80B buyback authorized, Q2 guide $91B. Valuation (~22x fwd) below 5yr avg 72x with Strong Buy at 79 buys / 1 hold / 0 sell.
+Stop-loss: Reassess if price falls below $204.90
+Take-profit: Consider taking profit above $301.62 (analyst mean target)
+⚠️ Earnings: 26 Aug 2026 (42 days)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [Low Confidence]
+Price: $39.29  |  Your cost: $54.00
+P&L: -$441.30 (-27.24%)  |  Held: 21 days
+Analyst: Strong Buy (14 analysts: 11 Buy, 3 Hold) | Target: $71.32 → +81.5% upside
+https://stockanalysis.com/stocks/ionq/forecast/
+Moat: Trapped-ion quantum leader; first 256-qubit chip-based system shipped; sold in 30+ countries
+Trend: Below 50MA ($54.90) and 200MA ($48.69); RSI 17.5 deeply oversold; MACD -4.18 vs signal -2.74 (bearish); -13.4% over 5 days on sector-wide quantum valuation reset
+News: Quantum sector valuation reset — IONQ down 23% MoM despite 755% Q1 revenue growth — Yahoo/eciks, 13 Jul 2026
+https://eciks.org/13456-93768-ionq-stock-valuation-decline-quantum
+Why: Company-specific fundamentals intact (Q1 $64.7M rev +755% YoY, FY26 guide raised to $260–270M, +81% analyst upside), but chart is broken with RSI 17.5 and bearish MACD. Selloff is sector-wide reset (S6 half-weight), not company-specific — deep-oversold technicals suggest bounce risk into 12 Aug earnings.
+Stop-loss: Reassess if price falls below $53.80 (formula tripped — 50MA already broken; practical hard floor $36.15)
+Take-profit: Consider taking profit above $71.32 (analyst mean target)
+⚠️ Earnings: 12 Aug 2026 (28 days)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,237.70
+Total P&L:      -$427.30 (-16.03%)
+Cost basis:     $2,665.00
+Sector split:   NVDA Semiconductors | IONQ Quantum Computing — no concentration flag
+Macro regime:   Cautious risk-on — indexes near highs (S&P ~8,000) but Warsh Fed hawkish; markets now pricing 25bps hike as soon as Oct 2026 after May CPI +4.2% YoY (highest since Apr 2023)
+
+📅 THIS WEEK AHEAD
+- PPI release (15 Jul) — inflation follow-through after hot CPI
+- Big bank earnings: JPM, Citi, WFC — first look at credit quality
+- FOMC decision 28–29 Jul — no change expected but tone key
+- Q2 mega-cap tech earnings season ramps late July
+
+✅ No action needed today (both HOLD)
+Note: IONQ is a low-conviction hold — if Q2 print on 12 Aug disappoints, cut immediately.
