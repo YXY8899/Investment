@@ -1,0 +1,45 @@
+📊 DAILY PORTFOLIO REPORT
+Thu 16 Jul 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $212.50  |  Your cost: $209.00
+P&L: +$17.50 (+1.7%)  |  Held: 41 days
+Analyst: Buy (37/61 analysts) | Target: $301.62 → +41.9% upside
+https://stockanalysis.com/stocks/nvda/forecast/
+Moat: CUDA monopoly in AI training + Blackwell/Kyber cycle
+Trend: Above 50MA ($209.61) and 200MA ($192.14); RSI 57 neutral; MACD bullish cross; volume 0.76x avg
+News: NVDA refutes Kyber NVL144 delay claim; Goldman calls 21.7x fwd P/E "compelling" — TradingKey, Jul 7
+https://www.tradingkey.com/analysis/stocks/us-stocks/262015350-nvidia-nvda-stock-forecast-july-2026-kyber-denial-goldman-tradingkey
+Why: Trend intact across all timeframes with strong fundamentals — Q4 FY26 blowout ($81.1B rev vs $62.1B est) and Q2 FY27 guide of $91B keep the AI capex thesis alive. Fwd P/E of 21.7x reasonable vs 5yr avg 72x.
+Stop-loss: Reassess if price falls below $205.42
+Take-profit: Consider taking profit above $301.62 (analyst mean target)
+
+──────────────────────
+
+🔴 IONQ — SELL  [Medium Confidence]
+Price: $37.51  |  Your cost: $54.00
+P&L: -$494.70 (-30.5%)  |  Held: 22 days
+Analyst: Outperform (Northland target $70, Jun 22 — stale, pre-selloff)
+https://www.tikr.com/blog/ionq-fell-31-in-a-month-was-the-selloff-justified
+Moat: Trapped-ion quantum leadership — early-stage; valuation now questioned
+Trend: -31% below 50MA ($54.73), -23% below 200MA ($48.53); RSI 28.6 oversold; MACD deeply bearish and widening
+News: Short-seller report questions growth outlook + Pentagon contract-loss rumors; quantum sector -8% single session — 24/7 Wall St, Jul 13
+https://247wallst.com/investing/2026/07/13/ionq-tumbles-8-d-wave-rigetti-quantum-computing-drop-6-as-risk-off-ripple-effects-hit-speculative-quantum-stocks/
+Why: Trend broken across all MAs, MACD deepening negative, and company-specific catalysts (short-seller report + Pentagon rumors) now overlay the sector risk-off — hitting S4 + S6. -30% unrealised loss growing with earnings risk ahead.
+⚠️ Earnings: Aug 12 (27 days)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,187.80
+Total P&L:      -$477.20 (-17.9%)
+Macro regime:   Mixed — soft June CPI (3.5% headline, 2.6% core) leans dovish, but crude >$80 on Strait of Hormuz risk keeps tone risk-off; Fed on hold at 3.50–3.75%
+
+📅 THIS WEEK AHEAD
+- Jul 29 FOMC decision (no SEP; statement + presser drive tone)
+- Q2 mega-cap earnings ramp (banks first, then tech)
+- Middle East / Strait of Hormuz oil tension → energy volatility
+
+🚨 Action needed: IONQ
