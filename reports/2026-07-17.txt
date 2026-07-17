@@ -1,0 +1,49 @@
+📊 DAILY PORTFOLIO REPORT
+Fri 17 Jul 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $207.40  |  Your cost: $209.00
+P&L: -$8.00 (-0.8%)  |  Held: 42 days
+Analyst: Strong Buy (36 buys, 1 hold, 0 sells) | Target: $309.94 → +49.4% upside
+https://www.marketbeat.com/stocks/NASDAQ/NVDA/forecast/
+Moat: CUDA + Blackwell lock on AI training/inference silicon
+Trend: Just below 50-day MA ($209.79), +7.9% above 200-day MA ($192.29); RSI 52 neutral; MACD bullish momentum; volume normal
+News: Morgan Stanley reiterates Overweight, $288 PT (13 Jul) — cross-checks vs Kyber delay denial (7 Jul); Goldman calls 21.7x fwd P/E "compelling"
+https://www.gurufocus.com/news/8955458/morgan-stanley-upgrades-nvidia-nvda-with-a-288-target-price
+Why: 7 of 8 hold signals firing — above 200-day, neutral RSI, bullish MACD, Strong Buy consensus, 49% upside, moat intact. Only H1 slipped (1% below 50-day) as stock digests a flat YTD in a sector where AMD and memory names ran. No sell signals.
+Stop-loss: Reassess if price falls below $205.59
+Take-profit: Consider taking profit above $309.94 (analyst mean target)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [Low Confidence]
+Price: $35.10  |  Your cost: $54.00
+P&L: -$567.00 (-35.0%)  |  Held: 23 days
+Analyst: Strong Buy (11 buys, 3 holds, 0 sells) | Target: $69.31 → +97.5% upside
+https://www.tipranks.com/stocks/ionq/forecast
+Moat: Trapped-ion architecture with long coherence; pure-play quantum leader
+Trend: -35.6% below 50-day MA ($54.51), -27.4% below 200-day MA ($48.37); RSI 26.4 deeply oversold; MACD bearish; -21.6% in 5 days, -42.6% in 1 month
+News: Q1 revenue +755% YoY to $64.7M, backlog $470M (+554% YoY); Motley Fool "no-brainer buy" (15 Jul). Sell-off is macro/valuation reset across quantum, not company-specific
+https://www.ionq.com/news/ionq-announces-first-quarter-2026-financial-results
+Why: Only S6 fires and at half-weight (sector-wide contagion, not IONQ-specific). Business fundamentals intact — record revenue, massive backlog, Strong Buy consensus with +97% upside. Deeply oversold RSI often precedes reversal. Earnings 4 Aug are near-term catalyst.
+Stop-loss: Reassess if price falls below $32.29 (8% floor; 50-day MA far above current, formula not applicable)
+Take-profit: Consider taking profit above $69.31 (analyst mean target)
+⚠️ Earnings: 4 Aug 2026 (18 days)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,090.00
+Total P&L:      -$575.00 (-21.6%)
+Cost basis:     $2,665.00
+Sector mix: NVDA=Semiconductors, IONQ=Quantum Computing — no concentration flag
+Macro regime: Risk-off tilt. Fed held 3.50–3.75% in Jun with hawkish shift, market pricing potential Oct hike; elevated inflation + Middle East uncertainty pressuring high-beta tech.
+
+📅 THIS WEEK AHEAD
+- FOMC decision 29 Jul (2:00pm ET) — key risk event, hawkish hold expected
+- Big Tech earnings ramp: TSLA, GOOGL, META, MSFT late-July
+- Housing starts, existing home sales, jobless claims data
+
+✅ No action needed today — both HOLD
