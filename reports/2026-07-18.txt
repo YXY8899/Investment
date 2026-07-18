@@ -1,0 +1,48 @@
+📊 DAILY PORTFOLIO REPORT
+Sat 18 Jul 2026 — Weekend (Fri close snapshot)
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $202.81  |  Your cost: $209.00
+P&L: -$30.95 (-2.96%)  |  Held: 43 days
+Analyst: Strong Buy (37 analysts) | Target: $302 → +49% upside
+https://stockanalysis.com/stocks/nvda/forecast/
+Moat: CUDA + Blackwell lock — $1T confirmed AI chip pipeline through 2027
+Trend: Below 50-MA ($210), above 200-MA ($192). RSI 48 neutral. MACD bullish, no fresh cross. Vol normal.
+News: NVDA slips as AI hype meets legal/supply risks — Timothy Sykes, Jul 17
+https://www.timothysykes.com/news/nvidia-corporation-nvda-news-2026_07_17/
+Why: Consolidation phase after 14% pullback from 52w high. Fundamentals intact — Blackwell sold out, 85% revenue growth, $80B buyback. 50-MA break is a warning but 200-MA support and Strong Buy consensus argue for patience.
+Stop-loss: Reassess if price falls below $187
+Take-profit: Consider taking profit above $302 (analyst mean target)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [Low Confidence]
+Price: $34.78  |  Your cost: $54.00
+P&L: -$576.60 (-35.59%)  |  Held: 24 days
+Analyst: Strong Buy (13 analysts) | Target: $69 → +98% upside
+https://stockanalysis.com/stocks/ionq/forecast/
+Moat: Trapped-ion tech leader but thesis under attack — 755% Q1 revenue growth vs $310M+ projected losses
+Trend: Below 50-MA ($54) and 200-MA ($48) by 28-36%. RSI 26 deeply oversold. MACD deep negative. 7-week losing streak.
+News: Pentagon contract loss rumors + short-seller report on growth outlook — 24/7 Wall St / FX Leaders, Jul 13
+https://247wallst.com/investing/2026/07/13/ionq-tumbles-8-d-wave-rigetti-quantum-computing-drop-6-as-risk-off-ripple-effects-hit-speculative-quantum-stocks/
+Why: One SELL signal (S4 — thesis-changing news) and half-weight S6 (sector contagion). But RSI 26 is deep oversold, analysts have not cut targets, and Q2 earnings in 25 days is a binary catalyst. Selling at oversold into a known catalyst is poor tactics. Hold to earnings, then exit if Q2 disappoints.
+Stop-loss: Reassess if price falls below $32 (near 52w low $26)
+Take-profit: Consider taking profit above $69 (analyst mean target)
+⚠️ Earnings: Aug 12 (25 days)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,057.45
+Total P&L:      -$607.55 (-22.80%)
+Concentration:  Both positions in AI/frontier-compute theme (semis + quantum) — thematic overlap only, not same sector.
+Macro regime:   Cautious risk-off tilt — Fed on hold at 3.50–3.75%, CPI still 4.2% YoY, 9 FOMC officials still pencilling a hike; indexes near highs but breadth thin.
+
+📅 THIS WEEK AHEAD
+- Q2 earnings season peak (Mon–Fri) — mega-cap tech reports drive sentiment
+- FOMC decision Wed Jul 29 (11 days out) — positioning starts this week; no SEP, statement carries weight
+- Weekly claims Thu + flash PMIs Fri — inflation-vs-growth read
+
+🚨 Action needed: Watch IONQ — HOLD to Aug 12 earnings, then reassess. If price breaks $32 before earnings, exit and take the loss.
