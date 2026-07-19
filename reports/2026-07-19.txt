@@ -1,0 +1,49 @@
+📊 DAILY PORTFOLIO REPORT
+Sun 19 Jul 2026 — Pre-week
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $202.81  |  Your cost: $209.00
+P&L: -$30.95 (-3.0%)  |  Held: 44 days
+Analyst: Strong Buy (37 analysts) | Target: $302.73 → +49.3% upside
+https://www.marketbeat.com/stocks/NASDAQ/NVDA/forecast/
+Moat: CUDA + AI infrastructure monopoly; Blackwell shipping strong
+Trend: Just below 50DMA ($209.91), above 200DMA ($192.40); RSI 48 neutral; MACD bullish above signal
+News: China H20 chip export licenses reissued — key market reopens (FXLeaders, 15 Jul)
+https://www.fxleaders.com/news/2026/07/15/nvidia-nvda-stock-price-forecast-nvda-tests-212-as-ai-demand-and-china-shipments-lift-outlook/
+Why: Fundamentals intact — Q2 FY27 guide $91B (vs $87B est), P/E lowest in 7 years, Goldman calls valuation "compelling". Position slightly underwater but thesis strengthening with China market reopening and Kyber delay rumors denied.
+Stop-loss: Reassess if price falls below $186.59
+Take-profit: Consider taking profit above $302 (analyst mean target)
+⚠️ Earnings: Aug 26 2026 (38 days)
+
+──────────────────────
+
+🟡 IONQ — HOLD  [Low Confidence]  ← WATCH CLOSELY
+Price: $34.78  |  Your cost: $54.00
+P&L: -$576.60 (-35.6%)  |  Held: 25 days
+Analyst: Moderate Buy (17 analysts) | Target: $68.25 → +96.2% upside
+https://www.marketbeat.com/stocks/NYSE/IONQ/forecast/
+Moat: Trapped-ion quantum leader; Q1 revenue +755% YoY ($64.7M)
+Trend: Far below both MAs (-36% vs 50DMA, -28% vs 200DMA); RSI 26 deeply oversold; MACD bearish; 8 straight red days, 5d -18.9%
+News: Pentagon contract-loss rumors + short-seller report questioning growth thesis (24/7 Wall St, 13 Jul)
+https://247wallst.com/investing/2026/07/13/ionq-tumbles-8-d-wave-rigetti-quantum-computing-drop-6-as-risk-off-ripple-effects-hit-speculative-quantum-stocks/
+Why: 3 hold signals (buy consensus, 96% upside, RSI 26 capitulation zone) vs ~1.5 sell signals (thesis-relevant but unconfirmed rumors + broken momentum). New competitor IQM listed on Nasdaq adds pressure. Position is high-conviction risk; break below $30 support ends the hold thesis.
+Stop-loss: Reassess if price falls below $32.00 (news cites $30 as key support)
+Take-profit: Consider taking profit above $68 (analyst mean target)
+⚠️ Earnings: Aug 12 2026 (24 days)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,057.45
+Total P&L:      -$607.55 (-22.8%)
+⚠️ IONQ drawdown drives most of portfolio loss; consider tighter position sizing on speculative names
+Macro regime:   Restrictive — 4.2% CPI keeps Fed hawkish; risk-off tilt for speculative growth ahead of FOMC
+
+📅 THIS WEEK AHEAD
+- 29 Jul: FOMC decision + Powell press conference (no dot plot)
+- 29 Jul: MSFT + GOOGL earnings — big-tech tone-setters for AI capex
+- Early Aug: AMZN earnings; IONQ 12 Aug; NVDA 26 Aug
+
+🚨 Action needed: IONQ conviction is Low — monitor $30 support and 12 Aug earnings closely
