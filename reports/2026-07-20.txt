@@ -1,0 +1,48 @@
+📊 DAILY PORTFOLIO REPORT
+Mon 20 Jul 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $202.81  |  Your cost: $209.00
+P&L: -$30.95 (-3.0%)  |  Held: 45 days
+Analyst: Strong Buy (61 analysts) | Target: $304 → +49.9% upside
+https://www.marketbeat.com/stocks/NASDAQ/NVDA/forecast/
+Moat: CUDA monopoly in AI training; Blackwell/Kyber roadmap on track
+Trend: Above MA200 (+5.4%), just below MA50 (-3.4%); RSI 58.9 neutral; MACD bullish crossover (hist +1.18); -3.9% 5d, -4.5% 1mo
+News: NVIDIA refutes Kyber NVL144 delay rumor — Goldman calls 21.7x fwd P/E "compelling" vs 72x 5yr avg — TradingKey, Jul 2026
+https://www.tradingkey.com/analysis/stocks/us-stocks/262015350-nvidia-nvda-stock-forecast-july-2026-kyber-denial-goldman-tradingkey
+Why: 7 of 8 hold signals intact — consolidation after broad AI-chip weakness, but fundamentals unchanged and bullish MACD crossover suggests base forming near MA200. Zero sell signals triggered.
+Stop-loss: Reassess if price falls below $187 (8% drawdown floor; MA50 currently sits above spot)
+Take-profit: Consider taking profit above $304 (analyst mean target)
+⚠️ Earnings: Aug 26 (37 days)
+
+──────────────────────
+
+🔴 IONQ — SELL  [Medium Confidence]
+Price: $34.78  |  Your cost: $54.00
+P&L: -$576.60 (-35.6%)  |  Held: 26 days
+Analyst: Strong Buy (13 analysts) | Target: $68.79 → +97.8% upside
+https://www.marketbeat.com/stocks/NYSE/IONQ/forecast/
+Moat: Trapped-ion quantum lead; Q1 record rev $64.7M with raised FY guide — but thesis is under active attack
+Trend: Deeply oversold — RSI 20.3; MACD bearish (hist -1.44); 35.9% below MA50, 27.9% below MA200; -18.9% 5d, -43.2% 1mo; 8 consecutive red days
+News: Short-seller report + Pentagon contract loss rumors trigger risk-off cascade in quantum names — 24/7 Wall St, Jul 13 2026
+https://247wallst.com/investing/2026/07/13/ionq-tumbles-8-d-wave-rigetti-quantum-computing-drop-6-as-risk-off-ripple-effects-hit-speculative-quantum-stocks/
+Why: Two sell signals confirmed — S4 (Pentagon contract rumors + short report materially challenge investment thesis) and S6 (>8% 5-day drop with no recovery, driver is partly company-specific). With earnings in 15 days as a binary event and no technical support in sight, cutting loss is prudent under moderate-risk mandate.
+Stop-loss: N/A (SELL)
+Take-profit: N/A (SELL)
+⚠️ Earnings: Aug 4 (15 days)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,057.45
+Total P&L:      -$607.55 (-22.8%)
+Macro regime:   Risk-off — hawkish Warsh Fed pivot, ~50% of FOMC members now project a 2026 rate HIKE; Jun CPI softened to 3.5% but core PCE sticky ~3.3%.
+
+📅 THIS WEEK AHEAD
+- Mega-cap earnings kick off: TSLA, GOOGL, MSFT, META, AAPL through late July
+- Fed speakers refining post-June hawkish dot-plot messaging
+- Month-end Core PCE inflation print (Fed's preferred gauge)
+
+🚨 Action needed: IONQ
