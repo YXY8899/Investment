@@ -1,0 +1,48 @@
+📊 DAILY PORTFOLIO REPORT
+Tue 21 Jul 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $203.28  |  Your cost: $209.00
+P&L: -$28.60 (-2.7%)  |  Held: 46 days
+Analyst: Strong Buy (61 analysts) | Target: $301.62 → +48.4% upside
+https://stockanalysis.com/stocks/nvda/forecast/
+Moat: CUDA/AI-training dominance; 65% YoY revenue growth FY26
+Trend: Below 50-MA ($210), above 200-MA ($192); RSI 49 neutral; MACD just turned bullish (hist +0.83); volume 0.57x avg
+News: NVDA refuted Kyber NVL144 delay rumors, stock +1%; Goldman calls 21.7x fwd P/E "compelling" (Jul 7)
+https://www.tradingkey.com/analysis/stocks/us-stocks/262015350-nvidia-nvda-stock-forecast-july-2026-kyber-denial-goldman-tradingkey
+Why: 7 of 8 hold signals — fundamentals intact, Strong Buy with ~48% upside, MACD flipped bullish. Consolidating around 50-MA ahead of Aug 26 earnings, no reason to trim.
+Stop-loss: Reassess if price falls below $206
+Take-profit: Consider taking profit above $302 (analyst mean target)
+
+──────────────────────
+
+🔴 IONQ — HOLD  [Low Confidence]
+Price: $34.24  |  Your cost: $54.00
+P&L: -$592.80 (-36.6%)  |  Held: 27 days
+Analyst: Strong Buy (13 analysts) | Target: $69.88 → +104% upside
+https://www.marketbeat.com/stocks/NYSE/IONQ/forecast/
+Moat: Trapped-ion quantum leader; Q1 rev +755% YoY to $64.7M; $3.1B cash pile
+Trend: BROKEN — 36% below 50-MA, 29% below 200-MA; RSI 25.5 oversold; MACD deeply bearish; -11.9% in 5d, -38.9% MTD
+News: Wolfpack short report alleges lost Pentagon contracts ($54.6M "revenue black hole"); IONQ calls claims "false, misleading, unsubstantiated" (DCD, Jul 13)
+https://www.datacenterdynamics.com/en/news/ionq-disputes-claims-from-short-seller-that-lost-government-contracts-have-left-546m-black-hole-in-companys-revenue/
+Why: Only 1 clear sell trigger (S6: -12% in 5d) and 3 hold criteria pass. Extreme oversold + Strong Buy consensus + Q2 earnings catalyst in 15 days argues against selling into panic. Thesis is under review pending Aug 5 print.
+Stop-loss: Reassess if price falls below $31.50 (8% floor; 50-MA stop already violated)
+Take-profit: Consider taking profit above $69.88 (analyst mean target)
+⚠️ Earnings: Aug 5, 2026 (15 days)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,043.60
+Total P&L:      -$621.40 (-23.3%)
+⚠️ Concentration: NVDA + IONQ both high-beta tech (~100% portfolio); IONQ drawdown dominates losses
+Macro regime:   Cautious — Fed on hold at 3.50-3.75% (89% odds), CPI sticky at +4.2% YoY; high-multiple/quantum names under valuation pressure
+
+📅 THIS WEEK AHEAD
+- FOMC decision Wed Jul 29 (hold expected, non-SEP meeting)
+- Mega-cap tech earnings kicking off (MSFT/META/GOOGL late Jul)
+- IONQ Q2 earnings Aug 5 (key catalyst — 15 days)
+
+✅ No action needed today; monitor IONQ into Aug 5 earnings
