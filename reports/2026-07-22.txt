@@ -1,0 +1,49 @@
+📊 DAILY PORTFOLIO REPORT
+Wed 22 Jul 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $207.29  |  Your cost: $209.00
+P&L: -$8.55 (-0.8%)  |  Held: 47 days
+Analyst: Strong Buy (68 analysts) | Target: $302.73 → +46.0% upside
+https://finance.yahoo.com/quote/NVDA/analysis/
+Moat: CUDA monopoly in AI training; $80B buyback authorised; H20 China licenses just reopened
+Trend: Above 200d MA ($192.58), just below 50d ($209.74); RSI 52.2 (neutral); MACD bullish crossover (hist +0.83); volume normal
+News: Washington reissuing H20 China export licenses reopens a key market — CNBC/Reuters, 21 Jul
+https://www.cnbc.com/quotes/NVDA
+Why: Q1 FY27 revenue +85% YoY to $81.6B with $91B Q2 guide; forward PE 22.7x flagged as compelling by Goldman. 7/8 hold signals — trend intact, thesis reinforced by China reopen and buyback.
+Stop-loss: Reassess if price falls below $205.55
+Take-profit: Consider taking profit above $302.73 (analyst mean target)
+⚠️ Earnings: 26 Aug 2026 (35 days)
+
+──────────────────────
+
+🔴 IONQ — SELL  [Medium Confidence]
+Price: $35.51  |  Your cost: $54.00
+P&L: -$554.70 (-34.2%)  |  Held: 28 days
+Analyst: Strong Buy (13 analysts) | Target: $68.79 → +93.7% upside
+https://stockanalysis.com/stocks/ionq/forecast/
+Moat: Trapped-ion quantum leader, Q1 revenue +755% YoY to $64.7M — but moat under pressure from new Nasdaq-listed rival IQM
+Trend: Below both 50d ($53.64) and 200d ($47.95) MAs; RSI 29.1 (oversold); MACD deeply bearish (hist -1.07); -9.6% in 5d, -37% in 1m; -58% off 52w high
+News: Short-seller report questioning Pentagon contract funding drove 8-day losing streak, -20% cumulative — StockStory/Trefis, 13 Jul
+https://finance.yahoo.com/markets/stocks/articles/why-ionq-ionq-stock-nosediving-201752048.html
+Why: High-impact negative news (short-seller thesis + Pentagon contract risk) materially changes the investment thesis; S4 + S6 sell signals triggered; earnings in ~2 weeks add binary event risk on top of a broken chart. Cut the speculative position before results.
+Stop-loss: N/A — recommending exit at market
+Take-profit: N/A — recommending exit at market
+⚠️ Earnings: ~4–12 Aug 2026 (13–21 days)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,101.75
+Total cost:     $2,665.00
+Total P&L:      -$563.25 (-21.1%)
+Macro regime:   Mixed — soft June CPI collapsed rate-hike odds from 40%+ to <17%; Warsh-led Fed at 28-29 Jul FOMC in focus; AI momentum offset by semiconductor-index bear-market skepticism on AI monetisation
+
+📅 THIS WEEK AHEAD
+- FOMC 28-29 Jul — watching for softening of the June hawkish dot plot
+- Q2 mega-cap earnings accelerating into next week
+- Labor market cooling (June NFP 57K) — Aug NFP due early next month
+
+🚨 Action needed: IONQ (sell)
