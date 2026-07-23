@@ -1,0 +1,48 @@
+📊 DAILY PORTFOLIO REPORT
+Thu 23 Jul 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $212.06  |  Your cost: $209.00
+P&L: +$15.30 (+1.5%)  |  Held: 48 days
+Analyst: Strong Buy (61 analysts) | Target: $302.83 → +42.8% upside
+https://stockanalysis.com/stocks/nvda/forecast/
+Moat: CUDA + Blackwell monopoly in AI training compute
+Trend: Above 50d MA ($209.68) and 200d MA ($192.69); RSI 56 neutral; MACD bullish (hist +1.10); flat 1d, -0.2% 5d, +1.6% 1m
+News: BofA calls NVDA a "Unique, Durable Growth Franchise"; Wistron ties into $500B US manufacturing push; H20 China licenses reopened (Jul 21-22)
+https://www.fxleaders.com/news/2026/07/15/nvidia-nvda-stock-price-forecast-nvda-tests-212-as-ai-demand-and-china-shipments-lift-outlook/
+Why: All 8 hold signals check — trend intact, valuation reasonable (Goldman calls fwd P/E 21.7x "compelling"), Q2 FY26 blew out at +56% YoY revenue with 72.4% GM. Consolidating near 50d MA — no reason to trim.
+Stop-loss: Reassess if price falls below $205.49
+Take-profit: Consider taking profit above $302.83 (analyst mean target)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [Low Confidence]
+Price: $34.68  |  Your cost: $54.00
+P&L: -$579.60 (-35.8%)  |  Held: 29 days
+Analyst: Strong Buy (13 analysts) | Target: $68.79 → +98.4% upside
+https://stockanalysis.com/stocks/ionq/forecast/
+Moat: Trapped-ion qubit lead + $3.1B cash; but pre-commercial industry
+Trend: Below 50d MA ($53.35) and 200d MA ($47.77); RSI 28 oversold; MACD bearish (hist -0.87); -7.5% 5d, -40.5% 1m; 59% off 52w high
+News: Pentagon contract loss rumors (Jul 13) drove drop below $40; SkyWater $1.8B deal under antitrust review; BofA notes sector still lacks fault-tolerant hardware
+https://www.fxleaders.com/news/2026/07/13/ionq-stock-dives-below-40-on-pentagon-contract-loss-rumors-30-support-comes-into-focus/
+Why: 0 sell triggers fired (5d drop just under -8%, no confirmed thesis break) but only 3 hold signals hold (analyst rating, upside, fundamentals). Q1 revenue +755% and full-year guide raised to $260-270M — story intact. Hold through earnings; do not add.
+Stop-loss: Reassess if price falls below $31.91
+Take-profit: Consider taking profit above $68.79 (analyst mean target)
+⚠️ Earnings: Aug 12, 2026 (20 days)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,100.70
+Total P&L:      -$564.30 (-21.2%)
+Cost basis:     $2,665.00
+Macro regime:   Mixed — Fed on hold at 3.50-3.75%, Chair Warsh dropped forward guidance; sticky 4.2% CPI keeps hawkish risk alive; AI leadership rotating with defensives
+
+📅 THIS WEEK AHEAD
+- FOMC decision Wed Jul 29 (rate hike risk priced in by some)
+- Powell-era guidance removed → high sensitivity to any Fed speak
+- Aug 12 CPI + IONQ earnings same day
+
+✅ No action needed today
