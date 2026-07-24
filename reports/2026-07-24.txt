@@ -1,0 +1,47 @@
+📊 DAILY PORTFOLIO REPORT
+Fri 24 Jul 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $208.76  |  Your cost: $209.00
+P&L: -$1.20 (-0.11%)  |  Held: 49 days
+Analyst: Strong Buy (61 analysts) | Target: $302.83 → +45.1% upside
+https://stockanalysis.com/stocks/nvda/forecast/
+Moat: CUDA + AI infrastructure monopoly; Blackwell/Rubin roadmap intact
+Trend: Fractionally below 50MA ($209.46), well above 200MA ($192.80); RSI 62 neutral; MACD bullish; volume normal
+News: Chinese CEO publicly outlined CUDA-moat bear case — 24/7 Wall St, Jul 23
+https://247wallst.com/investing/2026/07/23/a-chinese-ceo-just-outlined-the-bear-case-for-nvidia-it-should-terrify-owners-of-the-stock/
+Why: Thesis intact — Strong Buy consensus, +45% upside, MACD bullish, Wistron Texas plant + new cloud partnerships add tailwinds. CUDA bear case is narrative, not a hard catalyst.
+Stop-loss: Reassess if price falls below $205.27
+Take-profit: Consider taking profit above $302.83 (analyst mean target)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [Low Confidence]
+Price: $34.07  |  Your cost: $54.00
+P&L: -$597.90 (-36.9%)  |  Held: 30 days
+Analyst: Strong Buy (range $30–$100) | Target: $69.31 → +103.4% upside
+https://www.tipranks.com/stocks/ionq/forecast
+Moat: Quantum pure-play scale leader; 256-qubit Tempo sold to Cambridge; ~$493M cash + pending SkyWater deal
+Trend: Deep below 50MA ($52.89) and 200MA ($47.58); RSI 9.1 EXTREMELY oversold; MACD bearish; -41% in 30 days
+News: Sector-wide quantum de-rating — IQM Nasdaq listing + valuation compression, 24/7 Wall St, Jul 13
+https://247wallst.com/investing/2026/07/13/ionq-tumbles-8-d-wave-rigetti-quantum-computing-drop-6-as-risk-off-ripple-effects-hit-speculative-quantum-stocks/
+Why: Company fundamentals intact (Q1 revenue +755% YoY, RPO +554%, record quarter, raised guide) but sector-wide de-rating swamped the stock. RSI 9 signals mean-reversion potential; Aug 5 earnings is the key catalyst.
+Stop-loss: Reassess if price falls below $31.34 (8% floor; 50MA has flipped to resistance)
+Take-profit: Consider taking profit above $69.31 (analyst mean target)
+⚠️ Earnings: Aug 5, 2026 (12 days)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,065.90
+Total P&L:      -$599.10 (-22.5%)
+Macro regime:   Risk-off — Warsh Fed hawkish pivot, ~28% odds of hike at Jul 29 FOMC, oil >$80 on US-Iran tensions, semis ETF -10% recently.
+
+📅 THIS WEEK AHEAD
+- Today (Jul 24): 10% blanket tariff scheduled expiry — inflation/policy risk
+- Jul 29: FOMC decision — first live meeting under Warsh; hike odds rising
+- Aug 5: IONQ Q2 earnings — critical catalyst for position
+
+🚨 Action needed: None (both HOLD); IONQ warrants close monitoring into Aug 5 earnings.
