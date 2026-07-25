@@ -1,0 +1,48 @@
+📊 DAILY PORTFOLIO REPORT
+Sat 25 Jul 2026 — Weekend read (Fri 24 Jul close data)
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $206.84  |  Your cost: $209.00
+P&L: -$10.80 (-1.0%)  |  Held: 50 days
+Analyst: Strong Buy (61 analysts) | Target: $302.83 → +46.4% upside
+https://stockanalysis.com/stocks/nvda/forecast/
+Moat: CUDA + Blackwell lock on AI training/inference
+Trend: Above 200MA (+7%), just below 50MA (-1%), RSI 51 neutral, MACD bullish but flattening
+News: NVDA denied Kyber NVL144 delay rumors; Goldman calls 21.7x fwd P/E "compelling" ahead of Q2 — TradingKey, Jul 2026
+https://www.tradingkey.com/analysis/stocks/us-stocks/262015350-nvidia-nvda-stock-forecast-july-2026-kyber-denial-goldman-tradingkey
+Why: Sitting almost exactly at cost with clean technicals, Strong Buy consensus, Blackwell demand intact. Q2 earnings Aug 26 (32 days) is the next binary — hold into it.
+Stop-loss: Reassess if price falls below $205
+Take-profit: Consider taking profit above $302.83 (analyst mean target)
+
+──────────────────────
+
+🟡 IONQ — HOLD  [Low Confidence]
+Price: $32.84  |  Your cost: $54.00
+P&L: -$634.80 (-39.2%)  |  Held: 31 days
+Analyst: Strong Buy (13 analysts) | Target: $68.79 → +109.5% upside
+https://stockanalysis.com/stocks/ionq/forecast/
+Moat: Trapped-ion quantum lead + $697M cash — weakening as IQM lists on Nasdaq
+Trend: Deep below 50MA (-37%) & 200MA (-31%), RSI 26 oversold, MACD bearish, close to 52wk low $25.89
+News: Pentagon contract-loss rumors + short-seller report drove a 7-week losing streak; -36% in a month despite 755% YoY Q1 revenue growth — Trefis/FXLeaders, Jul 13-16 2026
+https://www.fxleaders.com/news/2026/07/13/ionq-stock-dives-below-40-on-pentagon-contract-loss-rumors-30-support-comes-into-focus/
+Why: One S4 signal (thesis-hitting news) offset by Strong Buy consensus, huge implied upside, and oversold RSI at prior support. Position is on the edge — Q2 earnings in ~10-18 days will decide direction.
+Stop-loss: Reassess if price falls below $30 (52wk support zone)
+Take-profit: Consider taking profit above $68.79 (analyst mean target)
+⚠️ Earnings: ~4-12 Aug (10-18 days) — high-risk binary
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,019.40
+Total P&L:      -$645.60 (-24.2%)
+⚠️ Concentration: Both holdings are speculative AI/advanced-compute plays; IONQ accounts for ~98% of total unrealised loss
+Macro regime:   Mildly risk-on after cool June CPI (headline 3.5%), but Chair Warsh's hawkish tilt keeps rate-cut hopes capped — 50% of Fed members now see a 2026 hike
+
+📅 THIS WEEK AHEAD
+- FOMC decision Tue-Wed 28-29 Jul (first Warsh-led meeting in the new hawkish regime)
+- Mega-cap tech earnings wave (MSFT / GOOGL / META window)
+- Q2 GDP advance estimate Thu
+
+🚨 Action needed: IONQ — decide before Aug earnings whether to average down at oversold levels or exit on any relief bounce; one weak print takes it through the $30 stop
