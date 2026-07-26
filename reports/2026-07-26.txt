@@ -1,0 +1,48 @@
+📊 DAILY PORTFOLIO REPORT
+Sun 26 Jul 2026 — Weekend Review (Fri 24 Jul close data)
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $206.84  |  Your cost: $209.00
+P&L: -$10.80 (-1.0%)  |  Held: 51 days
+Analyst: Strong Buy (61 analysts) | Target: $302.83 → +46.4% upside
+https://www.marketbeat.com/stocks/NASDAQ/NVDA/forecast/
+Moat: CUDA + Blackwell/Kyber lock in AI training infrastructure
+Trend: Above 200D MA ($192.91), just below 50D ($209.18); RSI 51 neutral; MACD bullish crossover; volume normal
+News: NVIDIA refutes Kyber NVL144 delay claims — TradingKey, Jul 2026 (+1% on denial)
+https://www.tradingkey.com/analysis/stocks/us-stocks/262015350-nvidia-nvda-stock-forecast-july-2026-kyber-denial-goldman-tradingkey
+Why: 7 of 8 hold signals intact — bullish MACD crossover, above 200D, Strong Buy consensus, 46% upside to target. Goldman flags 21.7x forward P/E as compelling vs 5-yr avg 72x. Kyber roadmap denial removes a key overhang.
+Stop-loss: Reassess if price falls below $205
+Take-profit: Consider taking profit above $302 (analyst mean target)
+Earnings: 26 Aug 2026 (31 days)
+
+──────────────────────
+
+🔴 IONQ — HOLD  [Low Confidence]
+Price: $32.84  |  Your cost: $54.00
+P&L: -$634.80 (-39.2%)  |  Held: 32 days
+Analyst: Strong Buy | Target: $69.31 → +111% upside
+https://stockanalysis.com/stocks/ionq/
+Moat: Trapped-ion architecture with long qubit coherence; cloud reach via Azure/AWS/GCP
+Trend: Deeply below 50D MA ($52.43) and 200D ($47.35); RSI 26 oversold; MACD bearish and deepening; 5D -5.6%, 1M -39%; testing 52W low zone ($25.89)
+News: Jane Goodall Institute + FormationQ research partnership — TipRanks, 14 Jul 2026; sector-wide quantum sell-off drove -25% June drawdown
+https://www.tipranks.com/news/3-quantum-computing-stocks-to-consider-in-july-2026-according-to-analysts
+Why: Technicals broken (RSI oversold, well below both MAs) but no formal sell trigger fires — 5D drop is -5.6% (<8% S6 threshold). Analyst consensus intact, revenue up 202% YoY ($130M), Q2 guidance $65-68M, and Aug 5 earnings is the pivotal catalyst. Reassess hard post-print.
+Stop-loss: Reassess if price falls below $30 (MA-based formula unusable — price already 37% below 50D MA)
+Take-profit: Consider taking profit above $69 (analyst mean target)
+⚠️ Earnings: 5 Aug 2026 (10 days)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,019.40
+Total P&L:      -$645.60 (-24.2%)
+Macro regime:   Cautious risk-on; hawkish Fed under Chair Warsh, 50% of officials pricing a 2026 hike, CPI +4.2% YoY (highest since Apr 2023)
+
+📅 THIS WEEK AHEAD
+- Wed 29 Jul — FOMC decision + Warsh press conference (rates expected held at 3.50-3.75%)
+- Wed 29 Jul — Microsoft + Meta earnings (post-close)
+- Thu 30 Jul — Q2 GDP advance, June PCE (core est +0.1%), Amazon + Apple earnings
+
+✅ No action needed today; IONQ is the watch item into 5 Aug earnings
