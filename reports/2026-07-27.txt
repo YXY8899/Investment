@@ -1,0 +1,48 @@
+📊 DAILY PORTFOLIO REPORT
+Mon 27 Jul 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $206.84  |  Your cost: $209.00
+P&L: -$10.80 (-1.03%)  |  Held: 52 days
+Analyst: Strong Buy (53-61 analysts) | Target: $303 → +46.5% upside
+https://stockanalysis.com/stocks/nvda/forecast/
+Moat: CUDA monopoly + AI training platform lock-in
+Trend: Above 200MA ($192.91), just under 50MA ($209.18); RSI 51 neutral; MACD bullish crossover
+News: BofA reiterates Buy — "Unique, Durable Growth Franchise"; China H200 partial approvals (Benzinga, 8 Jul 2026)
+https://www.benzinga.com/quote/NVDA/analyst-ratings
+Why: Consolidation phase near 50MA with fresh bullish MACD crossover and neutral RSI. China H200 partial approvals plus SK Group $10B AI factory partnership reinforce structural demand into Aug 26 earnings. Nothing in signals argues for a sell.
+Stop-loss: Reassess if price falls below $205
+Take-profit: Consider taking profit above $303 (analyst mean target)
+⚠️ Earnings: 26 Aug 2026 (30 days)
+
+──────────────────────
+
+🟡 IONQ — HOLD  [Low Confidence]
+Price: $32.84  |  Your cost: $54.00
+P&L: -$634.80 (-39.19%)  |  Held: 33 days
+Analyst: Strong Buy (13 analysts) | Target: $71 → +116% upside
+https://stockanalysis.com/stocks/ionq/forecast/
+Moat: Trapped-ion quantum architecture; $470M RPO (+554% YoY); DoD/government contracts
+Trend: Deep below 50MA ($52.43) and 200MA ($47.35); RSI 26 OVERSOLD; MACD bearish; 1-mo -38.7%
+News: Short-seller report + Pentagon contract funding concerns; sector-wide quantum selloff on macro risk-off (24/7 Wall St, 13 Jul 2026)
+https://247wallst.com/investing/2026/07/13/ionq-tumbles-8-d-wave-rigetti-quantum-computing-drop-6-as-risk-off-ripple-effects-hit-speculative-quantum-stocks/
+Why: Severely oversold with fundamentals intact — Q1 revenue +755% YoY, 2026 guidance raised to $260-270M. Decline reads as sector contagion plus short-seller noise, not thesis-breaking. Q2 earnings ~5-12 Aug is the near-term catalyst. Marginal HOLD — tighten discipline given -39% drawdown; 50MA stop already breached, so downside is now defined by fresh lows.
+Stop-loss: Reassess if price falls below $30 (8% below current; 50MA stop already breached)
+Take-profit: Consider taking profit above $71 (analyst mean target)
+⚠️ Earnings: est. 5-12 Aug 2026 (9-16 days)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,019.40
+Total P&L:      -$645.60 (-24.22%)
+Macro regime:   Risk-off — Fed Chair Warsh hawkish pivot; markets pricing ~25% chance of a Jul 29 hike; PCE stuck at 3.6%; rate-sensitive tech under pressure.
+
+📅 THIS WEEK AHEAD
+- FOMC rate decision Tue-Wed 28-29 Jul (largest event; ~25% hike probability)
+- Big Tech earnings week (MSFT, META, AAPL, AMZN) — sentiment read-through for NVDA
+- Ongoing quantum sector volatility into IONQ earnings window
+
+✅ No action needed today (both HOLD; monitor IONQ closely — Low Confidence call)
