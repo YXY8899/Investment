@@ -1,0 +1,50 @@
+📊 DAILY PORTFOLIO REPORT
+Wed 29 Jul 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [Medium Confidence]
+Price: $197.01  |  Your cost: $209.00
+P&L: -$59.95 (-5.74%)  |  Held: 54 days
+Analyst: Strong Buy (61 analysts) | Target: $302.83 → +53.7% upside
+https://stockanalysis.com/stocks/nvda/forecast/
+Moat: CUDA monopoly in AI training; Data Center = 92% of revenue
+Trend: Below 50D MA ($207.82), above 200D MA ($193.00); RSI 42.9; MACD bearish (hist -0.58, widening); volume normal
+News: NVDA fell ~5% on OpenAI fundraise headline + China chip-equipment competition fears; Kyber delay denial helped bounce — Yahoo/Reuters, Jul 28
+https://finance.yahoo.com/markets/stocks/articles/why-nvidia-stock-nosediving-201752048.html
+Why: Fundamentals intact (FY Q1'27 rev $81.6B, +85% YoY; fwd P/E 21.7x cheap vs 5yr avg 72x). Technicals softened — below 50MA and MACD bearish — but no earnings miss, no analyst downgrades, deep +54% upside to consensus. Sector chop, not thesis break.
+Stop-loss: Reassess if price falls below $181 (8% from here; note price already sits below 50D MA)
+Take-profit: Consider taking profit above $303 (analyst mean target)
+⚠️ Earnings: Aug 26 2026 (28 days)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [Medium Confidence]
+Price: $33.88  |  Your cost: $54.00
+P&L: -$603.60 (-37.26%)  |  Held: 35 days
+Analyst: Strong Buy | Target: $69.31 → +104.6% upside
+https://www.tipranks.com/stocks/ionq/forecast
+Moat: Trapped-ion scale leader; cloud availability via MSFT/Google/AWS; $470M backlog
+Trend: Below 50D MA ($51.57) AND 200D MA ($46.93); RSI 32.3 (near oversold); MACD deeply negative but histogram improving (-0.09 vs -0.23); 60% off 52W high; 1M -31.3%
+News: Regulatory approval received to close SkyWater acquisition ($1.8B); deal closes Jul 31, combined-entity call Aug 5 — IonQ IR/The Quantum Insider, Jul 28
+https://www.ionq.com/news/ionq-receives-regulatory-approval-to-complete-acquisition-of-skywater-technology
+Why: Sell signals none — sector-wide quantum de-rating (peers QBTS/RGTI down similarly), not company-specific. Revenue +755% YoY, $3.1B cash, backlog growing. But losses widening ($271M op loss Q1, EBITDA loss guide $310-330M FY26) and 103x P/E means high beta (3.23) to macro. Position is deeply underwater — earnings Aug 5 is the next catalyst.
+Stop-loss: Reassess if price falls below $31 (8% from here; already broken below both MAs — high risk)
+Take-profit: Consider taking profit above $69 (analyst mean target)
+⚠️ Earnings: Aug 5 2026 (7 days)  ⚠️ Combined-entity call after SkyWater close
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,001.45
+Total P&L:      -$663.55 (-24.90%)
+Cost basis:     $2,665.00
+Both holdings are in advanced compute/AI infrastructure (semis + quantum). No single-sector concentration flag per prompt list, but factor overlap exists.
+Macro regime:   Risk-off tone into FOMC — futures pricing 64% hold at 3.50-3.75%. Tech valuations stretched, any hawkish surprise could trigger profit-taking.
+
+📅 THIS WEEK AHEAD
+- FOMC decision TODAY Jul 29, 2:00 PM ET — rate decision + Powell presser; hold expected but tone risk
+- IONQ Q2 earnings Aug 5 (post-market) — first combined-entity call with SkyWater
+- Mega-cap tech earnings cluster continues (index risk into month-end)
+
+✅ No sell action needed today — both HOLD. Monitor FOMC 2pm ET and IONQ Aug 5 as key catalysts.
