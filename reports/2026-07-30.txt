@@ -1,0 +1,49 @@
+📊 DAILY PORTFOLIO REPORT
+Thu 30 Jul 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [Low Confidence]
+Price: $190.01  |  Your cost: $209.00
+P&L: -$94.95 (-9.1%)  |  Held: 55 days
+Analyst: Strong Buy (61 analysts) | Target: $302.83 → +59.4% upside
+https://stockanalysis.com/stocks/nvda/forecast/
+Moat: CUDA + Blackwell dominance in AI training
+Trend: Below 50MA ($207) and 200MA ($193); RSI 38, MACD bearish; -10.4% over 5d in chip selloff
+News: Chip stocks lost $1.3T on AI capex / China chip progress concerns — Bloomberg, Jul 28
+https://www.bloomberg.com/news/articles/2026-07-28/korean-stocks-sink-as-chipmakers-plung-on-deepening-ai-fatigue
+Why: Sector-wide chip contagion triggered S6 (half-weight only). Thesis intact — Q1 FY27 rev $81.6B (+85% YoY), Q2 guide $91B, Strong Buy consensus. Wait for stabilization before adding.
+Stop-loss: Reassess if price falls below $203 (formula stop; 50MA already breached)
+Take-profit: Consider taking profit above $302.83 (analyst mean target)
+⚠️ Earnings: Aug 26, 2026 (27 days)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [Low Confidence]
+Price: $31.99  |  Your cost: $54.00
+P&L: -$660.30 (-40.8%)  |  Held: 36 days
+Analyst: Strong Buy | Target: $69.31 → +116.7% upside
+https://www.tipranks.com/stocks/ionq/forecast
+Moat: Trapped-ion quantum + vertical integration via SkyWater fab (closing Jul 31)
+Trend: Far below 50MA ($51) and 200MA ($47); RSI 29.9 (oversold), MACD bearish; -40.6% over 30d in quantum sector rout
+News: IonQ cleared final regulatory hurdle for $1.8B SkyWater deal — Business Wire, Jul 28
+https://www.businesswire.com/news/home/20260710141112/en/IonQ-Receives-Regulatory-Approval-to-Complete-Acquisition-of-SkyWater-Technology
+Why: No sell signal fully triggered; SkyWater close is a positive catalyst and Q1 rev grew 755% YoY with FY26 guide raised to $260-270M. Aug 5 earnings is binary risk.
+Stop-loss: Reassess if price falls below $50 (formula stop; 50MA already breached)
+Take-profit: Consider taking profit above $69.31 (analyst mean target)
+⚠️ Earnings: Aug 5, 2026 (6 days)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $1,909.75
+Total P&L:      -$755.25 (-28.3%)
+⚠️ Concentration: both holdings in AI/tech theme, hit by current sector rout (~100% of portfolio)
+Macro regime:   Risk-off — Fed held rates Jul 29 but 3 dissenters voted to hike; 30Y yield hit 5.23% (highest since 2007); market questioning AI capex sustainability
+
+📅 THIS WEEK AHEAD
+- Fri Jul 31: Core PCE inflation (Fed's preferred gauge) + IONQ closes SkyWater acquisition
+- Fri Aug 1: NFP jobs report
+- Tue Aug 5: IONQ Q2 earnings — binary catalyst
+
+✅ No action needed today — both HOLD Low Confidence. Monitor IONQ into Aug 5 earnings; NVDA thesis intact despite sector pain.
