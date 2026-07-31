@@ -1,0 +1,47 @@
+📊 DAILY PORTFOLIO REPORT
+Fri 31 Jul 2026 — Pre-market
+
+──────────────────────
+🔵 NVDA — HOLD  [Medium Confidence]
+Price: $195.04  |  Your cost: $209.00
+P&L: -$69.80 (-6.68%)  |  Held: 56 days
+Analyst: Strong Buy (68 analysts) | Target: $302.73 → +55.2% upside
+https://stockanalysis.com/stocks/nvda/forecast/
+Moat: CUDA + Blackwell dominance in AI training compute
+Trend: Below MA50 ($206.57), just above MA200 ($193.05); RSI 43; MACD bearish below signal; 5d -6.6%
+News: Rose 1.3% pre-market Thu Jul 30 as Meta/MSFT AI capex holds; investor scrutiny on circular AI financing deals — Motley Fool, Jul 30
+https://www.fool.com/investing/2026/07/28/massive-news-for-nvidia-stock-investors/
+Why: Thesis intact — record Q1 FY27 revenue $81.6B, next quarter guided ~$91B, Fwd P/E 22 is undemanding vs growth. Technically weak (below MA50, bearish MACD) but no sell trigger fires; hold through earnings.
+Stop-loss: Reassess if price falls below $202.44 (MA50 floor already breached — next hard floor $179 = -8% from here)
+Take-profit: Consider taking profit above $302.73 (analyst mean target)
+⚠️ Earnings: Aug 26, 2026 (26 days)
+
+──────────────────────
+🔵 IONQ — HOLD  [Medium Confidence]
+Price: $35.77  |  Your cost: $54.00
+P&L: -$546.90 (-33.76%)  |  Held: 37 days
+Analyst: Strong Buy (12 analysts) | Target: $69.11 → +93.2% upside
+https://stockanalysis.com/stocks/ionq/forecast/
+Moat: Trapped-ion quantum leadership; $470M RPO backlog (+554% YoY)
+Trend: Deep below MA50 ($50.90) and MA200 ($46.52); RSI 39.6 (just out of oversold); MACD bullish crossover; 5d +5.0%, 1m -32.8%
+News: Jumped 8.4% Mon Jul 27 after D-Wave/AT&T deal lifted quantum sector; RSI exited oversold same day — StockStory, Jul 27
+https://finance.yahoo.com/markets/stocks/articles/why-ionq-stock-just-jumped-161300315.html
+Why: Painful drawdown driven by sector-wide valuation reset, not company-specific — Q1 FY26 was record $64.7M rev (+755% YoY), FY26 guidance raised to $260-270M. MACD crossover + oversold bounce suggest near-term stabilization ahead of Aug 5 print.
+Stop-loss: Reassess if price falls below $49.88 (MA50 already broken; effective 8% hard floor $32.91)
+Take-profit: Consider taking profit above $69.11 (analyst mean target)
+⚠️ Earnings: Aug 5, 2026 (5 days) — binary event, expect volatility
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,048.30
+Total P&L:      -$616.70 (-23.14%)
+Both holdings in advanced-compute tech (semis + quantum) — 100% single-theme AI/compute concentration
+Macro regime:   Cautious risk-on; Fed held rates 3.50-3.75% Jul 29 with 3 hawkish dissents, September hike back in play; Middle East risk premium elevated
+
+📅 THIS WEEK AHEAD
+- Fri Aug 1: ISM Manufacturing PMI, Initial Jobless Claims
+- Fri Aug 2 (Sun close of week): Nonfarm Payrolls, Unemployment Rate, Factory Orders
+- Wed Aug 5: IONQ Q2 earnings (after close)
+
+✅ No sell action needed today — both holdings HOLD; monitor IONQ closely into Aug 5 earnings
