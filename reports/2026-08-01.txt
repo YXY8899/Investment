@@ -1,0 +1,50 @@
+📊 DAILY PORTFOLIO REPORT
+Sat 1 Aug 2026 — Weekend Prep
+
+──────────────────────
+
+🔵 NVDA — HOLD  [Medium Confidence]
+Price: $200.75  |  Your cost: $209.00
+P&L: -$41.25 (-3.95%)  |  Held: 57 days
+Analyst: Buy (68 analysts) | Target: $302.73 → +50.8% upside
+https://stockanalysis.com/stocks/nvda/forecast/
+Moat: CUDA + Blackwell dominance in AI training
+Trend: Below 50MA ($206), above 200MA ($193). RSI 48 neutral. MACD bearish crossover. Volume 0.91x normal.
+News: China limits H200 approvals + OpenAI $250B circular-financing concerns pressured chip stocks (Reuters/Yahoo, Jul 27–31)
+https://finance.yahoo.com/markets/article/nvidia-drops-nearly-5-leading-chip-stocks-lower-amid-renewed-worries-of-circular-financing-193309793.html
+Why: Consensus Buy intact and 50% upside to mean target; CUDA moat unchanged. Recent drag from China H200 limits and circular-financing narrative pushed price under 50MA — but 200MA still supports the trend. Hold into earnings.
+Stop-loss: Reassess if price falls below $184.69 (8% floor; price already under 50MA)
+Take-profit: Consider taking profit above $302 (analyst mean target)
+⚠️ Earnings: Aug 26 2026 (25 days)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [Medium Confidence]
+Price: $36.44  |  Your cost: $54.00
+P&L: -$526.80 (-32.52%)  |  Held: 38 days
+Analyst: Strong Buy (20 analysts) | Target: ~$69–74 → ~+95% upside
+https://stockanalysis.com/stocks/ionq/forecast/
+Moat: Trapped-ion quantum lead + US vertical integration via SkyWater (deal closed Jul 31)
+Trend: Below 50MA ($51) and 200MA ($46). RSI 44 neutral. MACD just crossed bullish. 1d +1.87%, 5d +10.96%, 1mo -29.11%. Volume 0.67x.
+News: SkyWater acquisition final approval + Missile Defense Agency SHIELD IDIQ selection + Benchmark Buy $60 initiation (IonQ IR / StockTitan, Jul 27–31)
+https://investors.ionq.com/news/news-details/2026/IonQ-Announces-First-Quarter-2026-Financial-Results/default.aspx
+Why: Deep drawdown from June highs but recent positives (SkyWater close, MDA contract, new Buy initiation) plus fresh MACD bullish cross suggest a base is forming. Strong Buy consensus with ~95% upside to mean target. Hold into the Q2 print.
+Stop-loss: Reassess if price falls below $33.52 (8% floor; price under both MAs)
+Take-profit: Consider taking profit above $69 (analyst mean target)
+⚠️ Earnings: Aug 5 2026 (4 days) — high volatility risk into print
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,096.95
+Total cost:     $2,665.00
+Total P&L:      -$568.05 (-21.32%)
+Mix: NVDA (Semis) 47.9% | IONQ (Quantum) 52.1% — different sectors, no concentration flag
+Macro regime: Fed on hold at 3.50–3.75% with 3 hawkish dissents (Jul 29). Risk-off tilt, AI infra capex under scrutiny, next FOMC Sep 16.
+
+📅 THIS WEEK AHEAD
+- Mon Aug 3: ISM Services PMI
+- Tue Aug 5: IONQ Q2 earnings (post-close) — your holding
+- Wed Aug 6–Fri Aug 8: quieter US data week ahead of Aug CPI
+
+✅ No sell action today — but IONQ earnings in 4 days is the key event to prepare for
