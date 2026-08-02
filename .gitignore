@@ -3,6 +3,9 @@
 .env.*
 *.secret
 
+# Session scratchpad — temp files, never commit
+scratchpad/
+
 # OS files
 Thumbs.db
 .DS_Store
