@@ -1,0 +1,49 @@
+📊 DAILY PORTFOLIO REPORT
+Sun 2 Aug 2026 — Weekend snapshot (Fri 1 Aug close)
+
+──────────────────────
+
+🔵 NVDA — HOLD  [Medium Confidence]
+Price: $200.75  |  Your cost: $209.00
+P&L: -$41.25 (-3.95%)  |  Held: 58 days
+Analyst: Strong Buy (61 analysts) | Target: $303 → +50.9% upside
+https://stockanalysis.com/stocks/nvda/forecast/
+Moat: CUDA + Blackwell dominance in AI training/inference infrastructure
+Trend: Below 50MA ($206), above 200MA ($193), RSI 48, MACD bearish below signal, -2.9% past 5d
+News: NVDA lagging S&P YTD (+2% vs +7%); Aug 26 Q2 FY27 earnings seen as catalyst, Street EPS $2.01 vs $0.99 YoY — Motley Fool, 2 Aug 2026
+https://www.fool.com/investing/2026/08/02/prediction-nvidia-stock-will-skyrocket-on-aug-26/
+Why: Fundamentals rock-solid (last print Q2 FY26 rev $46.7B +56% YoY, DC $41.1B, 72% GM) and 200MA support intact. Technicals soft — 50MA broken, MACD bearish — but with $303 mean target (+51% upside) and print in 24 days, no sell trigger fires. Hold through earnings.
+Stop-loss: Reassess if price falls below $185 (8% drawdown floor; 50MA already broken)
+Take-profit: Consider taking profit above $303 (analyst mean target)
+⚠️ Earnings: Aug 26 (24 days)
+
+──────────────────────
+
+🔴 IONQ — HOLD  [Low Confidence]
+Price: $36.44  |  Your cost: $54.00
+P&L: -$526.80 (-32.52%)  |  Held: 39 days
+Analyst: Strong Buy (12 analysts, 11 Buy / 2 Hold) | Target: $69 → +89.7% upside
+https://stockanalysis.com/stocks/ionq/forecast/
+Moat: Trapped-ion quantum hardware leader; Q1 rev +755% YoY, raised FY26 guide to $260–270M
+Trend: Below 50MA ($51) & 200MA ($46), RSI 41, MACD bullish crossover above signal, +11% past 5d bouncing off lows; but -29% past month
+News: Sector-wide quantum selloff (-36% MoM) — IQM Nasdaq debut diverted flows, no fresh IONQ product catalysts since mid-June — 24/7 Wall St, 29 Jul 2026
+https://247wallst.com/investing/2026/07/29/ionq-rigetti-and-d-wave-quantum-are-down-30-in-a-month-is-more-pain-coming-for-quantum-computing-stocks/
+Why: Selloff is sector contagion (S6 half-weight applies), not IONQ-specific. MACD just turned bullish and +11% 5d rebound suggests capitulation may be exhausting. Zero formal sell signals fire, but you are -32% and Q2 earnings on Aug 5 is a binary event — options market pricing ±19.5% post-print swing.
+Stop-loss: Reassess if price falls below $33 (8% drawdown floor)
+Take-profit: Consider taking profit above $69 (analyst mean target)
+⚠️ Earnings: Aug 5 (3 days) — ACTION DECISION WINDOW
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,096.95
+Total P&L:      -$568.05 (-21.32%)
+Sector split:   NVDA semis / IONQ quantum — no concentration flag
+Macro regime:   Risk-off tilt — Fed under Chair Warsh floating September hike to restore credibility; equity multiples vulnerable to duration shock
+
+📅 THIS WEEK AHEAD
+- Tue 5 Aug: IONQ Q2 earnings post-close (±19.5% implied move)
+- Tue 5 Aug: ISM Services PMI
+- Wed 12 Aug: US CPI (last 3.5% YoY vs 4.2% prior)
+
+⚠️ Watch closely: IONQ Q2 print in 3 days is the binary event driving your book. No formal sell signal fires, but decide before Tue close whether to hold, trim, or exit ahead of the swing.
