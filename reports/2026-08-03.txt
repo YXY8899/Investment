@@ -1,0 +1,48 @@
+📊 DAILY PORTFOLIO REPORT
+Mon 3 Aug 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [Medium Confidence]
+Price: $200.75  |  Your cost: $209.00
+P&L: -$41.25 (-3.9%)  |  Held: 59 days
+Analyst: Strong Buy (61 analysts) | Target: $302 → +50.9% upside
+https://public.com/stocks/nvda/forecast-price-target
+Moat: CUDA monopoly + Blackwell lead in AI training silicon
+Trend: Below 50MA ($206), above 200MA ($193); RSI 47.7 neutral; MACD bearish; volume elevated
+News: Amazon reaffirms Nvidia AI-chip commitment, lifts capex — Bloomberg, 1 Aug
+https://finance.yahoo.com/quote/NVDA/
+Why: Q2 FY26 already delivered $46.7B revenue (+56% YoY) with Q3 guide $54B; consensus $302 target and Strong Buy rating intact. Near-term weakness (below 50MA, bearish MACD) reflects positioning into 26 Aug earnings, not thesis breakdown.
+Stop-loss: Reassess if price falls below $185 (8% floor; 50MA support already breached)
+Take-profit: Consider taking profit above $302 (analyst mean target)
+⚠️ Earnings: 26 Aug 2026 (23 days)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [Medium Confidence]
+Price: $36.44  |  Your cost: $54.00
+P&L: -$526.80 (-32.5%)  |  Held: 40 days
+Analyst: Strong Buy (13 analysts) | Target: $66 → +82.2% upside
+https://stockanalysis.com/stocks/ionq/
+Moat: Trapped-ion quantum leadership; RPO +554% YoY to $470M; 800-qubit roadmap
+Trend: Below 50MA ($51) and 200MA ($46); RSI 44 neutral; MACD turning bullish; +11% 5d bounce off lows
+News: Q2 2026 earnings this Wed 5 Aug post-close; options price 19.5% move — Stocktitan, 30 Jul
+https://www.stocktitan.net/news/IONQ/ion-q-to-report-second-quarter-2026-financial-results-on-august-5-gyqq3q1cat9p.html
+Why: 1-month drawdown -29% is severe but no sell signal triggers — analyst consensus still Strong Buy with 82% upside, and MACD has crossed bullish into earnings. Thesis (quantum commercial ramp, 222% expected revenue growth) remains intact; position size is small ($1.1k).
+Stop-loss: Reassess if price falls below $34 (8% floor)
+Take-profit: Consider taking profit above $66 (analyst mean target)
+⚠️ Earnings: 5 Aug 2026 (2 days) — expect ±19% move
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,096.95
+Total P&L:      -$568.05 (-21.3%)
+Macro regime:   Risk-off tilt — Fed held 3.50–3.75% on 29 Jul with 3 hawkish dissents; sticky 3.5% headline CPI keeps September hike on the table.
+
+📅 THIS WEEK AHEAD
+- Tue 4 Aug: ISM Services PMI (July)
+- Wed 5 Aug: IONQ Q2 earnings (post-close) — position-defining event
+- Thu 7 Aug: Weekly jobless claims; Fed speakers ahead of Jackson Hole
+
+✅ No action needed today — both HOLD; monitor IONQ into Wed close
