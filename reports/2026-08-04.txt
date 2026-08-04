@@ -1,0 +1,49 @@
+📊 DAILY PORTFOLIO REPORT
+Tue 4 Aug 2026 — Post-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $206.64  |  Your cost: $209.00
+P&L: -$11.80 (-1.13%)  |  Held: 60 days
+Analyst: Strong Buy (61 analysts) | Target: $302.83 → +46.5% upside
+https://stockanalysis.com/stocks/nvda/forecast/
+Moat: CUDA + Blackwell dominance in AI training/inference
+Trend: Px $206.64 just above 50-DMA $206.17, +7% above 200-DMA $193.11; RSI 48 neutral; MACD bearish (below signal, -1.96); +2.9% today on MSFT/AMZN cloud strength
+News: MSFT and AMZN strong cloud results revive AI infra spend confidence — Reuters/CNBC, 3 Aug
+https://www.cnbc.com/quotes/NVDA
+Why: 8/8 hold signals bar MACD; Q1 FY27 rev $81.6B (+85% YoY), 75% gross margin, $40B net cash. Stock consolidating below Feb high ahead of key print — thesis intact.
+Stop-loss: Reassess if price falls below $202.05
+Take-profit: Consider taking profit above $302.83 (analyst mean target)
+⚠️ Earnings: Aug 26 (22 days)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [Medium Confidence]
+Price: $38.85  |  Your cost: $54.00
+P&L: -$454.50 (-28.1%)  |  Held: 41 days
+Analyst: Strong Buy (12–20 analysts) | Target: $69.11 → +77.9% upside
+https://stockanalysis.com/stocks/ionq/forecast/
+Moat: Trapped-ion quantum lead + vertically integrated post-SkyWater ($1.8B) foundry acquisition
+Trend: Px 23% below 50-DMA $50.66 and 16% below 200-DMA $46.30; RSI 41 rebounding; MACD bullish (rising toward signal); +6.6% today, +18.3% over 5d on Wedbush initiation + M&A close
+News: Wedbush initiates Outperform with $75 target; SkyWater acquisition closed after FTC clearance — Benzinga, 3 Aug
+https://www.benzinga.com/trading-ideas/movers/26/08/60881018/ionq-stock-is-soaring-monday-whats-going-on
+Why: Q1 rev $64.7M (vs $49.7M est), FY26 guide raised to $260–270M (~100% growth), RPO +554% YoY. Momentum rebuilding into earnings; still deeply below cost so no gain to protect.
+Stop-loss: Reassess if price falls below $35.74 (8% drawdown floor; 50-DMA reference above price)
+Take-profit: Consider taking profit above $69.11 (analyst mean target)
+⚠️ Earnings: TOMORROW Aug 5 after close (1 day) — high volatility risk
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,198.70
+Total P&L:      -$466.30 (-17.50%)
+IONQ drawdown drives 97% of losses; NVDA roughly flat vs cost.
+Macro regime:   Risk-on soft-landing bias; Fed on hold but hinting at pivot, tech leadership intact — Sep 16 FOMC is next binary event.
+
+📅 THIS WEEK AHEAD
+- IONQ Q2 earnings, Wed 5 Aug after close (portfolio-critical)
+- US Non-Farm Payrolls, Fri 7 Aug
+- Fed speakers throughout the week
+
+✅ No action needed today (but size any adds ahead of IONQ print with care)
