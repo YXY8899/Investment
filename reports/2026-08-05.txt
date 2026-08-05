@@ -1,0 +1,49 @@
+📊 DAILY PORTFOLIO REPORT
+Wed 5 Aug 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $211.94  |  Your cost: $209.00
+P&L: +$14.70 (+1.41%)  |  Held: 61 days
+Analyst: Strong Buy (61 analysts) | Target: $302.83 → +42.9% upside
+https://stockanalysis.com/stocks/nvda/forecast/
+Moat: CUDA + Blackwell lock-in across AI training/inference
+Trend: Above 50DMA ($205.69) & 200DMA ($193.41); RSI 49.6; MACD bullish crossover; +7.6% in 5d
+News: Nvidia reclaims $210 as AI demand outweighs financing concerns — FX Leaders, 4 Aug 2026
+https://www.fxleaders.com/news/2026/08/04/nvidia-stock-forecast-today-nvda-reclaims-210-as-ai-demand-outweighs-financing-concerns/
+Why: All 8 hold signals intact — trend up, fresh MACD bull cross, Strong Buy, 43% upside. Q1 FY27 delivered record $81.6B revenue (+85% YoY) and 75% gross margin; thesis unchanged into Aug 26 print.
+Stop-loss: Reassess if price falls below $201.58
+Take-profit: Consider taking profit above $302.83 (analyst mean target)
+⚠️ Earnings: 26 Aug 2026 (21 days)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [Medium Confidence]
+Price: $41.72  |  Your cost: $54.00
+P&L: -$368.40 (-22.74%)  |  Held: 42 days
+Analyst: Strong Buy (13-20 analysts) | Target: $73.88 → +77.1% upside
+https://stockanalysis.com/stocks/ionq/forecast/
+Moat: Trapped-ion quantum lead + newly vertical semi stack via SkyWater acquisition
+Trend: Below 50DMA ($50.05) & 200DMA ($45.95); RSI 58.8 recovering; MACD bullish (still negative); +23.1% in 5d
+News: IonQ closes $1.8B SkyWater deal; Wedbush initiates Outperform, $75 PT — Stockstory, 3 Aug 2026
+https://stockstory.org/us/stocks/nyse/ionq/news/why-up-down/why-ionq-ionq-stock-is-up-today-8
+Why: 6/8 hold signals — Strong Buy, huge upside, MACD improving, no sell triggers, but price still under both MAs. Q2 earnings TONIGHT after close (guide $65-68M) is a binary catalyst — hold through print, do not add.
+Stop-loss: Reassess if price falls below $38.38 (8% floor; MA50 $50.05 already breached)
+Take-profit: Consider taking profit above $73.88 (analyst mean target)
+🚨 Earnings: TODAY 5 Aug 2026 after close — expect a large gap tomorrow
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,311.30
+Total P&L:      -$353.70 (-13.27%)
+⚠️ Concentration: 100% AI/semiconductors — NVDA (45.8%) classical AI, IONQ (54.2%) quantum + newly semi via SkyWater
+Macro regime:   Risk-on at index level (S&P at record 7,736) but breadth weakening; Warsh Fed on hold through 2026, single-stock dispersion elevated
+
+📅 THIS WEEK AHEAD
+- ISM Services PMI — today, 5 Aug
+- Nonfarm Payrolls / unemployment — Fri 7 Aug
+- IONQ Q2 earnings — tonight, 5 Aug after close
+
+🚨 Action needed: IONQ earnings today after close — decide in advance whether to trim into strength or hold; no pre-earnings sell warranted on current signals
