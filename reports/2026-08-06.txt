@@ -1,0 +1,48 @@
+📊 DAILY PORTFOLIO REPORT
+Thu 6 Aug 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $219.22  |  Your cost: $209.00
+P&L: +$51.10 (+4.9%)  |  Held: 62 days
+Analyst: Strong Buy (61 analysts) | Target: $302.83 → +38.1% upside
+https://stockanalysis.com/stocks/nvda/forecast/
+Moat: CUDA monopoly in AI training + Blackwell ramp
+Trend: Above 50d MA ($205.76) and 200d MA ($193.59), RSI 61.6, MACD just turned bullish (crossed signal from below)
+News: NVDA reclaims $210 as AI demand outweighs financing concerns — FX Leaders, 4 Aug
+https://www.fxleaders.com/news/2026/08/04/nvidia-stock-forecast-today-nvda-reclaims-210-as-ai-demand-outweighs-financing-concerns/
+Why: All 8 hold signals firing — price above both MAs, MACD bullish crossover, Strong Buy consensus with 38% upside, no thesis-breaking news. Scrutiny over $250B AI-financing deal is noise vs the Blackwell demand story ahead of Q2 print.
+Stop-loss: Reassess if price falls below $201.68
+Take-profit: Consider taking profit above $302 (analyst mean target)
+⚠️ Earnings: 26 Aug 2026 (20 days)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [Medium Confidence]
+Price: $39.93  |  Your cost: $54.00
+P&L: -$422.10 (-26.1%)  |  Held: 43 days
+Analyst: Moderate Buy (17 analysts) | Target: $68.41 → +71.3% upside
+https://stockanalysis.com/stocks/ionq/
+Moat: Trapped-ion quantum leader + SkyWater fab (vertical integration after $1.8B deal closed 3 Aug)
+Trend: Below 50d MA ($49.57) and 200d MA ($45.82), RSI 48.7 neutral, MACD improving (bullish crossover, still negative)
+News: Q2 double beat, rev +287% YoY to $80.05M, raised FY26 guide to $285M; Wedbush initiated Outperform $75 — Benzinga, 5 Aug
+https://www.benzinga.com/markets/earnings/26/08/60973145/ionq-posts-q2-double-beat-raises-2026-outlook-shares-rise
+Why: Zero sell signals — just posted a Q2 beat + raise, closed SkyWater acquisition, rebounded +24.8% in 5 days. Position underwater but thesis is strengthening; fundamentals now outrunning the price. Trend hasn't confirmed yet (below both MAs) hence Medium not High.
+Stop-loss: Reassess if price falls below $36.74 (8% floor; 50d MA sits above current price, so trailing MA stop is not usable)
+Take-profit: Consider taking profit above $68 (analyst mean target)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,294.00
+Total P&L:      -$371.00 (-13.9%)
+⚠️ Concentration: 100% tech — NVDA (semis) 47.8% + IONQ (quantum) 52.2%. Not the same sector but both high-beta AI/compute exposure.
+Macro regime:   Risk-on with hawkish tilt — Fed held at 3.50-3.75% on 29 Jul, markets now pricing 1-2 hikes by year-end (was cuts earlier); S&P 500 near record 7,489, but Iran-driven oil at $84 keeps inflation risk live.
+
+📅 THIS WEEK AHEAD
+- Today 6 Aug: Nonfarm Productivity Q2 prelim, Initial Jobless Claims, Challenger Job Cuts
+- Fri 7 Aug: Heavy earnings docket + macro data cluster
+- Wed 26 Aug: NVDA Q2 FY27 earnings (~$91B rev expected)
+
+✅ No action needed today
