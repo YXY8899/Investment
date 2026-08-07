@@ -1,0 +1,47 @@
+📊 DAILY PORTFOLIO REPORT
+Fri 7 Aug 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $218.99  |  Your cost: $209.00
+P&L: +$49.95 (+4.8%)  |  Held: 63 days
+Analyst: Strong Buy (61 analysts) | Target: $302.83 → +38.3% upside
+https://stockanalysis.com/stocks/nvda/forecast/
+Moat: CUDA lock-in + 92% share of sovereign-AI/hyperscaler accelerators
+Trend: Above 50MA ($205.85) and 200MA ($193.77); RSI 61; MACD bullish; +12.3% 5d
+News: SpaceX to build AI infra exclusively on NVIDIA chips — Benzinga, 2026-08-07
+https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/08/61031005/whats-going-on-with-nvidia-stock-friday-7
+Why: 8/8 hold signals fire — trend, momentum, consensus, moat all intact. Position +4.8% with earnings 19 days out; hold through the print.
+Stop-loss: Reassess if price falls below $201.73
+Take-profit: Consider taking profit above $302.83 (analyst mean target)
+⚠️ Earnings: 2026-08-26 (19 days)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [Medium Confidence]
+Price: $39.72  |  Your cost: $54.00
+P&L: -$428.40 (-26.4%)  |  Held: 44 days
+Analyst: Strong Buy (12 analysts) | Target: $70 → +76% upside (stale — DA Davidson cut to $35, Benchmark $60)
+https://www.marketbeat.com/stocks/NYSE/IONQ/forecast/
+Moat: Trapped-ion leader; SkyWater foundry vertical integration closing this quarter
+Trend: Below 50MA ($49.10) and 200MA ($45.71); RSI 48; MACD bullish crossover; +11.0% 5d bounce
+News: Q2 record revenue $80.1M (+287% YoY), FY26 guide raised to $280-290M, SkyWater closed — Benzinga, 2026-08-05
+https://www.benzinga.com/markets/earnings/26/08/60973145/ionq-posts-q2-double-beat-raises-2026-outlook-shares-rise
+Why: Fundamentals firmed (revenue beat, guide raise, $3B cash) but stock lost 50MA. 6/8 hold signals — momentum turning up, zero sell signals. Downside cushioned by $3B cash and long runway; wide analyst dispersion warrants patience, not exit.
+Stop-loss: Reassess if price falls below $36.54 (8% drawdown floor; 50MA already breached)
+Take-profit: Consider taking profit above $70 (analyst mean target)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,286.55
+Total P&L:      -$378.45 (-14.2%)
+Macro regime:   Cautiously risk-on — S&P 500 near record highs, VIX ~15, Fed on hold at 3.50–3.75% ahead of Wed CPI print.
+
+📅 THIS WEEK AHEAD
+- Wed Aug 12: July CPI (headline and core) — shapes Sept FOMC odds
+- Thu Aug 13: July PPI + weekly jobless claims
+- Fri Aug 14: July Retail Sales — consumer gauge into Jackson Hole
+
+✅ No action needed today
