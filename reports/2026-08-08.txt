@@ -1,0 +1,48 @@
+📊 DAILY PORTFOLIO REPORT
+Sat 8 Aug 2026 — Weekend recap (Fri close)
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $223.96  |  Your cost: $209.00
+P&L: +$74.80 (+7.2%)  |  Held: 64 days
+Analyst: Strong Buy (61 analysts) | Target: $302.83 → +35.2% upside
+https://stockanalysis.com/stocks/nvda/forecast/
+Moat: CUDA + AI-training monopoly in data-center GPUs
+Trend: Above 50/200DMA (+8.7% / +15.5%), RSI 64, MACD strongly bullish, +11.6% over past 5d
+News: SpaceX to build its AI stack exclusively on NVDA silicon — Wed rally, mild Thu pullback
+https://finance.yahoo.com/quote/NVDA/
+Why: All 8 hold signals firing, 0 sell signals. Uptrend intact, sentiment strong, and the next big catalyst is Q2 print on Aug 26 (guide ~$91B rev). Stay long into earnings.
+Stop-loss: Reassess if price falls below $206
+Take-profit: Consider taking profit above $302 (analyst mean target)
+⚠️ Earnings: Aug 26, 2026 (18 days)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [Medium Confidence]
+Price: $44.43  |  Your cost: $54.00
+P&L: -$287.10 (-17.7%)  |  Held: 45 days
+Analyst: Strong Buy (12–20 analysts) | Target: $69.11 → +55.5% upside
+https://stockanalysis.com/stocks/ionq/forecast/
+Moat: Trapped-ion quantum leader; SkyWater foundry ($1.8B deal closed) vertically integrates supply
+Trend: Below 50/200DMA (-8.7% / -2.6%), RSI 57, MACD bullish (line above signal), +21.9% 5d rebound
+News: Q2 beat — revenue +287% YoY to $80.1M, FY26 guide raised to $280–290M, +$28M DARPA extension — Benzinga, 5 Aug
+https://www.benzinga.com/markets/earnings/26/08/60973145/ionq-posts-q2-double-beat-raises-2026-outlook-shares-rise
+Why: Fundamentals firing on all cylinders (beat + raise + DARPA + SkyWater close), 6/8 hold and 0 sell signals. But chart is still under both key MAs — the tape needs to confirm before I lean bullish. Give the rebound room to work.
+Stop-loss: Reassess if price falls below $41 (formula gives $48 but price is already below 50DMA — 8% floor is the practical line)
+Take-profit: Consider taking profit above $69 (analyst mean target)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,452.70
+Total P&L:      -$212.30 (-7.97%)
+⚠️ Concentration: NVDA + IONQ are both AI/frontier-tech hardware — 100% of portfolio exposed to a single macro theme
+Macro regime:   Risk-on modestly — cooling July jobs data pushed rate-hike odds out to December; S&P near record highs. No FOMC until Sept 15–16.
+
+📅 THIS WEEK AHEAD
+- US CPI (mid-August) — inflation print will re-set rate expectations
+- US PPI — leading indicator for CPI
+- NVDA Q2 FY27 earnings Aug 26 — mega-cap AI bellwether, will set the tone for both holdings
+
+✅ No action needed today
