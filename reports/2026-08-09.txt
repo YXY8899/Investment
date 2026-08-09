@@ -1,0 +1,47 @@
+📊 DAILY PORTFOLIO REPORT
+Sun 9 Aug 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $223.96  |  Your cost: $209.00
+P&L: +$74.80 (+7.16%)  |  Held: 65 days
+Analyst: Strong Buy (67 analysts) | Target: $311 → +38.9% upside
+https://stockanalysis.com/stocks/nvda/forecast/
+Moat: CUDA monopoly in AI training + full-stack accelerated computing
+Trend: Above 50/200 MA ($206/$194), RSI 64.4, MACD bullish crossover, +11.6% 5D
+News: SpaceX to build Earth+space data centers exclusively on Nvidia chips — Yahoo Finance, Aug 7
+https://finance.yahoo.com/technology/article/nvidia-ends-week-up-more-than-10-as-ai-chip-fears-ease-205751147.html
+Why: 8/8 hold signals aligned bullish — SpaceX exclusivity deal reinforces the AI compute moat and shares climbed 10%+ into a firm tape. RSI 64.4 has room before overbought.
+Stop-loss: Reassess if price falls below $206
+Take-profit: Consider taking profit above $311 (analyst mean target)
+⚠️ Earnings: Aug 26 2026 (17 days)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [Medium Confidence]
+Price: $44.43  |  Your cost: $54.00
+P&L: -$287.10 (-17.72%)  |  Held: 46 days
+Analyst: Strong Buy (13 analysts) | Target: $70 → +57.5% upside
+https://stockanalysis.com/stocks/ionq/forecast/
+Moat: Trapped-ion quantum leader + SkyWater fab vertical integration
+Trend: Below 50/200 MA ($48.68/$45.63), RSI 56.8, MACD bullish crossover, +21.9% 5D
+News: Q2 revenue $80.1M (+287% YoY) beat consensus by 22%, raised FY26 guide to $280–290M — Benzinga, Aug 5
+https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/08/61005307/ionq-stock-soars-after-q2-earnings-beat-raised-2026-outlook-bullish-analyst-takeaways
+Why: 6/8 hold signals — post-earnings +22% 5-day rebound and MACD flip confirm buyer interest, but price still under 50/200 MAs so the technical thesis needs an MA reclaim to strengthen.
+Stop-loss: Reassess if price falls below $40.88 (50-day MA already broken)
+Take-profit: Consider taking profit above $70 (analyst mean target)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,452.70
+Total P&L:      -$212.30 (-7.97%)
+Macro regime:   Risk-on lean; Fed on hold at 3.50–3.75% with soft-landing hopes fueling tech leadership; first cut eyed at Sep 15–16 FOMC
+
+📅 THIS WEEK AHEAD
+- Wed Aug 12: US CPI (July) — biggest cut/no-cut swing factor
+- Thu Aug 13: US PPI (July)
+- Fri Aug 15: Retail Sales, Philly Fed, Michigan Sentiment (prelim)
+
+✅ No action needed today
