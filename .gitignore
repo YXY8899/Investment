@@ -9,3 +9,6 @@ Thumbs.db
 
 # Node
 node_modules/
+
+# Transient routine work files
+scratchpad/
