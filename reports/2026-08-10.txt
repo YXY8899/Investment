@@ -1,0 +1,47 @@
+📊 DAILY PORTFOLIO REPORT
+Mon 10 Aug 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $223.96  |  Your cost: $209.00
+P&L: +$74.80 (+7.16%)  |  Held: 66 days
+Analyst: Strong Buy (61 analysts) | Target: $302.83 → +35.2% upside
+https://stockanalysis.com/stocks/nvda/forecast/
+Moat: CUDA + AI infrastructure monopoly, unmatched developer lock-in
+Trend: Above 50d ($206.07) & 200d ($193.98) MA; RSI 64.4; MACD bullish (+2.50 above signal); vol 0.7x avg
+News: BofA calls NVDA top chip pick at decade-low valuation ahead of earnings — CNBC, Aug 8, 2026
+https://www.cnbc.com/quotes/NVDA
+Why: All 8 hold signals firing after +11.6% 5-day rally on Fed-pause dovish repricing. MACD accelerating, forward P/E ~24.5x (decade low), Strong Buy consensus with 35% upside. Position through Aug 26 earnings warranted; mechanical stop protects.
+Stop-loss: Reassess if price falls below $206.04
+Take-profit: Consider taking profit above $302.83 (analyst mean target)
+⚠️ Earnings: Aug 26, 2026 (16 days)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [Medium Confidence]
+Price: $44.43  |  Your cost: $54.00
+P&L: -$287.10 (-17.72%)  |  Held: 47 days
+Analyst: Buy consensus (12 analysts) | Target: $69.11 → +55.5% upside
+https://www.marketbeat.com/stocks/NYSE/IONQ/forecast/
+Moat: Trapped-ion quantum leader; Q2 revenue +287% YoY; DARPA extension + SkyWater acquisition scaling stack
+Trend: Below 50d ($48.68) & 200d ($45.63) MA — trend damage; RSI 56.8 recovering; MACD bullish crossover; vol normal
+News: Q2 double beat — rev $80.1M (+287% YoY), 2026 guide raised to $280–$290M, +$28M DARPA extension — Benzinga, Aug 7, 2026
+https://www.benzinga.com/markets/earnings/26/08/60973145/ionq-posts-q2-double-beat-raises-2026-outlook-shares-rise
+Why: Position underwater but fundamentals inflected — Q2 beat + raised guide + Wedbush upgrade triggered +21.9% 5-day bounce. Six of eight hold signals firing; no sell signal triggered. Reclaim of 50-day MA is the next confirmation.
+Stop-loss: Reassess if price falls below $40.88 (8% floor; price already below 50-day MA)
+Take-profit: Consider taking profit above $69.11 (analyst mean target)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,452.70
+Total P&L:      -$212.30 (-7.97%)
+Macro regime:   Risk-on; weak Jul jobs report has markets pricing 56% odds Fed pauses at Sept 16 meeting; S&P at record ~7,757
+
+📅 THIS WEEK AHEAD
+- Wed Aug 12: US CPI (July) — pivotal test of Fed-pause narrative
+- Thu Aug 13: US PPI (July)
+- Fri Aug 14: US Retail Sales (July)
+
+✅ No action needed today
