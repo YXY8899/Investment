@@ -1,0 +1,48 @@
+📊 DAILY PORTFOLIO REPORT
+Tue 11 Aug 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $217.55  |  Your cost: $209.00
+P&L: +$42.75 (+4.1%)  |  Held: 67 days
+Analyst: Strong Buy (61 analysts) | Target: $302 → +38.8% upside
+https://stockanalysis.com/stocks/nvda/forecast/
+Moat: CUDA monopoly in AI training; Blackwell shipments; 92% of revenue from data center
+Trend: Above 50MA ($206) and 200MA ($194) | RSI 58 neutral | MACD bullish | Vol 72% of avg
+News: Nvidia teams with Wall Street asset managers on $500B AI infrastructure push — CNBC, Aug 10
+https://www.cnbc.com/quotes/NVDA
+Why: All 8 hold signals green. Q1 FY27 revenue $81.6B (+85% YoY) and Q2 guide of $91B underscore AI capex strength; today's -2.9% dip from $224 is healthy consolidation ahead of earnings.
+Stop-loss: Reassess if price falls below $202
+Take-profit: Consider taking profit above $302 (analyst mean target)
+⚠️ Earnings: Aug 26 (15 days)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [Medium Confidence]
+Price: $42.53  |  Your cost: $54.00
+P&L: -$344.10 (-21.2%)  |  Held: 48 days
+Analyst: Strong Buy (12-20 analysts) | Target: $70 → +64.6% upside
+https://stockanalysis.com/stocks/ionq/forecast/
+Moat: Trapped-ion quantum leadership; $1.8B SkyWater deal adds onshore fab; Anduril defense MoU
+Trend: Below 50MA ($48) and 200MA ($46) | RSI 53 neutral | MACD bullish crossover | Vol 64% of avg
+News: Q2 revenue $80.1M (+287% YoY), FY26 guide raised to $280-290M — Benzinga, Aug 5
+https://www.benzinga.com/markets/earnings/26/08/60973145/ionq-posts-q2-double-beat-raises-2026-outlook-shares-rise
+Why: Fundamentals just accelerated (287% growth, guide raise, $485M RPO) but stock is still digesting SkyWater dilution and sits 50% below 52W high. Thesis intact; 6/8 hold signals with MAs currently a headwind.
+Stop-loss: Reassess if price falls below $39 (50-day MA already broken)
+Take-profit: Consider taking profit above $70 (analyst mean target)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,363.65
+Total P&L:      -$301.35 (-11.3%)
+⚠️ Concentration: NVDA + IONQ both in semiconductor/quantum hardware (100% of portfolio)
+Macro regime:  Risk-mixed — markets pricing possible Fed hikes over cuts on sticky inflation; this week's CPI/PPI prints drive the rate-path repricing.
+
+📅 THIS WEEK AHEAD
+- Wed Aug 12: US July CPI (key inflation read)
+- Thu Aug 13: US July PPI + retail sales
+- Aug 26: NVDA Q2 FY27 earnings (2 weeks)
+
+✅ No action needed today
