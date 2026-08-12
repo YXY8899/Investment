@@ -1,0 +1,47 @@
+📊 DAILY PORTFOLIO REPORT
+Wed 12 Aug 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $217.50  |  Your cost: $209.00
+P&L: +$42.50 (+4.1%)  |  Held: 68 days
+Analyst: Strong Buy (61 analysts) | Target: $302.83 → +39.2% upside
+https://stockanalysis.com/stocks/nvda/forecast/
+Moat: CUDA monopoly in AI training; Blackwell data-center revenue +17% QoQ
+Trend: Above MA50 ($206) and MA200 ($194); RSI 58 neutral; MACD bullish
+News: Nvidia $500B AI infrastructure financing plan; Q2 earnings preview bullish — Motley Fool, 11 Aug
+https://www.fool.com/investing/2026/08/11/prediction-nvidia-stock-is-going-soar-after-aug-26/
+Why: 8/8 hold signals. Trend intact, fwd P/E 24 (below semi median 30), last quarter revenue $46.7B +56% YoY with $54B guide. Constructive setup into Aug 26 earnings.
+Stop-loss: Reassess if price falls below $202
+Take-profit: Consider taking profit above $303 (analyst mean target)
+⚠️ Earnings: 26 Aug 2026 (14 days)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [Medium Confidence]
+Price: $43.44  |  Your cost: $54.00
+P&L: -$316.80 (-19.6%)  |  Held: 49 days
+Analyst: Strong Buy (16 analysts) | Target: $69.11 → +59.1% upside
+https://stockanalysis.com/stocks/ionq/forecast/
+Moat: Trapped-ion quantum leader; $1.8B SkyWater deal adds vertical fab integration
+Trend: Below MA50 ($47.55) and MA200 ($45.48); RSI 55; MACD bullish crossover
+News: Q2 revenue $80.1M beat by 61%, +287% YoY; FY guide raised to $280-290M — Benzinga, 6 Aug
+https://www.benzinga.com/markets/earnings/26/08/60973145/ionq-posts-q2-double-beat-raises-2026-outlook-shares-rise
+Why: Zero sell signals; thesis strengthening — Q2 blowout, guidance raised, $28M DARPA contract, SkyWater closes vertical stack. Position underwater but MACD turning up from oversold suggests base building.
+Stop-loss: Reassess if price falls below $40 (MA50 already breached; using 8% floor)
+Take-profit: Consider taking profit above $69 (analyst mean target)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,390.70
+Total P&L:      -$274.30 (-10.3%)
+Macro regime:   Mixed risk-on — Fed at 3.50-3.75% patient; July CPI today (12 Aug) is pivotal for Sep 16 FOMC path
+
+📅 THIS WEEK AHEAD
+- Wed 12 Aug: July CPI release, 8:30 AM ET (today)
+- Fri 15 Aug: July Retail Sales
+- Tue 26 Aug: NVDA Q2 FY27 earnings (after close)
+
+✅ No action needed today
