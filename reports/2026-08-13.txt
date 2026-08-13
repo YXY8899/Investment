@@ -1,0 +1,47 @@
+📊 DAILY PORTFOLIO REPORT
+Thu 13 Aug 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $224.09  |  Your cost: $209.00
+P&L: +$75.45 (+7.2%)  |  Held: 69 days
+Analyst: Buy (37 analysts) | Target: $302 → +34.8% upside
+https://stockanalysis.com/stocks/nvda/forecast/
+Moat: CUDA/AI infrastructure monopoly, data center dominance
+Trend: Above 50MA ($206) & 200MA ($195); RSI 61 neutral; MACD bullish (+2.15 hist); volume normal (0.73x)
+News: Cramer flags NVDA breakout setup ahead of Q2 earnings — CNBC, Aug 12
+https://www.cnbc.com/quotes/NVDA
+Why: All 8 hold signals intact — bullish trend, buy consensus, 35% upside. Aug 26 earnings is the near-term catalyst; Street expects ~$91B revenue (+95% YoY).
+Stop-loss: Reassess if price falls below $206
+Take-profit: Consider taking profit above $302 (analyst mean target)
+⚠️ Earnings: Aug 26 (13 days)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [Medium Confidence]
+Price: $45.20  |  Your cost: $54.00
+P&L: -$264.00 (-16.3%)  |  Held: 50 days
+Analyst: Moderate Buy (17 analysts) | Target: $69 → +52.7% upside
+https://www.cnn.com/markets/stocks/IONQ
+Moat: Trapped-ion quantum leader; hyperscaler & DARPA contracts
+Trend: Below 50MA ($47), at 200MA ($45); RSI 69 near-overbought; MACD bullish crossover (+1.68 hist); +13% in 5D
+News: Q2 revenue +287% YoY to $80M, raised 2026 guide to $280–290M, $28M DARPA extension — Benzinga, Aug 6
+https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/08/61005307/ionq-stock-soars-after-q2-earnings-beat-raised-2026-outlook-bullish-analyst-takeaways
+Why: Strong fundamentals (287% revenue growth, raised guide) and bullish MACD crossover support holding despite -16% drawdown. RSI 69 warrants pullback watch; loss is quantum-sector volatility, not thesis breakdown.
+Stop-loss: Reassess if price falls below $46 (currently at reassess zone — 50MA)
+Take-profit: Consider taking profit above $69 (analyst mean target)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,476.45
+Total P&L:      -$188.55 (-7.1%)
+Macro regime:   Mixed — indices near record highs but breadth thinning; new Fed Chair Warsh keeps rate 3.50–3.75%, data-dependent; PPI today (Aug 13) follows CPI Aug 12
+
+📅 THIS WEEK AHEAD
+- Aug 13: PPI (today, pre-market)
+- Aug 15: Retail Sales & Philly Fed Manufacturing
+- Aug 26: NVDA Q2 FY27 earnings (key catalyst)
+
+✅ No action needed today
