@@ -1,0 +1,47 @@
+📊 DAILY PORTFOLIO REPORT
+Fri 14 Aug 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $225.30  |  Your cost: $209.00
+P&L: +$81.50 (+7.80%)  |  Held: 70 days
+Analyst: Strong Buy (61 analysts) | Target: $302.83 → +34.4% upside
+https://stockanalysis.com/stocks/nvda/forecast/
+Moat: CUDA + Blackwell dominance in AI training/inference
+Trend: Above 50MA ($206.31) & 200MA ($194.75), RSI 66.1, MACD bullish, near 52wk high ($236.54)
+News: Apollo, BlackRock, Blackstone, Brookfield, Goldman, KKR pledge up to $500B for AI data centers — CNBC, Aug 12
+https://www.cnbc.com/quotes/NVDA
+Why: All 8 hold signals firing with structural AI capex tailwind. Q2 earnings 12 days out — hold into print with high conviction; trim only on RSI >75 or thesis break.
+Stop-loss: Reassess if price falls below $207.28
+Take-profit: Consider taking profit above $302.83 (analyst mean target)
+⚠️ Earnings: Aug 26 (12 days)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [Medium Confidence]
+Price: $44.98  |  Your cost: $54.00
+P&L: -$270.60 (-16.70%)  |  Held: 51 days
+Analyst: Strong Buy (12 analysts) | Target: $69.11 → +53.6% upside
+https://stockanalysis.com/stocks/ionq/forecast/
+Moat: Trapped-ion quantum lead + DARPA contracts + newly closed $1.8B SkyWater fab
+Trend: Below 50MA ($46.54) & 200MA ($45.34), RSI 54.7, MACD just crossed bullish, 5d +13.24%
+News: Q2 revenue $80.1M (+287% YoY), FY26 guidance raised to $280-290M, SkyWater deal closed, $28M DARPA extension — Benzinga, Aug 12
+https://www.benzinga.com/markets/earnings/26/08/60973145/ionq-posts-q2-double-beat-raises-2026-outlook-shares-rise
+Why: Blowout Q2 and guidance raise reset the thesis positively. Underwater but 6 hold signals vs 0 sell; MACD crossover and 5d bounce suggest base building above 200MA.
+Stop-loss: Reassess if price falls below $41.38 (8% floor; 50MA reclaim at $46.54 is key)
+Take-profit: Consider taking profit above $69.11 (analyst mean target)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,475.90
+Total P&L:      -$189.10 (-7.10%)
+Macro regime:   Risk-on. July CPI in-line (headline +0.1% MoM, 3.4% YoY; core 2.5% YoY) — S&P at record highs on tame inflation + AI earnings. Fed hold expected Sept; ~73% odds of Dec move.
+
+📅 THIS WEEK AHEAD
+- Wed Aug 20 — FOMC Minutes
+- Thu-Fri Aug 21-22 — Jackson Hole Symposium (Powell keynote)
+- Thu Aug 21 — Flash Manufacturing/Services PMIs, jobless claims
+
+✅ No action needed today
