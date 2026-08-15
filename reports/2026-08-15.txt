@@ -1,0 +1,48 @@
+📊 DAILY PORTFOLIO REPORT
+Sat 15 Aug 2026 — Weekend brief (Fri 14 Aug close)
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $225.16  |  Your cost: $209.00
+P&L: +$80.80 (+7.7%)  |  Held: 71 days
+Analyst: Strong Buy (61 analysts) | Target: $302.83 → +34.5% upside
+https://stockanalysis.com/stocks/nvda/forecast/
+Moat: CUDA monopoly + AI training platform lock-in
+Trend: +9% above 50MA, +15.5% above 200MA, RSI 75.4 (overbought), MACD bullish, at 95% of 52w high
+News: BofA models Q2 sales $94-95B vs $91B guide, sees $3-4B upside — Yahoo Finance, 14 Aug
+https://finance.yahoo.com/markets/stocks/articles/prediction-nvidia-stock-going-soar-174000999.html
+Why: Strong Buy consensus, all trend/momentum signals positive, and street expects another beat-and-raise on 26 Aug. Only friction is RSI 75.4 hinting at short-term stretched conditions — trim only on a clean topping signal, not on RSI alone.
+Stop-loss: Reassess if price falls below $207.15
+Take-profit: Consider taking profit above $302.83 (analyst mean target)
+⚠️ Earnings: 26 Aug 2026 (11 days)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [High Confidence]
+Price: $46.26  |  Your cost: $54.00
+P&L: -$232.20 (-14.3%)  |  Held: 52 days
+Analyst: Strong Buy (13 analysts) | Target: $68.41 → +47.9% upside
+https://stockanalysis.com/stocks/ionq/forecast/
+Moat: Trapped-ion accuracy lead + vertical integration after semi foundry buy
+Trend: +0.3% above 50MA, +2.2% above 200MA, RSI 69.6, MACD bullish crossover, +31.8% in 1 month
+News: Q2 rev $80.1M (+287% YoY), 2026 guide raised to $280-290M, $28M DARPA extension — Motley Fool, 7 Aug
+https://www.fool.com/investing/2026/08/07/what-sent-ionq-shares-surging-and-whether-the-mome/
+Why: Blowout Q2, raised guidance, and Strong Buy consensus with 48% upside more than justify holding through the drawdown. Position is underwater vs entry but thesis has strengthened, not weakened — RSI 69.6 warrants patience on adding.
+Stop-loss: Reassess if price falls below $45.18
+Take-profit: Consider taking profit above $68.41 (analyst mean target)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,513.60
+Total P&L:      -$151.40 (-5.7%)
+Weights:        NVDA 44.8% | IONQ 55.2%
+Macro regime:   Risk-on but fragile — mega-cap AI names still driving returns while CPI/retail sales set the tone into next Fed decision.
+
+📅 THIS WEEK AHEAD
+- Retail Sales, Philly Fed, Industrial Production (15 Aug) — consumer + factory pulse
+- Housing Starts, Michigan Consumer Sentiment prelim (16 Aug)
+- NVDA Q2 FY27 earnings (26 Aug) — largest single catalyst for the book
+
+✅ No action needed today
