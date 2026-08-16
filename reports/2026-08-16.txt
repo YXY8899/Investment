@@ -1,0 +1,48 @@
+📊 DAILY PORTFOLIO REPORT
+Sun 16 Aug 2026 — Weekend review (Mon pre-market)
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $225.16  |  Your cost: $209.00
+P&L: +$80.80 (+7.7%)  |  Held: 72 days
+Analyst: Strong Buy (61 analysts) | Target: $302.83 → +34.5% upside
+https://www.marketbeat.com/stocks/NASDAQ/NVDA/forecast/
+Moat: CUDA + AI GPU monopoly, data-center dominance
+Trend: +9% above 50DMA / +15.5% above 200DMA, RSI 63, MACD bullish, near 52w high $236.54
+News: China limits H200 chip approvals to <50% of requested volumes — Capital.com
+https://capital.com/en-int/analysis/nvidia-nvda-stock-forecast
+Why: All 8 hold signals intact — uptrend confirmed, fwd P/E ~24x is reasonable given growth, and a big earnings catalyst is 10 days out. China H200 cap is known headwind, not thesis breaker.
+Stop-loss: Reassess if price falls below $207
+Take-profit: Consider taking profit above $303 (analyst mean target)
+⚠️ Earnings: Aug 26 (10 days)
+
+──────────────────────
+
+🟡 IONQ — HOLD  [Medium Confidence]
+Price: $46.26  |  Your cost: $54.00
+P&L: -$232.20 (-14.3%)  |  Held: 53 days
+Analyst: Strong Buy (12 analysts) | Target: $69.11 → +49.4% upside
+https://stockanalysis.com/stocks/ionq/forecast/
+Moat: Trapped-ion quantum leader; DARPA-validated; vertically integrated after semi-foundry acquisition
+Trend: Price at MA50 ($46.10) and MA200 ($45.25), RSI 59, MACD bullish, +32% over past month
+News: Q2 revenue $80.1M (+287% YoY) beat + FY guide raised to $280–290M; $28M DARPA contract extension drove +11% jump — Yahoo Finance
+https://finance.yahoo.com/markets/stocks/articles/why-ionq-stock-just-jumped-161300315.html
+Why: 7/8 hold signals — Q2 beat + DARPA win has stabilised the downtrend, moat/consensus intact. Still down vs cost basis but momentum recovering; next catalyst Nov 4 earnings.
+Stop-loss: Reassess if price falls below $45
+Take-profit: Consider taking profit above $69 (analyst mean target)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,513.60
+Total P&L:      -$151.40 (-5.7%)
+⚠️ Concentration: NVDA + IONQ both compute/AI-hardware plays (~100% of portfolio)
+Macro regime:   Risk-on — S&P 500 at record highs (>7,800), disinflation supports Fed cut bets (December most likely per July CPI/NFP)
+
+📅 THIS WEEK AHEAD
+- NVDA Q2 earnings Aug 26 (major AI-trade catalyst)
+- FOMC July meeting minutes (Wed Aug 19)
+- Jackson Hole Symposium; Powell speech Fri Aug 22
+
+✅ No action needed today (both HOLD)
