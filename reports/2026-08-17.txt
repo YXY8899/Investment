@@ -1,0 +1,48 @@
+📊 DAILY PORTFOLIO REPORT
+Mon 17 Aug 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $225.16  |  Your cost: $209.00
+P&L: +$80.80 (+7.7%)  |  Held: 73 days
+Analyst: Strong Buy (61 analysts) | Target: $302.83 → +34.5% upside
+https://stockanalysis.com/stocks/nvda/forecast/
+Moat: CUDA + Blackwell/Rubin dominance in AI training silicon
+Trend: Above 50DMA ($206.52) & 200DMA ($194.92), RSI 63, MACD bullish
+News: UBS top analyst raises NVDA PT to $205, expects sizable Q2 beat — TipRanks, Aug 15
+https://www.tipranks.com/news/ubss-top-analyst-raises-nvidia-nvda-price-target-to-205-as-q2-earnings-near
+Why: Every hold signal firing — trend, momentum, valuation upside and moat all intact. Neocloud-financing tailwind and pre-earnings upgrades support running the position into the print rather than trimming.
+Stop-loss: Reassess if price falls below $207
+Take-profit: Consider taking profit above $303 (analyst mean target)
+⚠️ Earnings: Aug 26 (9 days)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [High Confidence]
+Price: $46.26  |  Your cost: $54.00
+P&L: -$232.20 (-14.3%)  |  Held: 54 days
+Analyst: Strong Buy (12 analysts) | Target: $69.92 → +51.1% upside
+https://www.marketbeat.com/stocks/NYSE/IONQ/forecast/
+Moat: Trapped-ion technology lead + new SkyWater vertical integration
+Trend: Just above 50DMA ($46.10) & 200DMA ($45.25), RSI 59, MACD bullish cross
+News: Q2 revenue +287% YoY to $80.1M, FY26 guide raised to $280–290M, SkyWater deal closed — Quantum Insider, Aug 5
+https://thequantuminsider.com/2026/08/05/ionq-raises-2026-revenue-outlook-after-record-quarter-fueled-by-commercial-growth-skywater-acquisition/
+Why: Post-earnings dip has already recovered (+31.8% in 30 days), technicals rolling up and analyst consensus intact with a $70 target. SkyWater integration + heavy GAAP loss keep this a hold, not an add.
+Stop-loss: Reassess if price falls below $45
+Take-profit: Consider taking profit above $70 (analyst mean target)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,513.60
+Total P&L:      -$151.40 (-5.7%)
+⚠️ Concentration: NVDA + IONQ both in AI/compute hardware (100% of portfolio)
+Macro regime:   Risk-on with caveats — S&P near record 7,785 on AI/chip strength, but consumer softening; 10Y at 4.68% and 3 Fed hawks dissented for a hike in July.
+
+📅 THIS WEEK AHEAD
+- Wed Aug 19: FOMC July Minutes (dovish/hawkish split in focus)
+- Retail earnings wave: HD, TGT, LOW, WMT (consumer temperature)
+- Tue Aug 18: Housing Starts, Industrial Production (July)
+
+✅ No action needed today
