@@ -1,0 +1,48 @@
+📊 DAILY PORTFOLIO REPORT
+Tue 18 Aug 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $225.01  |  Your cost: $209.00
+P&L: +$80.05 (+7.66%)  |  Held: 74 days
+Analyst: Strong Buy (61 analysts) | Target: $302.83 → +34.6% upside
+https://public.com/stocks/nvda/forecast-price-target
+Moat: CUDA monopoly + AI training infrastructure lock-in
+Trend: Above 50DMA ($206.52) & 200DMA ($194.92); RSI 75.4 (overbought); MACD bullish crossover, histogram narrowing
+News: Nvidia backing up to $105B financing for OpenAI Ohio data center — Yahoo Finance, 17 Aug 2026
+https://finance.yahoo.com/markets/stocks/articles/prediction-nvidia-stock-going-soar-174000999.html
+Why: Fundamentals and analyst consensus firmly bullish with 34% upside to mean target; only concern is RSI stretched into earnings week. All 8 holds bar H3 (RSI range) intact — hold through earnings, watch for reaction.
+Stop-loss: Reassess if price falls below $207.01
+Take-profit: Consider taking profit above $302.83 (analyst mean target)
+⚠️ Earnings: 26 Aug 2026 (8 days) — Q2 FY27, consensus $92B revenue / $2.06 EPS
+
+──────────────────────
+
+🔵 IONQ — HOLD  [High Confidence]
+Price: $46.84  |  Your cost: $54.00
+P&L: -$214.80 (-13.26%)  |  Held: 55 days
+Analyst: Strong Buy (13 analysts, 1 SB / 10 B / 2 H) | Target: $67.68 → +44.5% upside
+https://www.cnn.com/markets/stocks/IONQ
+Moat: Vertically integrated full-stack quantum + domestic semiconductor fab (post-SkyWater)
+Trend: Just above 50DMA ($46.10) & 200DMA ($45.25); RSI 69.6 (near overbought); MACD bullish crossover, histogram narrowing
+News: Q2 revenue +287% YoY to $80.05M, beat by 20%, FY26 guide raised to $280-290M — Benzinga, 5 Aug 2026
+https://www.benzinga.com/markets/earnings/26/08/60973145/ionq-posts-q2-double-beat-raises-2026-outlook-shares-rise
+Why: Blowout Q2, guidance raise, $1.8B SkyWater acquisition closed 31 Jul, DARPA + Anduril + Sandia contracts all reinforce thesis. 8/8 hold signals fire. Still 13% underwater from cost but fundamentals moving in your favour.
+Stop-loss: Reassess if price falls below $45.18
+Take-profit: Consider taking profit above $67.68 (analyst mean target)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,530.25
+Total P&L:      -$134.75 (-5.06%)
+Note: Both holdings are tech/AI infrastructure exposure — concentrated theme, not same sector
+Macro regime:   Cautious risk-on; Fed on hold at 3.50-3.75%, markets now pricing Dec hike (only 32.6% odds of Sept cut)
+
+📅 THIS WEEK AHEAD
+- Wed 20 Aug: FOMC July meeting minutes (split-decision minutes could move rate expectations)
+- Thu 21 Aug: Jackson Hole Symposium begins + flash PMIs + jobless claims
+- Tue 26 Aug: NVDA Q2 FY27 earnings (biggest single catalyst for your portfolio)
+
+✅ No action needed today
