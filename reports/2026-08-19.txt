@@ -1,0 +1,48 @@
+📊 DAILY PORTFOLIO REPORT
+Wed 19 Aug 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $219.74  |  Your cost: $209.00
+P&L: +$53.70 (+5.14%)  |  Held: 75 days
+Analyst: Strong Buy (61 analysts) | Target: $302.83 → +37.8% upside
+https://stockanalysis.com/stocks/nvda/forecast/
+Moat: CUDA + Blackwell dominance in AI training/inference; hyperscaler dependency
+Trend: Above 50MA ($206.94) & 200MA ($195.10); RSI 56.6 neutral-bullish; MACD 5.20 > signal 3.99 bullish
+News: Nvidia backing $105B financing for OpenAI Ohio data center; BofA "Screaming Buy" 60% upside — TipRanks/CNBC, 17 Aug 2026
+https://finance.yahoo.com/quote/NVDA/
+Why: Every hold signal firing (8/8) into a highly anticipated Q2 print on Aug 26 with consensus at $91.85B revenue (+96% YoY). Trim only on a post-earnings failed breakout above $236.
+Stop-loss: Reassess if price falls below $202.80
+Take-profit: Consider taking profit above $302.83 (analyst mean target)
+⚠️ Earnings: Aug 26 2026 (7 days)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [Medium Confidence]
+Price: $44.12  |  Your cost: $54.00
+P&L: -$296.40 (-18.30%)  |  Held: 56 days
+Analyst: Strong Buy (12 analysts) | Target: $69.11 → +56.7% upside
+https://stockanalysis.com/stocks/ionq/forecast/
+Moat: Only vertically integrated trapped-ion + fabrication stack after SkyWater deal; deep DoD/DARPA relationships
+Trend: Just below 50MA ($45.47) & 200MA ($45.12); RSI 53.6 neutral; MACD 0.74 > signal -0.53, bullish crossover intact
+News: Q2 revenue +287% YoY to $80.1M, FY guide raised to $280-290M; $1.8B SkyWater acquisition closed Jul 31; $28M DARPA extension — IonQ IR / Benzinga, 5 Aug 2026
+https://www.ionq.com/news/ionq-announces-record-second-quarter-2026-revenues-growing-287-yoy
+Why: Fundamentals inflected sharply higher post-earnings while price still recovering from Jul $32 low. Thesis intact, MAs about to flip; hold through the base rebuild.
+Stop-loss: Reassess if price falls below $44.56 (already testing — cut on close below $40.60 = 8% floor)
+Take-profit: Consider taking profit above $69.11 (analyst mean target)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,422.30
+Total P&L:      -$242.70 (-9.11%)
+Macro regime:   Risk-on tilt on AI capex + resilient consumer, but Fed on hold with core PCE ~3%; Q3 GDPNow tracking ~4%
+
+📅 THIS WEEK AHEAD
+- Housing Starts & Permits — Tue 18 Aug (released)
+- Industrial Production — Tue 18 Aug (released)
+- Initial Jobless Claims — Thu 20 Aug 8:30 ET
+- NVDA Q2 FY27 earnings — Tue 26 Aug AMC (next week, key catalyst)
+
+✅ No action needed today
