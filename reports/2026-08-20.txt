@@ -1,0 +1,47 @@
+📊 DAILY PORTFOLIO REPORT
+Thu 20 Aug 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $217.56  |  Your cost: $209.00
+P&L: +$42.80 (+4.10%)  |  Held: 76 days
+Analyst: Strong Buy (61 analysts) | Target: $302.83 → +39.2% upside
+https://public.com/stocks/nvda/forecast-price-target
+Moat: CUDA + Blackwell lock-in across AI training/inference
+Trend: Above 50DMA ($207) and 200DMA ($195); RSI 71.9 (stretched, not extreme); MACD bullish (4.73 vs sig 4.13)
+News: Nvidia exploring stake in AI data provider Mercor at $20B valuation — Benzinga, Aug 19
+https://www.cnbc.com/quotes/NVDA
+Why: Trend intact above both MAs with bullish MACD, Strong Buy consensus with 39% upside, and Aug-26 earnings expected to beat (94.5% odds per StockTwits). RSI is elevated but no S1 trigger (needs >75 and at 52w high).
+Stop-loss: Reassess if price falls below $203
+Take-profit: Consider taking profit above $302.83 (analyst mean target)
+⚠️ Earnings: 2026-08-26 (6 days)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [Medium Confidence]
+Price: $43.36  |  Your cost: $54.00
+P&L: -$319.20 (-19.70%)  |  Held: 57 days
+Analyst: Strong Buy (13 analysts) | Target: $67.68 → +56.1% upside
+https://stockanalysis.com/stocks/ionq/forecast/
+Moat: Trapped-ion quantum leadership + vertical integration via SkyWater fab acquisition
+Trend: Below 50DMA ($45.08) and 200DMA ($45.03); RSI 66.7; MACD bullish crossover (+0.70 vs sig -0.29, histogram +0.99)
+News: Q2 revenue +287% YoY to $80.1M, raised FY26 outlook to $280–290M — Benzinga, Aug 5
+https://www.benzinga.com/markets/earnings/26/08/60973145/ionq-posts-q2-double-beat-raises-2026-outlook-shares-rise
+Why: Fundamentals just re-rated higher (double beat, guidance raise, SkyWater closed, $28M DARPA extension) and MACD has flipped bullish, but price is still below both moving averages — momentum is recovering, not confirmed. Loss is drawdown from post-earnings volatility, not a broken thesis.
+Stop-loss: Reassess if price falls below $44 (currently trading just below — monitor closely)
+Take-profit: Consider taking profit above $67.68 (analyst mean target)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,388.60
+Total P&L:      -$276.40 (-10.37%)
+Macro regime:   Cautious risk-on into Jackson Hole; Fed easing bets intact, awaiting new Chair Warsh's Aug 28 keynote for tone.
+
+📅 THIS WEEK AHEAD
+- Wed Aug 26: NVDA Q2 earnings after close (mega-cap AI bellwether)
+- Thu Aug 27–Fri Aug 29: Jackson Hole Symposium; Warsh first keynote Aug 28
+- Thu Aug 20: Weekly initial jobless claims
+
+✅ No action needed today
