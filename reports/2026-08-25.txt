@@ -1,0 +1,48 @@
+📊 DAILY PORTFOLIO REPORT
+Tue 25 Aug 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $208.48  |  Your cost: $209.00
+P&L: -$2.60 (-0.25%)  |  Held: 81 days
+Analyst: Strong Buy (62 analysts) | Target: $304.73 → +46.2% upside
+https://stockanalysis.com/stocks/nvda/forecast/
+Moat: CUDA + Blackwell monopoly in AI training/inference
+Trend: Above 50MA ($207.65) and 200MA ($195.34), RSI 44.7 neutral, MACD bearish, volume normal
+News: Q2 FY27 earnings Wed Aug 26 post-close; guided $91B rev (+67% YoY), Street at $91.85B — Benzinga, Aug 25
+https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/08/61402943/nvidia-may-raise-its-already-staggering-ai-growth-outlook
+Why: Down 7.4% in 5 days on pre-earnings de-risking, not fundamentals. Trend, moat and analyst consensus all intact; MACD softness reflects the pullback into tomorrow's print.
+Stop-loss: Reassess if price falls below $203.50
+Take-profit: Consider taking profit above $305 (analyst mean target)
+⚠️ Earnings: Wed Aug 26 (1 day)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [Medium Confidence]
+Price: $41.06  |  Your cost: $54.00
+P&L: -$388.20 (-24.0%)  |  Held: 62 days
+Analyst: Strong Buy (13 analysts) | Target: $68.41 → +66.6% upside
+https://stockanalysis.com/stocks/ionq/forecast/
+Moat: Trapped-ion quantum + SkyWater fab — only vertically integrated quantum-semi platform
+Trend: Below 50MA ($44.21) and 200MA ($44.80), RSI 47 neutral, MACD bullish, volume normal
+News: Q2 rev $80.1M +287% YoY, FY26 guide raised to $280-290M; $28M DARPA extension + Anduril/Sandia MOUs — Quantum Computing Report, Aug 5
+https://quantumcomputingreport.com/ionq-reports-record-q2-2026-financial-results-revenue-soars-287-to-80-1m-full-year-guidance-raised-to-290m/
+Why: -12% in 5 days looks like sector-wide risk-off contagion into Jackson Hole/NVDA earnings, not IONQ-specific (recent news is positive). Fundamentals firmly intact; MACD flipped bullish, but price is below both MAs — trend must rebuild before adding.
+Stop-loss: Reassess if price falls below $37.78 (8% floor; 50MA already breached)
+Take-profit: Consider taking profit above $68 (analyst mean target)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,274.20
+Total P&L:      -$390.80 (-14.66%)
+⚠️ Concentration: NVDA + IONQ both in Semiconductors/Tech Hardware (100% of portfolio)
+Macro regime:   Risk-off tilt — Fed on hold at 3.50-3.75%, hawkish tension; Nasdaq -2.17% last week; Warsh Jackson Hole keynote is the week's swing factor
+
+📅 THIS WEEK AHEAD
+- Wed Aug 26: NVDA Q2 FY27 earnings (post-close) + PCE/Core PCE + Q2 GDP 2nd est + durable goods (8:30 ET)
+- Thu Aug 27: Jackson Hole Symposium begins + initial jobless claims
+- Fri Aug 28: Fed Chair Warsh inaugural keynote + Michigan consumer sentiment final
+
+✅ No action needed today — NVDA earnings tomorrow is the dominant near-term catalyst
