@@ -1,0 +1,48 @@
+📊 DAILY PORTFOLIO REPORT
+Wed 26 Aug 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $213.05  |  Your cost: $209.00
+P&L: +$20.25 (+1.9%)  |  Held: 82 days
+Analyst: Strong Buy (61 analysts) | Target: $303 → +42.2% upside
+https://stockanalysis.com/stocks/nvda/forecast/
+Moat: CUDA + Blackwell dominance in AI training and inference
+Trend: Above 50MA ($207.81) and 200MA ($195.43), RSI 49.6, MACD bearish, volume normal
+News: Q2 FY27 earnings today after close; consensus expects ~97% YoY revenue growth to ~$92B with Q3 guide near $103B — Kiplinger, 26 Aug
+https://www.kiplinger.com/investing/live/nvidia-earnings-live-updates-and-commentary-august-2026
+Why: 7 of 8 hold signals intact — trend, valuation (fwd P/E 24.9x), moat, and consensus all constructive. Bearish MACD is pre-earnings drift; Wedbush and buy-side flag hyperscale spending as a positive catalyst.
+Stop-loss: Reassess if price falls below $203.65
+Take-profit: Consider taking profit above $303 (analyst mean target)
+⚠️ Earnings: 26 Aug 2026 (TODAY after close)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [Medium Confidence]
+Price: $42.05  |  Your cost: $54.00
+P&L: -$358.50 (-22.1%)  |  Held: 63 days
+Analyst: Strong Buy (13 analysts) | Target: $67.68 → +61.0% upside
+https://stockanalysis.com/stocks/ionq/forecast/
+Moat: Trapped-ion quantum leader; SkyWater acquisition (closed 31 Jul) creates only full-stack quantum + domestic fab platform
+Trend: Below 50MA ($43.89) and 200MA ($44.73), RSI 49.1, MACD bullish (histogram turning up), volume normal
+News: Added Dr. Eric Ball and Timothy Baxter to board on 25 Aug 2026 — Stockopedia
+https://www.stockopedia.com/share-prices/ion-q-NYQ:IONQ/news/
+Why: Q2 double-beat (revenue $80M vs $50M est, +287% YoY, 2026 outlook raised) supports long thesis; DA Davidson downgrade to Neutral $35 (7 Aug) is a bearish outlier vs consensus. Below both MAs is a concern, but MACD bullish crossover and 1m +17% suggest basing.
+Stop-loss: Reassess if price falls below $43.01 (already near this level — watch closely)
+Take-profit: Consider taking profit above $67 (analyst mean target)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,326.75
+Total P&L:      -$338.25 (-12.7%)
+ℹ️ Tech concentration: both holdings are AI/computing hardware (100% of portfolio)
+Macro regime:   Risk-on cautious — VIX at 8-month low, softer July retail sales and jobs data, but 30y real yields >3%; Fed expected to hold 3.50-3.75% in September
+
+📅 THIS WEEK AHEAD
+- NVDA Q2 FY27 earnings — Wed 26 Aug after close (mega-cap catalyst)
+- Core PCE release — Thu 27 Aug 8:30am ET (tracking 3.2% YoY)
+- Fed Chair Warsh at Jackson Hole Symposium — late this week
+
+🚨 Action needed: NVDA earnings tonight — be prepared for gap move at open Thu
