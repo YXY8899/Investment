@@ -1,0 +1,46 @@
+📊 DAILY PORTFOLIO REPORT
+Thu 27 Aug 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $209.66  |  Your cost: $209.00
+P&L: +$3.30 (+0.32%)  |  Held: 83 days
+Analyst: Strong Buy (61 analysts) | Target: $305.79 → +45.8% upside
+https://stockanalysis.com/stocks/nvda/forecast/
+Moat: CUDA + Blackwell dominance in AI training/inference infrastructure
+Trend: Above MA50 ($207.75) and MA200 ($195.53); RSI 46; MACD bearish; -11.4% off 52w high
+News: Q2 FY27 (last night) — Rev $96.2B beat $92.1B, EPS $2.22 beat $2.09, Data Center $89B (+117% YoY), Q3 guide $108B vs $104B est; stock +0.4% after-hours (muted)
+https://www.cnbc.com/2026/08/26/nvidia-nvda-earnings-report-q2-2027-live-updates.html
+Why: 7/8 hold signals — big earnings beat, raised guide, 75% gross margin, and analyst mean 45% above current. Muted post-print reaction reflects lofty expectations, not thesis breakage; MACD softness is the only caution.
+Stop-loss: Reassess if price falls below $203.59
+Take-profit: Consider taking profit above $305.79 (analyst mean target)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [Medium Confidence]
+Price: $40.03  |  Your cost: $54.00
+P&L: -$419.10 (-25.9%)  |  Held: 64 days
+Analyst: Strong Buy (13 analysts) | Target: $67.68 → +69.1% upside
+https://stockanalysis.com/stocks/ionq/forecast/
+Moat: Trapped-ion quantum hardware lead + SkyWater fab for vertical integration
+Trend: Below MA50 ($43.47, -7.9%) and MA200 ($44.64, -10.3%); RSI 45; MACD fresh bearish cross; -52.7% off 52w high
+News: Q2 (Aug 5) — Rev $80.1M beat $66.5M (+287% YoY); FY26 guide raised to $280–290M; $1.8B SkyWater deal closed Jul 31; $28M DARPA extension; Anduril + Sandia MOUs
+https://www.benzinga.com/markets/earnings/26/08/60973145/ionq-posts-q2-double-beat-raises-2026-outlook-shares-rise
+Why: 5/8 hold signals — fundamentals are the strongest ever (record revenue, defense wins) and consensus is Strong Buy, but price is below both MAs with a fresh MACD bearish cross. Weak tape reflects post-SkyWater dilution + sector risk-off, not thesis damage.
+Stop-loss: Reassess if price falls below $36.83 (MA50 already breached; using 8% drawdown floor)
+Take-profit: Consider taking profit above $67.68 (analyst mean target)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,249.20
+Total P&L:      -$415.80 (-15.60%)
+Macro regime:   Risk-mixed — Fed on hold at 3.50–3.75%, cuts pushed to early 2027; July NFP + retail sales negative; awaiting Jackson Hole tomorrow.
+
+📅 THIS WEEK AHEAD
+- Aug 27 (today): Core PCE — Fed's preferred inflation gauge; est +0.2% m/m, 3.2% y/y
+- Aug 28: Jackson Hole keynote by Fed Chair Warsh — top risk event this week
+- Sep 5: August NFP — consensus ~170k
+
+✅ No action needed today
