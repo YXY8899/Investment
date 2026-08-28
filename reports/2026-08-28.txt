@@ -1,0 +1,47 @@
+📊 DAILY PORTFOLIO REPORT
+Fri 28 Aug 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $227.98  |  Your cost: $209.00
+P&L: +$94.90 (+9.08%)  |  Held: 84 days
+Analyst: Strong Buy (61 analysts) | Target: $319.57 → +40.2% upside
+https://stockanalysis.com/stocks/nvda/forecast/
+Moat: CUDA + Vera Rubin — entrenched AI training monopoly
+Trend: Above 50MA ($208) & 200MA ($196); RSI 53 neutral; MACD just crossed bearish at highs; +20% in 1m
+News: Q2 FY27 blowout — rev $96.2B (+106% YoY), EPS $2.22, Q3 guide $108B; Wedbush→$345, Rosenblatt→$390 (Aug 26)
+https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/08/61475969/nvidia-stock-valuation-remains-conservative-early-2028-guidance-has-analysts-increasing-price-targets
+Why: 7 of 8 hold signals — earnings beat, strong-buy consensus, uptrend intact. MACD softening near 52w high is a watch item, not a sell trigger. FY28 guide 70% growth reinforces thesis.
+Stop-loss: Reassess if price falls below $209.74
+Take-profit: Consider taking profit above $319.57 (analyst mean target)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [Medium Confidence]
+Price: $42.46  |  Your cost: $54.00
+P&L: -$346.20 (-21.37%)  |  Held: 65 days
+Analyst: Strong Buy (12 analysts) | Target: $69.11 → +62.8% upside
+https://stockanalysis.com/stocks/ionq/forecast/
+Moat: Trapped-ion lead + vertical fab integration post-SkyWater
+Trend: Below 50MA ($43.19) & 200MA ($44.56); RSI 46 neutral; MACD bearish but flat; recovered +33% in 1m off lows
+News: Q2 rev $80.1M (+287% YoY), beat by 20%; FY26 guide raised to $280-290M; $1.8B SkyWater deal closed Jul 31 (Aug 5)
+https://quantumcomputingreport.com/ionq-reports-record-q2-2026-financial-results-revenue-soars-287-to-80-1m-full-year-guidance-raised-to-290m/
+Why: Fundamentals accelerating (287% rev growth, raised guide) despite share price underwater from June entry. No sell signals fire; below both MAs weakens confidence but recovering trend + strong-buy consensus argue for patience.
+Stop-loss: Reassess if price falls below $42.33
+Take-profit: Consider taking profit above $69.11 (analyst mean target)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,413.70
+Total P&L:      -$251.30 (-9.43%)
+⚠️ Concentration: NVDA + IONQ both semis-adjacent tech (100% of portfolio); IONQ vertically integrated post-SkyWater
+Macro regime:   Risk-off tilt — S&P -1.44% last week; new Fed Chair Warsh injecting hawkish uncertainty; ~40% odds of Sept rate hike
+
+📅 THIS WEEK AHEAD
+- Today: Jul PCE follow-through, Michigan Consumer Sentiment Final (est 51.0), NFP annual revision preliminary
+- Jackson Hole Symposium (Aug 27-29) — Warsh keynote on monetary policy already delivered
+- Sept FOMC meeting looming — market pricing 40% hike probability
+
+✅ No action needed today
