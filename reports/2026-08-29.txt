@@ -1,0 +1,48 @@
+📊 DAILY PORTFOLIO REPORT
+Sat 29 Aug 2026 — Post-market (Fri close)
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $217.55  |  Your cost: $209.00
+P&L: +$42.75 (+4.1%)  |  Held: 85 days
+Analyst: Strong Buy (61 analysts) | Target: $323 → +48% upside
+https://stockanalysis.com/stocks/nvda/forecast/
+Moat: CUDA monopoly + Blackwell AI accelerator lead
+Trend: Above MA50 ($208) and MA200 ($196); RSI 61 (neutral); MACD bearish but histogram improving (-1.53→-0.48)
+News: Nvidia paused AI Compute Partnership financing over customer-restriction dispute (Yahoo Finance, 28 Aug)
+https://finance.yahoo.com/technology/articles/why-nvidia-stock-down-today-171003911.html
+Why: Q2 FY27 earnings (26 Aug) beat with 75% gross margin and Q3 guide raised to $108B; the 4.6% drop reflects "sell-the-news" plus the partnership headline, not a broken thesis. Fundamentals and MA structure remain bullish.
+Stop-loss: Reassess if price falls below $204
+Take-profit: Consider taking profit above $323 (analyst mean target)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [Medium Confidence]
+Price: $39.20  |  Your cost: $54.00
+P&L: -$444.00 (-27.4%)  |  Held: 66 days
+Analyst: Strong Buy (13 analysts) | Target: $68.41 → +75% upside
+https://stockanalysis.com/stocks/ionq/forecast/
+Moat: Ion-trap quantum leader; multi-product (compute, networking, sensing)
+Trend: Below MA50 ($43.19) and MA200 ($44.56); RSI 50 (neutral); MACD mildly bearish; today -7.7% on sector unwind
+News: Quantum stocks unwinding revenue-headline rally, IONQ -6% (24/7 Wall St, 24 Aug)
+https://247wallst.com/investing/2026/08/24/quantum-stocks-unwind-a-revenue-headline-rally-rigetti-computing-and-infleqtion-down-7-ionq-down-6/
+Why: Q2 revenue $80M (+287% YoY) and raised 2026 guide to $280-290M keep the growth thesis intact, but the position is 27% underwater and below both MAs on sector-wide risk-off. Hold on strong analyst upside; do not add.
+Stop-loss: Reassess if price falls below $36.06 (already below 50-day MA — trend is weak)
+Take-profit: Consider taking profit above $68 (analyst mean target)
+⚠️ Earnings: ~11 Nov 2026 (~74 days)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,263.75
+Total P&L:      -$401.25 (-15.1%)
+Sectors:        NVDA=Semiconductors, IONQ=Quantum Computing (no concentration flag)
+Macro regime:   Risk-off tone into weekend; AI-infrastructure narrative wobbled by Nvidia partnership pause; quantum sector unwinding recent rally.
+
+📅 THIS WEEK AHEAD
+- US PCE inflation print (early week) — Fed rate-path input
+- ISM Manufacturing PMI
+- Nonfarm Payrolls (Friday) — key macro driver
+
+✅ No action needed today — both HOLD
