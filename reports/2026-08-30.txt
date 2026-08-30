@@ -1,0 +1,47 @@
+📊 DAILY PORTFOLIO REPORT
+Sun 30 Aug 2026 — Weekend (Fri 28 Aug close)
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $217.55  |  Your cost: $209.00
+P&L: +$42.75 (+4.09%)  |  Held: 86 days
+Analyst: Strong Buy (61 analysts) | Target: $319 → +46.6% upside
+https://stockanalysis.com/stocks/nvda/forecast/
+Moat: CUDA + Blackwell dominance in AI training/inference
+Trend: Above 50D ($208.42) and 200D ($195.83) MAs; RSI 52 neutral; MACD below signal but histogram narrowing (bearish momentum fading); +11.5% 1M
+News: Q2 FY27 blowout — rev $96.2B (+106% YoY), Q3 guide $108B vs $104B est — Webull, Aug 27
+https://www.webull.com/blog/304-Nvidia-Q2-FY2027-Earnings-Beats-Revenue-EPS-Estimates-Guides-Q3-to-108B
+Why: Fundamentals firing on all cylinders after Q2 beat and raised Q3 guide; technicals healthy with price well above both key MAs and analyst consensus targeting +47% upside. No sell signals triggered.
+Stop-loss: Reassess if price falls below $204
+Take-profit: Consider taking profit above $319 (analyst mean target)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [Low Confidence]
+Price: $39.20  |  Your cost: $54.00
+P&L: -$444.00 (-27.41%)  |  Held: 67 days
+Analyst: Strong Buy (12 analysts) | Target: $69 → +76% upside
+https://stockanalysis.com/stocks/ionq/forecast/
+Moat: Trapped-ion quantum lead + SkyWater foundry (largest US-based semi fab) post $1.8B deal
+Trend: Below 50D ($42.89) and 200D ($44.48) MAs; RSI 44; MACD bearish crossover confirmed; -12.6% past 5 days on dilution concerns (26% share count YoY)
+News: SkyWater $1.8B acquisition closed 31 Jul; Q2 rev $80M (+287% YoY), FY guide raised to $280-290M — Seeking Alpha
+https://seekingalpha.com/article/4934138-ionq-demolishes-expectations-share-dilution-a-chink-in-the-armor
+Why: S6 sell signal triggered (5-day drop >8%) but fundamentals strong (Q2 beat, SkyWater synergy, Strong Buy consensus with 76% upside), so judgement is HOLD with tight stop. Watch for continued weakness — if $36 breaks, thesis needs review.
+Stop-loss: Reassess if price falls below $36
+Take-profit: Consider taking profit above $69 (analyst mean target)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,263.75
+Total P&L:      -$401.25 (-15.06%)
+⚠️ Concentration: NVDA + IONQ both semi/AI-compute exposure (100% of portfolio; IONQ now owns US semi foundry post-SkyWater)
+Macro regime:   Risk-on tilt — Powell's Jackson Hole speech pushed Sep rate-cut odds to ~90%; disinflation + cooling jobs support easing cycle.
+
+📅 THIS WEEK AHEAD
+- Fri Sep 5: August NFP report — labor cooling could cement Sep cut
+- Powell/Fed speakers into blackout ahead of Sep 15-16 FOMC
+- Thu Sep 11: August CPI — key input to FOMC decision
+
+✅ No action needed today (both HOLD)
