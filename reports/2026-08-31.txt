@@ -1,0 +1,46 @@
+📊 DAILY PORTFOLIO REPORT
+Mon 31 Aug 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $217.55  |  Your cost: $209.00
+P&L: +$42.75 (+4.1%)  |  Held: 87 days
+Analyst: Strong Buy (61 analysts) | Target: $305 → +40.2% upside
+https://stockanalysis.com/stocks/nvda/forecast/
+Moat: CUDA + AI training/inference lock-in, Blackwell/Rubin roadmap
+Trend: Above 50MA ($208) & 200MA ($196); RSI 50 neutral; MACD bearish crossover; volume normal
+News: Rosenblatt hikes NVDA to $390 on FY28 +70% guide — Benzinga, Aug 27
+https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/08/61475969/nvidia-stock-valuation-remains-conservative-early-2028-guidance-has-analysts-increasing-price-targets
+Why: Blowout Q2 (+106% YoY rev, 75% GM), Q3 guide $108B beats consensus, analysts hiking targets across the board. MACD crossover is short-term noise; fundamentals intact with 40%+ upside to consensus.
+Stop-loss: Reassess if price falls below $204
+Take-profit: Consider taking profit above $305 (analyst mean target)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [Medium Confidence]
+Price: $39.20  |  Your cost: $54.00
+P&L: -$444.00 (-27.4%)  |  Held: 68 days
+Analyst: Strong Buy (12 analysts) | Target: $69 → +76.0% upside
+https://www.marketbeat.com/stocks/NYSE/IONQ/forecast/
+Moat: Trapped-ion architecture, SkyWater vertical integration, US govt/DoD contracts
+Trend: Below 50MA ($43) & 200MA ($44); RSI 44 neutral; MACD bearish; -12.6% in 5d (sector contagion)
+News: Quantum sector selloff — RGTI/QUBT/QBTS all -6-7% with no co-specific catalyst — 24/7 Wall St, Aug 24
+https://247wallst.com/investing/2026/08/24/quantum-stocks-unwind-a-revenue-headline-rally-rigetti-computing-and-infleqtion-down-7-ionq-down-6/
+Why: 5d drop is confirmed sector-wide macro/rate contagion (hawkish Warsh, 10Y at 4.71%), not company-specific. Q2 was strong (+287% rev, $485M RPO, $2.96B cash). Holding through drawdown given intact thesis and 76% upside.
+Stop-loss: Reassess if price falls below $42 (50MA already broken; watch $36 as 8% hard floor)
+Take-profit: Consider taking profit above $69 (analyst mean target)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,263.75
+Total P&L:      -$401.25 (-15.1%)
+Macro regime:   Risk-off — hawkish Fed (Warsh Aug 27), 10Y at 4.71%, US-Iran strikes weighing on futures
+
+📅 THIS WEEK AHEAD
+- ISM Manufacturing (Sep 2)
+- ADP Employment (Sep 3)
+- NFP (Sep 4) — key print ahead of Sep 15-16 FOMC
+
+✅ No action needed today
