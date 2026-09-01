@@ -1,0 +1,47 @@
+📊 DAILY PORTFOLIO REPORT
+Tue 1 Sep 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $220.78  |  Your cost: $209.00
+P&L: +$58.90 (+5.64%)  |  Held: 88 days
+Analyst: Strong Buy (60 analysts) | Target: $319.56 → +44.9% upside
+https://stockanalysis.com/stocks/nvda/forecast/
+Moat: CUDA + Blackwell lock on AI training/inference infra
+Trend: Above 50MA ($208.62) and 200MA ($195.96); RSI 54.6 neutral; MACD histogram just turned mildly bearish; +5.9% over 5d, +13.2% over 1mo
+News: Q2 FY27 blew away estimates — revenue $96.2B (+106% YoY), Data Center $89B, Q3 guide $108B ±2%. Investors flagged softer gross-margin outlook and pause of AI-cloud financing program (CNBC, 26 Aug 2026)
+https://www.cnbc.com/2026/08/26/nvidia-nvda-earnings-report-q2-2027-live-updates.html
+Why: Blowout Q2 print plus $108B Q3 guide reinforce the AI capex cycle; technicals are constructive with price above both key MAs. Only watch item is the margin outlook narrative and the AI-cloud financing headline, neither yet high-impact. Thesis intact.
+Stop-loss: Reassess if price falls below $204.45
+Take-profit: Consider taking profit above $319.56 (analyst mean target)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [Medium Confidence]
+Price: $39.31  |  Your cost: $54.00
+P&L: -$440.70 (-27.20%)  |  Held: 69 days
+Analyst: Strong Buy (13 analysts) | Target: $67.68 → +72.2% upside
+https://stockanalysis.com/stocks/ionq/forecast/
+Moat: Trapped-ion quantum lead; SkyWater acquisition brings in-house fab; growing sovereign/defense pipeline
+Trend: Below 50MA ($42.54) and 200MA ($44.40); RSI 44.8 neutral; MACD bearish; -4.3% over 5d, +9.9% over 1mo; -53.6% from 52wk high $84.64
+News: Q2 2026 revenue $80.1M (+287% YoY), full-year guide raised to $280-290M; Northland lifted PT to $70 from $55 post-print (Investing.com, 12 Aug 2026)
+https://www.investing.com/news/company-news/ionq-q2-2026-slides-record-revenue-skywater-deal-reshape-quantum-93CH-4839824
+Why: Fundamentals are strengthening — record revenue, 297% YoY jump in RPO backlog to $485M, and analyst target hikes. Technicals still weak (below both MAs, bearish MACD), and unrealised loss is meaningful, but no sell signals are triggered and thesis is intact. Hold and monitor for reclaim of 50-day MA.
+Stop-loss: Reassess if price falls below $41.69 (note: 50-day MA already breached — tighten watch)
+Take-profit: Consider taking profit above $67.68 (analyst mean target)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,283.20
+Total P&L:      -$381.80 (-14.33%)
+Sector mix:     NVDA Semis, IONQ Quantum/Advanced Compute — no single-sector concentration flag
+Macro regime:   Mixed. Fed on hold at 3.50-3.75% since late 2025; markets split ~50/50 on a 25bp cut at Sept 16 FOMC. Risk sentiment tilted risk-on but sensitive to this week's jobs data.
+
+📅 THIS WEEK AHEAD
+- Tue 2 Sep: JOLTS (Jul), ISM Manufacturing PMI
+- Wed 3 Sep: ADP payrolls, Durable Goods
+- Fri 5 Sep: US Nonfarm Payrolls (Aug) — key input for Sept FOMC
+
+✅ No action needed today
