@@ -1,0 +1,46 @@
+📊 DAILY PORTFOLIO REPORT
+Wed 2 Sep 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $217.44  |  Your cost: $209.00
+P&L: +$42.20 (+4.0%)  |  Held: 89 days
+Analyst: Strong Buy (60 analysts) | Target: $326 → +49.9% upside
+https://stockanalysis.com/stocks/nvda/forecast/
+Moat: CUDA monopoly in AI training + full-stack GPU/networking lead
+Trend: Above 50d ($208.80) and 200d ($196.08) MA; RSI 51.9 neutral; MACD bearish (post-earnings fade); -8% below 52wk high
+News: Q2 FY27 blowout — $96.2B rev (+106% YoY), Q3 guide $108B, $3.5B MediaTek convertible investment (NVIDIA IR, Aug 26)
+https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2027
+Why: Fundamentals are exceptional (revenue +106% YoY, Q3 guide 5-8% above consensus, mgmt sees ~70% growth in FY28) and analyst sentiment stays strongly bullish with a ~50% upside target. Short-term MACD softness reads as post-earnings digestion in a healthy uptrend, not a thesis break.
+Stop-loss: Reassess if price falls below $204.62
+Take-profit: Consider taking profit above $326 (analyst mean target)
+
+──────────────────────
+
+🔴 IONQ — HOLD  [Low Confidence]
+Price: $37.78  |  Your cost: $54.00
+P&L: -$486.60 (-30.0%)  |  Held: 70 days
+Analyst: Strong Buy (14 analysts) | Target: $70 → +85.3% upside
+https://stockanalysis.com/stocks/ionq/forecast/
+Moat: Trapped-ion quantum leadership + SkyWater fab vertical integration
+Trend: Below 50d ($42.13) and 200d ($44.34) MA; RSI 42.1; MACD bearish; -10.2% in past 5 days; 55% below 52wk high
+News: Northland raised PT to $70 from $55; public warrants set to expire Sep 30 — potential overhang (MarketBeat, Sep 1)
+https://www.marketbeat.com/stocks/NYSE/IONQ/
+Why: Q2 revenue +287% YoY and raised full-year outlook keep the growth story intact and analysts stay Strong Buy at ~$70 target. But price is under both MAs and dropped 10% in 5 days (S6 triggered), so treat the next 1-2 weeks as decision time — the formulaic stop level ($41.29) has already been breached to the downside.
+Stop-loss: Reassess NOW — price is below the $41.29 reassessment level
+Take-profit: Consider taking profit above $70 (analyst mean target)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,220.60
+Total P&L:      -$444.40 (-16.7%)
+Macro regime:   Risk-off tilt — Fed on hold at 3.50-3.75%, markets pricing ~60% odds of a Sept hike under Chair Warsh; softening jobs vs sticky inflation is the tug-of-war.
+
+📅 THIS WEEK AHEAD
+- Fri Sep 4 — Nonfarm Payrolls (August)
+- Thu Sep 10 — PPI (August)
+- Fri Sep 11 — CPI (August)
+
+🚨 Action needed: IONQ (technical stop-loss level breached — reassess)
