@@ -1,0 +1,47 @@
+📊 DAILY PORTFOLIO REPORT
+Thu 3 Sep 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $224.41  |  Your cost: $209.00
+P&L: +$77.05 (+7.4%)  |  Held: 90 days
+Analyst: Strong Buy (60+ analysts) | Target: $320 → +42.6% upside
+https://stockanalysis.com/stocks/nvda/forecast/
+Moat: CUDA + Blackwell platform monopoly in AI training/inference
+Trend: Above MA50 ($209) and MA200 ($196); RSI 56.7 healthy; MACD flat near signal; 5d +7.0%, 1m +5.9%
+News: Q2 FY27 blowout — $96.2B rev (+106% YoY), guided $108B Q3 vs $104B est; Hugging Face $14B talks — CNBC, 26 Aug 2026
+https://www.cnbc.com/2026/08/26/nvidia-nvda-earnings-report-q2-2027-live-updates.html
+Why: Post-earnings beat with guide-up plus $105B OpenAI Ohio backing keeps AI capex thesis firmly intact. Technicals constructive, no sell signals firing.
+Stop-loss: Reassess if price falls below $206.46
+Take-profit: Consider taking profit above $320 (analyst mean target)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [Medium Confidence]
+Price: $37.64  |  Your cost: $54.00
+P&L: -$490.80 (-30.3%)  |  Held: 71 days
+Analyst: Strong Buy (13 analysts) | Target: $69 → +83.3% upside
+https://www.marketbeat.com/stocks/NYSE/IONQ/forecast/
+Moat: Trapped-ion quantum leader; commercial + sovereign customer wins
+Trend: Below MA50 ($41.73, -9.8%) and MA200 ($44.30, -15.0%); RSI 41.9; MACD bearish (-0.85 vs sig -0.29); 5d -6.0%, 1m -9.8%
+News: Q2 rev $80.1M (+287% YoY), FY guide raised to $280-290M; SkyWater $1.8B deal + Sep 30 warrant expiry weighing — QuantumInsider, 5 Aug 2026
+https://thequantuminsider.com/2026/08/05/ionq-raises-2026-revenue-outlook-after-record-quarter-fueled-by-commercial-growth-skywater-acquisition/
+Why: Fundamentals are strengthening (revenue beat, guide-up), but technicals have broken key MAs on warrant/dilution overhang. Bullish long-term thesis intact; monitor closely.
+Stop-loss: Reassess if price falls below $40.90 (already breached — thesis review warranted; 8% floor at $34.63)
+Take-profit: Consider taking profit above $69 (analyst mean target)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,251.25
+Total P&L:      -$413.75 (-15.5%)
+⚠️ Concentration: NVDA + IONQ both classified Semiconductors (100% of portfolio) — full AI/compute-cycle exposure
+Macro regime:   Mixed risk-on; Fed uncertainty under new Chair Warsh (Sep hike odds ~58%), sticky inflation vs resilient growth
+
+📅 THIS WEEK AHEAD
+- Fri 4 Sep: August NFP jobs report (8:30 AM ET) — key setup for Sep FOMC
+- Wed 10 Sep: August PPI
+- Thu 11 Sep: August CPI — critical Fed input
+
+✅ No action needed today
