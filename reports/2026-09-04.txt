@@ -1,0 +1,47 @@
+📊 DAILY PORTFOLIO REPORT
+Fri 4 Sep 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $228.45  |  Your cost: $209.00
+P&L: +$97.25 (+9.3%)  |  Held: 91 days
+Analyst: Strong Buy (60 analysts) | Target: $320 → +40.1% upside
+https://stockanalysis.com/stocks/nvda/forecast/
+Moat: CUDA + Blackwell full-stack lock-in for AI training
+Trend: Above 50/200 MA ($210 / $196), RSI 59, MACD bullish crossover, near 52W high $236.54
+News: NVIDIA to acquire Hugging Face for $12.9B — extends stack into open-source model distribution (early Sep 2026, High impact)
+https://finance.yahoo.com/quote/NVDA/news
+Why: 8/8 hold signals — Q2 FY27 beat (+5.7% EPS), 75% gross margin, +40% consensus upside, technicals firmly bullish. Insider ~$1.5B Form 144 sale is sentiment noise vs strategic acquisition tailwind.
+Stop-loss: Reassess if price falls below $210
+Take-profit: Consider taking profit above $320 (analyst mean target)
+
+──────────────────────
+
+🟡 IONQ — HOLD  [Low Confidence]
+Price: $39.02  |  Your cost: $54.00
+P&L: -$449.40 (-27.7%)  |  Held: 72 days
+Analyst: Strong Buy (~14 analysts) | Target: $67 → +71.7% upside
+https://www.marketbeat.com/stocks/NYSE/IONQ/forecast/
+Moat: Trapped-ion architecture lead + SkyWater vertical integration
+Trend: Below 50/200 MA ($41.43 / $44.26), RSI 45, MACD bearish, -8.1% in 5d (quantum-sector-wide sell-off)
+News: Sept 8 Investor Day + Sept 30 warrant expiration dilution overhang; short-seller reports on gov contract exposure (High impact)
+https://finance.yahoo.com/news/why-ionq-ionq-down-8-131010465.html
+Why: 5d drop is confirmed sector contagion (RGTI/QBTS/QUBT -60%+), so S6 counts half-weight → 0 full sell signals. But price has broken below both MAs and MACD is bearish; Investor Day on Sept 8 is a binary catalyst. Cash pile $3.0B and Q2 rev +287% keep the thesis alive.
+Stop-loss: Reassess if price falls below $41 — MA50 already breached, watch closely
+Take-profit: Consider taking profit above $67 (analyst mean target)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,312.85
+Total P&L:      -$352.15 (-13.2%)
+Macro regime:   Cautious risk-on — Fed on hold (Waller signals steady rates); global bond selloff lifted yields, pressuring high-multiple growth. Speculative pre-profit tech underperforming.
+
+📅 THIS WEEK AHEAD
+- Mon Sep 7 — Labor Day, US markets closed
+- Mon Sep 8 — IONQ Investor Day at NYSE (binary catalyst)
+- Thu Sep 10 — August PPI + ORCL fiscal Q1 earnings (AI capex read-through for NVDA)
+- Fri Sep 11 — August CPI (sets tone for Sept 16 FOMC)
+
+✅ No action needed today — IONQ warrants close monitoring around Sept 8 Investor Day
