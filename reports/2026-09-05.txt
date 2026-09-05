@@ -1,0 +1,48 @@
+📊 DAILY PORTFOLIO REPORT
+Sat 5 Sep 2026 — Pre-market (for Tue 8 Sep; Mon 7 Sep is Labor Day)
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $230.36  |  Your cost: $209.00
+P&L: +$106.80 (+10.22%)  |  Held: 92 days
+Analyst: Strong Buy (60 analysts) | Target: $325.99 → +41.5% upside
+https://stockanalysis.com/stocks/nvda/forecast/
+Moat: CUDA + AI training monopoly; deepening w/ Hugging Face bid
+Trend: Above 50MA ($210.57) & 200MA ($196.68); RSI 60.4; MACD bullish (+0.84); near 52w high $236.54
+News: NVDA agrees to acquire Hugging Face for ~$12.9B — expands AI dev platform (NVIDIA Newsroom, 4 Sep)
+https://nvidianews.nvidia.com/news/latest
+Why: All 8 hold signals firing. Strong momentum, bullish technicals, mega-cap acquisition strengthens moat, analyst consensus firmly bullish with 41% upside. No sell signals present.
+Stop-loss: Reassess if price falls below $211.93
+Take-profit: Consider taking profit above $325.99 (analyst mean target)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [Medium Confidence]
+Price: $39.52  |  Your cost: $54.00
+P&L: -$434.40 (-26.81%)  |  Held: 73 days
+Analyst: Strong Buy (13 analysts) | Target: $69.11 → +74.9% upside
+https://stockanalysis.com/stocks/ionq/forecast/
+Moat: Quantum-computing pure-play; leading trapped-ion IP; still pre-profit
+Trend: Below 50MA ($41.21) & 200MA ($44.22); RSI 46.4 neutral; MACD bearish (-0.38); 53% off 52w high $84.64
+News: Q2 revenue +287% YoY (record), but $254.7M H1 op loss + SkyWater dilution weighing on shares (IonQ IR / MarketBeat, 3-4 Sep)
+https://investors.ionq.com/news/news-details/2026/IonQ-Announces-Record-Second-Quarter-2026-Revenues-Growing-287-YoY/default.aspx
+Why: 4 of 8 hold signals — analyst support and revenue growth intact, but price sits below both key MAs with bearish MACD. No sell signal triggered (no >5% 5-day drop, no downgrade). Position is underwater but thesis unbroken; monitor closely.
+Stop-loss: Already below 50MA — hard floor $36.36 (-8% from here); reassess if breaks $36
+Take-profit: Consider taking profit above $69.11 (analyst mean target)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,337.40
+Total P&L:      -$327.60 (-12.29%)
+⚠️ Concentration: NVDA + IONQ both in advanced-compute / semis (100% of portfolio)
+Macro regime:   Risk-on into Fed quiet period; Fed funds 3.50-3.75%, mkt awaiting CPI + Sep 16 FOMC dot plot
+
+📅 THIS WEEK AHEAD
+- Mon 7 Sep — US markets CLOSED (Labor Day)
+- Thu 11 Sep — PPI (pre-market)
+- Fri 12 Sep — CPI (pre-market) — key inflation print before FOMC
+- Fed blackout period active (Sep 5-17)
+
+✅ No action needed today
