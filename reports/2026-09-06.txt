@@ -1,0 +1,48 @@
+📊 DAILY PORTFOLIO REPORT
+Sun 6 Sep 2026 — Weekend recap (Mon 7 Sep = Labor Day, mkt closed; next open Tue 8 Sep)
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $230.36  |  Your cost: $209.00
+P&L: +$106.80 (+10.22%)  |  Held: 93 days
+Analyst: Strong Buy (60 analysts) | Target: $325.99 → +41.5% upside
+https://stockanalysis.com/stocks/nvda/forecast/
+Moat: CUDA + full-stack AI compute monopoly; deepening via Hugging Face buy
+Trend: Above 50DMA ($210.57) and 200DMA ($196.68); RSI 60.4; MACD bullish (hist +0.84, rising 3 days)
+News: Nvidia to acquire Hugging Face for $12.9B (2nd-largest deal ever) — CNBC, past week
+https://www.cnbc.com/quotes/NVDA
+Why: All 8 hold signals firing — uptrend intact, valuation supported by consensus Strong Buy, and Hugging Face deal reinforces AI-platform moat. No sell triggers; +5.9% in past 5 days on positive flow.
+Stop-loss: Reassess if price falls below $211.93
+Take-profit: Consider taking profit above $325.99 (analyst mean target)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [Medium Confidence]
+Price: $39.52  |  Your cost: $54.00
+P&L: -$434.40 (-26.81%)  |  Held: 74 days
+Analyst: Strong Buy (13 analysts) | Target: $69.11 → +74.9% upside
+https://stockanalysis.com/stocks/ionq/forecast/
+Moat: Trapped-ion quantum leadership; SkyWater acquisition adds fab capacity; RPO $485M (+297% YoY)
+Trend: Below 50DMA ($41.21) and 200DMA ($44.22); RSI 46.4 neutral; MACD hist -0.38 but improving 3 days
+News: Public warrants expire Sep 30, 2026 — dilution overhang being priced — investor filings
+https://investors.ionq.com/news/news-details/2026/IonQ-Announces-Record-Second-Quarter-2026-Revenues-Growing-287-YoY/default.aspx
+Why: Zero sell signals — no earnings miss, consensus bullish, and Q2 revenue +287% YoY validates thesis. Below both MAs and warrant expiry cap upside near-term; medium-conviction hold pending Sep 30 dilution clearing.
+Stop-loss: Reassess if price falls below $40.39
+Take-profit: Consider taking profit above $69.11 (analyst mean target)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,337.40
+Total P&L:      -$327.60 (-12.29%)
+Cost basis:     $2,665.00
+Macro regime:   Cautious risk-on — Aug NFP +162K (well above 53K consensus) reset Fed cut odds; 10Y at 4.77%, USD firming; AI-mega-caps leading, speculative names lagging
+
+📅 THIS WEEK AHEAD
+- Mon Sep 7: US markets closed (Labor Day)
+- Thu Sep 10: US CPI (August) — key inflation print for Sept FOMC
+- Fri Sep 11: US PPI (August) — final inflation input before Fed decision
+- Sep 16-17: FOMC meeting (rate decision + SEP dot plot)
+
+✅ No action needed today — market closed. Re-check pre-open Tue Sep 8.
