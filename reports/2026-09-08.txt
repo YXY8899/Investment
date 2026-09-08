@@ -1,0 +1,46 @@
+📊 DAILY PORTFOLIO REPORT
+Tue 8 Sep 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $230.36  |  Your cost: $209.00
+P&L: +$106.80 (+10.22%)  |  Held: 95 days
+Analyst: Strong Buy (60 analysts) | Target: $325.99 → +41.5% upside
+https://stockanalysis.com/stocks/nvda/forecast/
+Moat: CUDA + AI accelerator monopoly, deep hyperscaler lock-in
+Trend: Above 50D ($210.57) and 200D ($196.68) MA, RSI 57, MACD bullish (3.83>2.99), +5.9% 5d
+News: Q2 FY27 revenue $96.2B (+106% YoY), Q3 guide $108B; Jensen "AGI arrived" — NVIDIA IR
+https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2027
+Why: Blowout Q2 print, uptrend intact, no sell signals, 41% upside to consensus. All 8 hold signals met — thesis fully intact.
+Stop-loss: Reassess if price falls below $211.93
+Take-profit: Consider taking profit above $325.99 (analyst mean target)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [Medium Confidence]
+Price: $39.52  |  Your cost: $54.00
+P&L: -$434.40 (-26.81%)  |  Held: 76 days
+Analyst: Strong Buy (13 analysts, 11 Buy / 2 Hold) | Target: $69.11 → +74.9% upside
+https://stockanalysis.com/stocks/ionq/forecast/
+Moat: Leading pure-play trapped-ion quantum computing; 2026 revenue guide raised twice to $280-290M
+Trend: Below 50D ($41.21) and 200D ($44.22) MA, RSI 37 (approaching oversold), MACD bearish, flat 5d
+News: NEC exits quantum hardware — reduces competitor set; IONQ investor day scheduled today (Sep 8) — TipRanks/Yahoo
+https://finance.yahoo.com/quote/IONQ/news/
+Why: Down trend and losses sting, but consensus is Strong Buy, no negative catalysts, and investor day today may set multi-year revenue guidance. 5/8 hold signals; long-term thesis intact.
+Stop-loss: Reassess if price falls below $40.39 (already breached — technical review warranted; investor day is the near-term catalyst)
+Take-profit: Consider taking profit above $69.11 (analyst mean target)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,337.40
+Total P&L:      -$327.60 (-12.29%)
+Macro regime:   Risk-off tilt — Fed Sep 15-16 FOMC in quiet period; markets pricing ~60% chance of a 25bp hike as Iran supply shocks keep energy/inflation elevated (PCE 3.7%).
+
+📅 THIS WEEK AHEAD
+- Thu Sep 10: PPI (August) — inflation pipeline read
+- Fri Sep 11: CPI + core CPI (August) — key input to Sep 15-16 FOMC
+- Today Sep 8: IONQ investor day — multi-year revenue guidance possible
+
+✅ No action needed today
