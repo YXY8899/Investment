@@ -1,0 +1,47 @@
+📊 DAILY PORTFOLIO REPORT
+Wed 9 Sep 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $225.73  |  Your cost: $209.00
+P&L: +$83.65 (+8.0%)  |  Held: 96 days
+Analyst: Strong Buy (60+ analysts) | Target: $319 → +41.3% upside
+https://stockanalysis.com/stocks/nvda/forecast/
+Moat: CUDA + AI data-center monopoly
+Trend: Above 50MA ($211) & 200MA ($197), RSI 56 neutral, MACD bullish, volume normal
+News: Nvidia to acquire Hugging Face for ~$13B; Goldman Sachs conf 10 Sep — Motley Fool, 8 Sep
+https://www.fool.com/investing/2026/09/08/massive-news-for-nvidia-stock-investors/
+Why: Trend fully intact with all 8 hold signals met; Hugging Face deal strengthens AI-platform moat and analyst mean still implies >40% upside. No sell trigger.
+Stop-loss: Reassess if price falls below $207.67
+Take-profit: Consider taking profit above $319 (analyst mean target)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [Medium Confidence]
+Price: $40.47  |  Your cost: $54.00
+P&L: -$405.90 (-25.1%)  |  Held: 77 days
+Analyst: Strong Buy (12-13 analysts) | Target: $67 → +65.6% upside
+https://www.marketbeat.com/stocks/NYSE/IONQ/forecast/
+Moat: Trapped-ion quantum leader; Q2 rev ~2x all other quantum peers combined
+Trend: Below 50MA ($41) & 200MA ($44), RSI 49 neutral, MACD bearish, 1-mo -8.9%
+News: Raised 2026 rev guide to $450-460M (from $280-290M) post-SkyWater deal; new Superion 256 platform — Benzinga, 8 Sep
+https://www.benzinga.com/markets/tech/26/09/61656578/ionq-raises-2026-outlook-after-skywater-deal
+Why: 5/8 hold signals — analyst upside +65%, positive guidance raise and expanding moat outweigh weak MAs and bearish MACD. No sell trigger fires despite paper loss.
+Stop-loss: Reassess if price falls below $40.22
+Take-profit: Consider taking profit above $67 (analyst mean target)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,342.75
+Total P&L:      -$322.25 (-12.1%)
+⚠️ Concentration: NVDA + IONQ both in compute/AI-semis theme (100% of portfolio)
+Macro regime:   Risk-off tilt — Brent near $100/bbl on Iran tanker strikes; markets weigh a data-dependent Fed with 25bp Sep hike odds ~56%.
+
+📅 THIS WEEK AHEAD
+- US CPI — Fri 11 Sep 8:30 ET (key inflation print pre-FOMC)
+- Nvidia at Goldman Sachs Communacopia conf — Thu 10 Sep
+- FOMC meeting next week (16 Sep) — hawkish setup after Warsh Jackson Hole
+
+✅ No action needed today
