@@ -1,0 +1,47 @@
+📊 DAILY PORTFOLIO REPORT
+Thu 10 Sep 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $223.67  |  Your cost: $209.00
+P&L: +$73.35 (+7.02%)  |  Held: 97 days
+Analyst: Strong Buy (60 analysts) | Target: $326 → +45.7% upside
+https://stockanalysis.com/stocks/nvda/forecast/
+Moat: CUDA + AI training/inference monopoly
+Trend: Above 50d ($211.80) and 200d ($197.09); RSI 54; MACD positive but flattening; volume normal
+News: BMO reiterates Buy, raises PT to $340 (+52%) — TipRanks, 10 Sep 2026
+https://www.tipranks.com/stocks/nvda/forecast
+Why: 8 of 8 hold signals — trend intact, valuation supported by consensus, no negative catalysts. Ex-div $0.25 today plus Australia AI-capacity build add optionality into Nov 25 earnings.
+Stop-loss: Reassess if price falls below $207.56
+Take-profit: Consider taking profit above $326 (analyst mean target)
+
+──────────────────────
+
+🟡 IONQ — HOLD  [Medium Confidence]
+Price: $38.14  |  Your cost: $54.00
+P&L: -$475.80 (-29.37%)  |  Held: 78 days
+Analyst: Buy — Mizuho $52 (consensus stale — see recent target cut) | Target: $52 → +36.4% upside
+https://ca.finance.yahoo.com/news/why-ionq-ionq-stock-down-001838244.html
+Moat: Trapped-ion quantum leader; foundry acquisition adds hardware stack
+Trend: Below 50d ($40.72) and 200d ($44.13); RSI 44; MACD bearish; heavy volume on -5.8% drop
+News: Mizuho cut PT to $52 from $61 post Analyst Day; Buy maintained — Yahoo, 9 Sep 2026
+https://ca.finance.yahoo.com/news/why-ionq-ionq-stock-down-001838244.html
+Why: 5 of 8 hold signals — technicals soft, but 0 sell signals fired. Drop was valuation reset after Analyst Day, not thesis break. 2026 guide raised ~60% to $260–270M (foundry-driven). Trapped-ion moat intact.
+Stop-loss: Reassess if price falls below $35.09 (8% floor; already under 50d MA)
+Take-profit: Consider taking profit above $52 (Mizuho recent target)
+⚠️ Earnings: est. 4–11 Nov 2026 (55+ days)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,262.55
+Total P&L:      -$402.45 (-15.10%)
+Macro regime:   Risk-off tone into 11 Sep US CPI and 15–16 Sep FOMC; hawkish Chair Warsh has 25bp-hike odds live vs hold at 3.50–3.75%.
+
+📅 THIS WEEK AHEAD
+- Fri 11 Sep: US August CPI (pivotal for FOMC path)
+- Mon–Tue 15–16 Sep: FOMC decision (hold vs 25bp hike)
+- Fed speaker parade all week — hawkish tilt
+
+✅ No action needed today
