@@ -1,0 +1,47 @@
+📊 DAILY PORTFOLIO REPORT
+Fri 11 Sep 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $218.36  |  Your cost: $209.00
+P&L: +$46.80 (+4.48%)  |  Held: 98 days
+Analyst: Strong Buy (60 analysts) | Target: $327.65 → +50.0% upside
+https://www.marketbeat.com/stocks/NASDAQ/NVDA/forecast/
+Moat: CUDA + data-center dominance in AI training/inference
+Trend: Above 50D ($212) and 200D ($197) MA; RSI 49.8 neutral; MACD just crossed bearish; -7.7% from 52W high
+News: DOJ probe on Groq licensing deal weighs on sentiment; Jensen touts Grace Blackwell shipments +27% MoM — Yahoo/CNBC, 10 Sep 2026
+https://finance.yahoo.com/quote/NVDA/
+Why: Q2 FY27 blowout (rev $96.2B +106% YoY, Q3 guide $108B vs $104B est) and multiple analyst upgrades (BMO $340, Cantor $350) keep the AI-capex thesis intact. MACD bearish crossover and DOJ headline are near-term drags but not thesis breakers.
+Stop-loss: Reassess if price falls below $207.93
+Take-profit: Consider taking profit above $327.65 (analyst mean target)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [Medium Confidence]
+Price: $36.84  |  Your cost: $54.00
+P&L: -$514.80 (-31.78%)  |  Held: 79 days
+Analyst: Strong Buy (12 analysts) | Target: $69.11 → +87.6% upside
+https://www.marketbeat.com/stocks/NYSE/IONQ/forecast/
+Moat: Trapped-ion architecture + SkyWater fab integration (in-house QPU manufacturing)
+Trend: Below 50D ($40.39) and 200D ($44.11) MA; RSI 41.2; MACD bearish; -56.5% from 52W high; -15.2% in past month
+News: Sept 8 Investor Day — Superion 256 (6th-gen platform) launched, FY26 revenue guide raised to $450-460M, $8.18M Congruity360 quantum-safe deal — IonQ IR, 8 Sep 2026
+https://investors.ionq.com/news/news-details/2026/IonQ-Announces-First-Quarter-2026-Financial-Results/default.aspx
+Why: Fundamentals strengthening (Q2 rev $80.1M +287% YoY, raised guide, product cadence) but tape is broken — price is well below both MAs after quantum-sector derating. Strong Buy consensus and +87% upside support holding through the November earnings catalyst.
+Stop-loss: Reassess if price falls below $39.58 (note: already below 50D MA — recovery needs MA reclaim; 8% floor from here sits at $33.89)
+Take-profit: Consider taking profit above $69.11 (analyst mean target)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,197.00
+Total P&L:      -$468.00 (-17.56%)
+⚠️ Concentration: NVDA + IONQ both AI/semiconductor exposure (100% of portfolio)
+Macro regime:   Risk-off tilt — 10Y yield at cycle-high 4.97%, CPI today and FOMC 15-16 Sep decide near-term direction; markets pricing ~50/50 odds of 25bp cut
+
+📅 THIS WEEK AHEAD
+- 11 Sep: US August CPI report (8:30 ET) — sets tone into FOMC
+- 15-16 Sep: FOMC decision + updated Summary of Economic Projections + Powell presser (16 Sep, 2:00 ET)
+- Ongoing: Brent crude near $108 on Strait of Hormuz/Bab al-Mandeb risk
+
+✅ No action needed today
