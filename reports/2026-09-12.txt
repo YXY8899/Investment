@@ -1,0 +1,47 @@
+📊 DAILY PORTFOLIO REPORT
+Sat 12 Sep 2026 — Weekend snapshot (Fri close)
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $218.29  |  Your cost: $209.00
+P&L: +$46.45 (+4.4%)  |  Held: 99 days
+Analyst: Strong Buy (69 analysts) | Target: $319 → +46.1% upside
+https://stockanalysis.com/stocks/nvda/forecast/
+Moat: CUDA + AI-accelerator monopoly in training
+Trend: Above 50MA ($212.58) & 200MA ($197.47); RSI 49.8 neutral; MACD bearish crossover; -4.5% w/w
+News: Nvidia formalises $12.9B Hugging Face acquisition — CNBC, 11 Sep
+https://www.cnbc.com/quotes/NVDA
+Why: Q2 FY27 beat with $96.2B revenue (+106% YoY) and $108B Q3 guide; Strong Buy consensus with ~46% upside preserves thesis despite short-term MACD softness.
+Stop-loss: Reassess if price falls below $208.33
+Take-profit: Consider taking profit above $319 (analyst mean target)
+
+──────────────────────
+
+🟡 IONQ — HOLD  [Low Confidence]
+Price: $36.75  |  Your cost: $54.00
+P&L: -$517.50 (-31.9%)  |  Held: 80 days
+Analyst: Strong Buy (12 analysts) | Target: $69.11 → +88.1% upside
+https://stockanalysis.com/stocks/ionq/forecast/
+Moat: Trapped-ion quantum lead + SkyWater fab (vertical integration)
+Trend: Below 50MA ($40.10) & 200MA ($44.08); RSI 41 neutral-weak; MACD bearish; -5.8% w/w
+News: Jefferies raises PT to $80 (Sep 9); Mizuho trims to $52 keeping Outperform (Sep 8)
+https://www.marketbeat.com/stocks/NYSE/IONQ/forecast/
+Why: FY26 revenue guide raised to $450-460M post-SkyWater and Q2 grew +287% YoY, but chart is broken below both key MAs. Consider trimming on any pop above $42; add only after a base forms.
+Stop-loss: Reassess if price falls below $39.30 (already breached — position under review)
+Take-profit: Consider taking profit above $69.11 (analyst mean target)
+⚠️ Earnings: 11 Nov 2026 (~60 days)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,193.95
+Total P&L:      -$471.05 (-17.7%)
+Macro regime:   Risk-on into 15-16 Sep FOMC; Aug core CPI hot (+0.3% m/m) keeps a Fed cut in doubt while S&P 500 sits near record highs.
+
+📅 THIS WEEK AHEAD
+- FOMC decision 15-16 Sep (live meeting; rate path guidance)
+- Retail sales 16 Sep
+- Fed SEP dots + press conference 16 Sep
+
+✅ No action needed today
