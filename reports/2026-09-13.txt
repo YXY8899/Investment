@@ -1,0 +1,47 @@
+📊 DAILY PORTFOLIO REPORT
+Mon 14 Sep 2026 — Pre-market (data as of Fri 11 Sep close)
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $218.29  |  Your cost: $209.00
+P&L: +$46.45 (+4.4%)  |  Held: 100 days
+Analyst: Strong Buy (58 analysts) | Target: $327 → +50% upside
+https://stockanalysis.com/stocks/nvda/forecast/
+Moat: CUDA + Blackwell monopoly in AI training/inference
+Trend: Above MA50 ($213) and MA200 ($197); RSI 49.8 neutral; MACD 2.57 vs signal 3.10 (mild bearish drift); volume 0.67x avg
+News: NVDA to acquire Hugging Face for ~$13B — The Motley Fool, Sep 8
+https://www.fool.com/investing/2026/09/08/massive-news-for-nvidia-stock-investors/
+Why: Q2 FY27 blew past estimates ($96.2B revenue +56% YoY, GM 75%, Q3 guide $108B ± 2%); business quality and consensus intact despite 5-day pullback of 4.5% into FOMC week. No sell signals triggered.
+Stop-loss: Reassess if price falls below $208.33
+Take-profit: Consider taking profit above $327 (analyst mean target)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [Low Confidence]
+Price: $36.75  |  Your cost: $54.00
+P&L: -$517.50 (-31.9%)  |  Held: 81 days
+Analyst: Strong Buy (12 analysts) | Target: $69.11 → +88% upside
+https://www.marketbeat.com/stocks/NYSE/IONQ/forecast/
+Moat: Trapped-ion quantum leader; vertical integration via SkyWater fab
+Trend: Below MA50 ($40.10) and MA200 ($44.08); RSI 41 weak; MACD -1.20 vs signal -0.81 (bearish); down 18.7% in 1 month, 57% off 52W high
+News: IonQ raises 2026 revenue guide to $450–460M after SkyWater deal; stock +12% Sep 8 — Benzinga, Sep 8
+https://www.benzinga.com/markets/tech/26/09/61656578/ionq-raises-2026-outlook-after-skywater-deal
+Why: Fundamentals improving (Q2 revenue +287% YoY, RPOs $485M) and analyst view stays bullish, so no sell signals fire — but technicals are broken below both MAs with bearish MACD and a -32% unrealized loss. Hold on thesis, but the stop is close.
+Stop-loss: Reassess if price falls below $39.30 (already trading below MA50 support — position on watch)
+Take-profit: Consider taking profit above $69.11 (analyst mean target)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,193.95
+Total P&L:      -$471.05 (-17.7%)
+⚠️ Concentration: NVDA + IONQ both semi/AI-adjacent (100% of portfolio); no defensive ballast
+Macro regime:   Risk-on but cautious — Fed funds 3.50–3.75%, CPI print landed Fri Sep 11; markets pricing next move at FOMC Sep 15–16
+
+📅 THIS WEEK AHEAD
+- FOMC decision Wed Sep 16, 2:00pm ET (rate decision + press conf at 2:30pm)
+- US Retail Sales Wed Sep 16 (pre-FOMC)
+- Digesting Fri Sep 11 CPI print into the FOMC decision
+
+✅ No action needed today
