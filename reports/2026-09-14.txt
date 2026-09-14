@@ -1,0 +1,47 @@
+📊 DAILY PORTFOLIO REPORT
+Mon 14 Sep 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $218.29  |  Your cost: $209.00
+P&L: +$46.45 (+4.4%)  |  Held: 101 days
+Analyst: Strong Buy (60 analysts) | Target: $327 → +50.0% upside
+https://www.marketbeat.com/stocks/NASDAQ/NVDA/forecast/
+Moat: CUDA + Blackwell datacenter dominance in AI training
+Trend: Above MA50 ($213) and MA200 ($197); RSI 52 neutral; MACD mild bearish cross; -4.4% past 5d
+News: Nvidia in talks to invest up to $10B in Anthropic — Reuters
+https://finance.yahoo.com/quote/NVDA/
+Why: Q2 FY27 delivered record revenue with 75% gross margins and strong Q3 guidance. Mild MACD softness inside a healthy uptrend — not a thesis break, and the Anthropic tie-up deepens the AI ecosystem lock-in.
+Stop-loss: Reassess if price falls below $208
+Take-profit: Consider taking profit above $323 (analyst mean target)
+
+──────────────────────
+
+🟡 IONQ — HOLD  [Low Confidence]
+Price: $36.75  |  Your cost: $54.00
+P&L: -$517.50 (-31.9%)  |  Held: 82 days
+Analyst: Strong Buy (12 analysts) | Target: $69 → +87.8% upside
+https://stockanalysis.com/stocks/ionq/forecast/
+Moat: Trapped-ion quantum leader; growing enterprise + Air Force contracts
+Trend: Below MA50 ($40) and MA200 ($44); RSI 30 oversold; MACD bearish; -18.7% past month in sector-wide quantum selloff
+News: IONQ Investor Day Sept 8 — raised 2026 combined revenue outlook to $450–460M
+https://www.investing.com/news/stock-market-news/quantum-computing-stocks-outlook-ionq-rigetti-and-dwave-after-a-brutal-selloff-93CH-4798766
+Why: Company fundamentals improved (287% Q2 revenue growth, raised guidance) but the whole quantum group is de-rating on speculative-valuation reset. Oversold RSI + wide analyst upside justify patience; conviction low.
+Stop-loss: Reassess if price falls below $33.81 (MA50 stop already breached)
+Take-profit: Consider taking profit above $67 (analyst mean target)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,193.95
+Total P&L:      -$471.05 (-17.7%)
+⚠️ Concentration: NVDA + IONQ both in Semiconductors (100% of portfolio)
+Macro regime:   Risk-off tilt into FOMC Sept 15–16; ~80% odds of 25bp hike per major banks after hot August CPI print.
+
+📅 THIS WEEK AHEAD
+- FOMC rate decision Sept 15–16 (25bp hike heavily priced in)
+- August retail sales + PPI release mid-week
+- Continued rebalancing in speculative AI + quantum names
+
+✅ No action needed today
