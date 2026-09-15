@@ -1,0 +1,47 @@
+📊 DAILY PORTFOLIO REPORT
+Tue 15 Sep 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [Medium Confidence]
+Price: $210.96  |  Your cost: $209.00
+P&L: +$9.80 (+0.94%)  |  Held: 102 days
+Analyst: Strong Buy (60 analysts) | Target: $327.65 → +55.3% upside
+https://stockanalysis.com/stocks/nvda/forecast/
+Moat: CUDA + AI training monopoly, deep hyperscaler lock-in
+Trend: Below 50MA ($212.91), above 200MA ($197.61); RSI 43.9; MACD bearish; -8.4% 5d
+News: NVDA -3% Mon on AI-pace concerns; Trump/Huang call at All-In Summit; NVDA eyeing $10B Anthropic IPO stake — CNBC/Yahoo, 14 Sep 2026
+https://finance.yahoo.com/quote/NVDA/
+Why: 5-day pullback is AI-sector contagion, not company-specific (S6 half-weight only). Strong Buy consensus, 55% upside, 200MA intact keep thesis whole. Watch Wed FOMC.
+Stop-loss: Reassess if price falls below $208.65
+Take-profit: Consider taking profit above $327.65 (analyst mean target)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [Medium Confidence]
+Price: $37.50  |  Your cost: $54.00
+P&L: -$495.00 (-30.6%)  |  Held: 83 days
+Analyst: Strong Buy (12 analysts) | Target: $69.25 → +84.7% upside
+https://stockanalysis.com/stocks/ionq/forecast/
+Moat: Trapped-ion QC leader; SkyWater fab in-house; 256-qubit Superion 256 platform shipping 2027
+Trend: Below 50MA ($39.87) and 200MA ($44.03); RSI 43.2; MACD bearish; -5.1% 5d, -16.6% 1m
+News: Launched Superion 256 (6th-gen); raised FY26 revenue guide to $450–460M; Investor Day Sep 9 -5.8%, but Jefferies raised PT to $80 — Barchart, past 10 days
+https://www.barchart.com/story/news/34754276/dear-ionq-stock-fans-mark-your-calendars-for-september-12
+Why: Deep drawdown but no sell trigger fires — Strong Buy, 85% upside, product/commercial catalyst improving. Not the moment to cut; hold and let thesis play out.
+Stop-loss: Reassess if price falls below $34.50 (8% floor; already below 50MA — reclaim is the upside trigger)
+Take-profit: Consider taking profit above $69.25 (analyst mean target)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,179.80
+Total P&L:      -$485.20 (-18.2%)
+⚠️ Concentration: NVDA + IONQ both AI/compute exposure (100% of portfolio)
+Macro regime:   Risk-off tilt into FOMC (Sep 15–16); hot Aug CPI/PPI keep >60% odds of a Fed rate hike Wed.
+
+📅 THIS WEEK AHEAD
+- FOMC decision + SEP + Powell presser — Wed 16 Sep, 2pm ET
+- BOJ policy decision — Fri 19 Sep
+- Retail Sales / Housing Starts / Industrial Production this week
+
+✅ Both HOLD — no action today, but Wed FOMC could re-rate rates-sensitive names like IONQ.
