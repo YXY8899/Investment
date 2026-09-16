@@ -1,0 +1,47 @@
+📊 DAILY PORTFOLIO REPORT
+Wed 16 Sep 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [Medium Confidence]
+Price: $212.17  |  Your cost: $209.00
+P&L: +$15.85 (+1.5%)  |  Held: 103 days
+Analyst: Strong Buy (60 analysts) | Target: $327.65 → +54.4% upside
+https://stockanalysis.com/stocks/nvda/forecast/
+Moat: CUDA + Blackwell/Rubin lock-in on AI training and inference
+Trend: Just below 50DMA ($213.24), well above 200DMA ($197.79); RSI 45, MACD bearish (no cross), volume normal
+News: Consolidating -6% over past 5d on rate-hike jitters; no company-specific negative catalyst (Reuters, 15 Sep)
+https://finance.yahoo.com/quote/NVDA/
+Why: Fundamentals intact and analyst upside remains large; the pullback reflects macro de-risking ahead of today's FOMC, not a thesis break. Hold through the Fed print and watch the 200DMA as key support.
+Stop-loss: Reassess if price falls below $208.97
+Take-profit: Consider taking profit above $327.65 (analyst mean target)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [Low Confidence]
+Price: $37.05  |  Your cost: $54.00
+P&L: -$508.50 (-31.4%)  |  Held: 84 days
+Analyst: Strong Buy (13 analysts) | Target: $67.68 → +82.7% upside
+https://stockanalysis.com/stocks/ionq/forecast/
+Moat: Trapped-ion quantum leadership; SkyWater deal in-house fab; Superion 256 6th-gen platform
+Trend: Below 50DMA (-6.5%) and 200DMA (-15.8%); RSI 42, MACD bearish; -8.5% in 5d, -19.9% in 1m
+News: Sep 8 Analyst Day underwhelmed — Mizuho cut target to $52, Jefferies raised to $80; 2026 combined revenue guide $450-460M (TipRanks, 9 Sep)
+https://www.tipranks.com/news/ionqs-analyst-day-sparks-bullish-upgrades-on-bold-quantum-roadmap
+Why: S6 (-8.5% in 5d) triggers a Low-Conf sell signal, but RSI is neutral, analyst consensus stays Strong Buy with 82% upside, and the drop is post-Investor-Day de-rating rather than a thesis break. Hold with a tight leash — one more leg down and this converts to a sell.
+Stop-loss: Reassess if price falls below $34.09
+Take-profit: Consider taking profit above $67.68 (analyst mean target)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,172.35
+Total P&L:      -$492.65 (-18.5%)
+Sector note:   NVDA (Semis) and IONQ (Quantum Computing) both AI-hardware exposed but distinct sectors — no concentration flag
+Macro regime:  Risk-off tilt into today's FOMC — CME FedWatch prices 93% chance of first 25bp hike since 2023; 10Y yield at multi-year high, oil elevated
+
+📅 THIS WEEK AHEAD
+- FOMC rate decision + Powell presser (16 Sep, today)
+- US retail sales (Aug) — 17 Sep
+- Weekly jobless claims + Philly Fed — 18 Sep
+
+✅ No action needed today — both HOLD, but IONQ on close watch
