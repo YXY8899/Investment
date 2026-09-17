@@ -1,0 +1,46 @@
+📊 DAILY PORTFOLIO REPORT
+Thu 17 Sep 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $213.90  |  Your cost: $209.00
+P&L: +$24.50 (+2.34%)  |  Held: 104 days
+Analyst: Strong Buy (60 analysts) | Target: $327.65 → +53.2% upside
+https://stockanalysis.com/stocks/nvda/forecast/
+Moat: CUDA + Blackwell monopoly in AI training/inference
+Trend: Price ≈ 50DMA ($213.6), above 200DMA ($198). RSI 47 neutral. MACD 0.40 vs sig 2.00 (bearish crossover). 5d -4.4%, 1mo -4.9%.
+News: Chip stocks pulled back on AI-pacing concerns; NVDA expanded open-source CUDA-Q quantum platform — Reuters/NVIDIA, Sep 16
+https://nvidianews.nvidia.com/news/latest
+Why: Q2 FY27 blowout ($96.2B rev +106% YoY, 75% GM) and Q3 guide $108B keep the thesis intact. Recent 5% pullback is sector-driven, not company-specific; consensus Strong Buy with 53% upside supports HOLD.
+Stop-loss: Reassess if price falls below $209.31
+Take-profit: Consider taking profit above $327.65 (analyst mean target)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [Medium Confidence]
+Price: $36.84  |  Your cost: $54.00
+P&L: -$514.80 (-31.78%)  |  Held: 85 days
+Analyst: Strong Buy (12 analysts) | Target: $69.25 → +88.0% upside
+https://stockanalysis.com/stocks/ionq/forecast/
+Moat: Trapped-ion quantum lead; $485M RPO; vertical stack via SkyWater
+Trend: Price below 50DMA ($39.46) and 200DMA ($43.93). RSI 42 neutral. MACD -1.31 vs sig -1.04 (bearish). 5d -3.4%, 1mo -21.4%.
+News: Mizuho cut PT to $52 from $61 (kept Outperform) post-Investor Day; CEO sold ~16k shares (~$600K); 4 IEEE Quantum Week best paper awards — Sep 8–16
+https://investors.ionq.com/news/default.aspx
+Why: Fundamentals strengthened (Q2 rev +287% YoY, FY26 guide raised to $280-290M), but technicals are broken and Mizuho's cut confirms multiple compression. Only 5 of 8 Hold signals hit — HOLD with reduced conviction; do not average down.
+Stop-loss: Reassess if price falls below $38.67 (already below — reassess now)
+Take-profit: Consider taking profit above $69.25 (analyst mean target)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,174.70
+Total P&L:      -$490.30 (-18.40%)
+Macro regime:   Risk-off tilt — Fed hiked 25bps to 3.75-4.00% on Sep 16 (first hike since 2023); dot plot signals more possible.
+
+📅 THIS WEEK AHEAD
+- Fri Sep 18: Industrial Production & Capacity Utilization (G.17)
+- Post-FOMC Fed speaker circuit — hawkish tone risk
+- Watching mega-cap AI/chip tape for follow-through selling
+
+✅ No action needed today
