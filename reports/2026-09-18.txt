@@ -1,0 +1,47 @@
+📊 DAILY PORTFOLIO REPORT
+Fri 18 Sep 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $219.34  |  Your cost: $209.00
+P&L: +$51.70 (+4.95%)  |  Held: 105 days
+Analyst: Strong Buy (58 analysts) | Target: $319 → +45.4% upside
+https://stockanalysis.com/stocks/nvda/forecast/
+Moat: CUDA + AI compute monopoly, Blackwell demand supply-constrained.
+Trend: Above 50MA ($213.88) & 200MA ($198.17); RSI 51.7 neutral; MACD bearish crossover; volume elevated.
+News: Jensen Huang says NVDA expects to double chip sales next year on AI adoption — CNBC, 18 Sep 2026.
+https://www.cnbc.com/quotes/NVDA
+Why: Q2 FY27 crushed with $96.2B revenue (+106% YoY) and Q3 guide $108B; consensus Strong Buy with ~45% upside. Only wobble is short-term MACD roll-over — thesis intact.
+Stop-loss: Reassess if price falls below $209.60
+Take-profit: Consider taking profit above $319 (analyst mean target)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [Medium Confidence]
+Price: $40.34  |  Your cost: $54.00
+P&L: -$409.80 (-25.30%)  |  Held: 86 days
+Analyst: Strong Buy (12-13 analysts) | Target: $65 → +61.1% upside
+https://stockanalysis.com/stocks/ionq/forecast/
+Moat: Trapped-ion quantum leader; SkyWater fab acquisition secures supply chain.
+Trend: Above 50MA ($39.37) but below 200MA ($43.89); RSI 51.8 neutral; MACD flat near zero; +9.5% past 5 days recovery.
+News: 8 Sep Investor Day raised FY26 revenue guide to $450-460M (from $280-290M) post-SkyWater; CEO sold 16,121 shares 11 Sep at $37.09 — Benzinga.
+https://www.benzinga.com/markets/tech/26/09/61656578/ionq-raises-2026-outlook-after-skywater-deal
+Why: Q2 revenue +287% YoY and guide nearly doubled after SkyWater deal; consensus still Strong Buy with 60%+ upside. CEO trim and Mizuho target cut to $52 are yellow flags but not thesis-breaking.
+Stop-loss: Reassess if price falls below $38.58
+Take-profit: Consider taking profit above $65 (analyst mean target)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,306.90
+Total P&L:      -$358.10 (-13.44%)
+⚠️ Concentration: NVDA + IONQ both in Semiconductors/AI compute (100% of portfolio)
+Macro regime:   Risk-off tilt — Fed hiked 25bp on 16 Sep to 3.75-4.00% (first hike in 3 years); tape cautious on high-multiple tech.
+
+📅 THIS WEEK AHEAD
+- Fed speakers digesting the 16 Sep hike & updated dot plot
+- August new home sales / durable goods orders mid-week
+- Core PCE inflation print Fri 26 Sep — key for next-hike odds
+
+✅ No action needed today
