@@ -1,0 +1,48 @@
+📊 DAILY PORTFOLIO REPORT
+Sat 19 Sep 2026 — Weekend (last close: Fri 18 Sep)
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $222.27  |  Your cost: $209.00
+P&L: +$66.35 (+6.35%)  |  Held: 106 days
+Analyst: Strong Buy (61 analysts) | Target: $328.66 → +47.9% upside
+https://stockanalysis.com/stocks/nvda/forecast/
+Moat: CUDA + AI training ecosystem lock-in
+Trend: Above 50d MA $214.27 & 200d MA $198.38, RSI 54, MACD bearish crossover (short-term caution), volume normal
+News: Jensen Huang guides 2x chip volume next year; Huawei accelerates rival AI chip — Reuters/CNBC, 17 Sep
+https://www.cnbc.com/quotes/NVDA
+Why: FY26 revenue +65% to $215.9B, 86% analyst Buy rate, moat intact. MACD bearish crossover signals near-term consolidation, not a thesis break. Next earnings 17 Nov.
+Stop-loss: Reassess if price falls below $209.98
+Take-profit: Consider taking profit above $328.66 (analyst mean target)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [Low Confidence]
+Price: $39.13  |  Your cost: $54.00
+P&L: -$446.10 (-27.54%)  |  Held: 87 days
+Analyst: Buy (13 analysts) | Target: ~$67 → +71% upside (stale — Mizuho cut to $52, B.Riley $100)
+https://stockanalysis.com/stocks/ionq/
+Moat: Trapped-ion quantum lead + SkyWater fab integration (closed 31 Jul)
+Trend: Below 50d MA $39.25 & 200d MA $43.85, RSI 48.7, MACD just turned bullish (hist +0.10), 5d +6.5% recovery
+News: 8 Sep Investor Day failed to trigger broad upgrades; 2026 rev outlook raised to $450-460M; Q2 rev +287% YoY but adj EBITDA loss $120M — Barchart/Yahoo
+https://finance.yahoo.com/quote/IONQ/news/
+Why: Strategic progress real (Superion 256, SkyWater, IEEE awards) but monetization lags. Hawkish Fed (+25bps, 3.75-4.00%) pressures long-duration loss-makers. MACD turn + oversold bounce = hold; a break of $38.46 changes the thesis.
+Stop-loss: Reassess if price falls below $38.46
+Take-profit: Consider taking profit above $67 (analyst mean target)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,285.25
+Total P&L:      -$379.75 (-14.25%)
+⚠️ Concentration: NVDA + IONQ both in Semiconductors/AI-Quantum (100% of portfolio)
+Macro regime:   Risk-off. Fed hiked 25bps to 3.75-4.00% on 16 Sep (first hike since 2023), Chair Warsh stressed inflation "still too high"; 10Y yield target 5.1%.
+
+📅 THIS WEEK AHEAD
+- Tue 22 Sep: Chicago Fed National Activity Index
+- Wed 24 Sep: S&P Global PMIs (Mfg + Services), New Home Sales
+- Thu 25 Sep: Final Q2 GDP, Durable Goods, Jobless Claims
+- Fri 26 Sep: Core PCE inflation (key Fed gauge) + U-Mich Sentiment
+
+✅ No action needed today — both HOLD, weekend session, monitor Fri 26 Sep PCE for reaction risk.
