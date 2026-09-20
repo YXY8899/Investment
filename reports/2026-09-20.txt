@@ -1,0 +1,48 @@
+📊 DAILY PORTFOLIO REPORT
+Sun 20 Sep 2026 — Weekend (Mon pre-market)
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $222.27  |  Your cost: $209.00
+P&L: +$66.35 (+6.35%)  |  Held: 107 days
+Analyst: Strong Buy (61 analysts) | Target: $328.66 → +47.9% upside
+https://www.marketbeat.com/stocks/NASDAQ/NVDA/forecast/
+Moat: CUDA + Blackwell lock-in for AI training/inference
+Trend: Above 50MA ($214.27) and 200MA ($198.38), RSI 54, MACD hist slightly negative, +1.8% w/w
+News: Jensen said NVDA chip sales will double next year; CFO Kress sold $7.65M on 9/17 (routine)
+https://nvidianews.nvidia.com/news/latest
+Why: 6-of-8 hold signals intact — uptrend structure, Strong Buy consensus with 48% upside, no thesis breaks. MACD softening is minor consolidation after run to 52W high, not a top signal.
+Stop-loss: Reassess if price falls below $210.00
+Take-profit: Consider taking profit above $328.66 (analyst mean target)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [Medium Confidence]
+Price: $39.13  |  Your cost: $54.00
+P&L: -$446.10 (-27.5%)  |  Held: 88 days
+Analyst: Strong Buy (13 analysts) | Target: $69.25 → +77.0% upside
+https://www.marketbeat.com/stocks/NYSE/IONQ/forecast/
+Moat: Trapped-ion quantum lead + SkyWater fab; $2.1B cash war chest
+Trend: Just below 50MA ($39.25), below 200MA ($43.85), RSI 49, MACD histogram turned positive, +6.5% w/w bounce
+News: IONQ raised 2026 revenue guidance to $450-460M (>60% above prior midpoint) at Investor Day; 4 Best Paper Awards at IEEE Quantum Week
+https://www.ionq.com/news
+Why: Thesis strengthened — massive guidance raise and cash pile keep the growth story intact despite the drawdown. 5-of-8 hold signals; MACD is turning bullish and RSI mid-range — hold and let the base build.
+Stop-loss: Reassess if price falls below $38.47
+Take-profit: Consider taking profit above $69.25 (analyst mean target)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,285.25
+Total P&L:      -$379.75 (-14.25%)
+⚠️ Concentration: NVDA + IONQ both semiconductor/quantum-tech exposure (100% of portfolio)
+Macro regime:   Neutral-to-cautious risk-on — Fed on hold at 4.00-4.25%, September cut priced near zero, tech leadership continues but breadth thin
+
+📅 THIS WEEK AHEAD
+- Tue 9/22: Chicago Fed National Activity Index
+- Wed 9/23: S&P Global Flash PMIs (Mfg + Services), Richmond Fed
+- Thu 9/25: Initial Jobless Claims, Durable Goods, final Q2 GDP
+- Fri 9/26: PCE inflation (Fed's preferred gauge) — highest risk print
+
+✅ No action needed today
