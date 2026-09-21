@@ -1,0 +1,46 @@
+📊 DAILY PORTFOLIO REPORT
+Mon 21 Sep 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $222.27  |  Your cost: $209.00
+P&L: +$66.35 (+6.35%)  |  Held: 108 days
+Analyst: Strong Buy (60 analysts) | Target: $319 → +43.5% upside
+https://stockanalysis.com/stocks/nvda/forecast/
+Moat: CUDA + full-stack AI compute monopoly, hyperscaler lock-in
+Trend: Above 50D ($214) & 200D ($198), RSI 54, MACD bearish (below signal), volume normal
+News: Huang says will sell 2x more chips next year; Huawei AI-chip launch pressures sentiment — Reuters, 18 Sep
+https://www.cnbc.com/quotes/NVDA
+Why: Blowout Q2 FY27 ($96.2B rev +106% YoY, $108B Q3 guide) keeps AI thesis intact; MACD softness is short-term consolidation, not trend break. Deep buy-side conviction with $319 mean target.
+Stop-loss: Reassess if price falls below $210
+Take-profit: Consider taking profit above $319 (analyst mean target)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [Medium Confidence]
+Price: $39.13  |  Your cost: $54.00
+P&L: -$446.10 (-27.54%)  |  Held: 89 days
+Analyst: Strong Buy (12 analysts) | Target: $69 → +76.4% upside
+https://www.marketbeat.com/stocks/NYSE/IONQ/forecast/
+Moat: Trapped-ion architecture lead + SkyWater US fab + rising commercial backlog
+Trend: Below 50D ($39.25) & 200D ($43.85), RSI 49, MACD bullish crossover today, volume normal
+News: 2026 revenue guide raised to $450–460M at Sep Investor Day; nine papers at IEEE Quantum Week — IonQ IR, 16 Sep
+https://investors.ionq.com/news/news-details/2026/IonQ-Announces-Record-Second-Quarter-2026-Revenues-Growing-287-YoY/default.aspx
+Why: Fundamentals accelerating (Q2 rev +287% YoY, raised guide) while stock sits 54% below 52W high — a valuation/sentiment reset, not a thesis break. Fresh MACD cross + Strong Buy consensus argue for patience over capitulation.
+Stop-loss: Reassess if price falls below $38.47
+Take-profit: Consider taking profit above $69 (analyst mean target)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,285.25
+Total P&L:      -$379.75 (-14.25%)
+Macro regime:   Cautiously risk-on — Fed on hold near 3.88% after Sep 16 meeting, futures now pricing a hike (not cut) into Dec; AI capex cycle still the dominant equity narrative.
+
+📅 THIS WEEK AHEAD
+- Fed speakers all week (Goolsbee Mon, Powell mid-week) — hawkish tone risk
+- Aug PCE inflation print (Fri 26 Sep) — Fed's preferred gauge
+- Multiple Fed regional presidents; Treasury bill auctions daily
+
+✅ No action needed today
