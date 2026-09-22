@@ -1,0 +1,47 @@
+📊 DAILY PORTFOLIO REPORT
+Tue 22 Sep 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $227.38  |  Your cost: $209.00
+P&L: +$91.90 (+8.79%)  |  Held: 109 days
+Analyst: Strong Buy (61 analysts) | Target: $328.66 → +44.5% upside
+https://stockanalysis.com/stocks/nvda/forecast/
+Moat: CUDA + Vera Rubin platform dominance in AI training/inference
+Trend: Above 50DMA ($214.60) & 200DMA ($198.61); RSI 58; MACD flattening near signal; +7.8% in 5d
+News: Q2 FY27 revenue $96.2B (+106% YoY), Q3 guide $108B (beat $104.2B) — NVIDIA, 26 Aug 2026
+https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2027
+Why: All 8 hold signals active — trend, momentum, valuation upside and business quality all intact after a blowout Q2 print and Vera Rubin production ramp. No sell triggers.
+Stop-loss: Reassess if price falls below $210.31
+Take-profit: Consider taking profit above $328.66 (analyst mean target)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [High Confidence]
+Price: $40.51  |  Your cost: $54.00
+P&L: -$404.70 (-24.98%)  |  Held: 90 days
+Analyst: Strong Buy (13 analysts) | Target: $69.25 → +71.0% upside
+https://stockanalysis.com/stocks/ionq/forecast/
+Moat: Trapped-ion quantum leader; SkyWater acquisition brings chip fab in-house
+Trend: Above 50DMA ($39.21) but below 200DMA ($43.82); RSI 52; MACD bullish crossover; +8.0% in 5d
+News: Q2 revenue $80.1M (+287% YoY), FY26 guide raised to $280–290M — IonQ IR, 6 Aug 2026
+https://investors.ionq.com/news/news-details/2026/IonQ-Announces-Record-Second-Quarter-2026-Revenues-Growing-287-YoY/default.aspx
+Why: 7 of 8 hold signals (only below 200DMA); recent guidance raise, bullish MACD, IEEE Best Paper wins, and B.Riley/Needham target hikes to $80–$100 keep the thesis intact despite the drawdown. No sell triggers.
+Stop-loss: Reassess if price falls below $38.43
+Take-profit: Consider taking profit above $69.25 (analyst mean target)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,352.20
+Total P&L:      -$312.80 (-11.74%)
+⚠️ Concentration: NVDA + IONQ both in advanced computing / semiconductors (100% of portfolio)
+Macro regime:   Risk-on but cautious — Fed at 3.75–4.00% after 16 Sep 25bp move; markets digesting guidance, AI capex tailwind (Vera Rubin ramp, NVDA–Intel $5B tie-up) still dominant.
+
+📅 THIS WEEK AHEAD
+- Post-FOMC positioning and Fed speaker circuit (multiple appearances)
+- Weekly jobless claims (Thu)
+- August PCE inflation (Fri) — first read since FOMC
+
+✅ No action needed today
