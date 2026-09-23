@@ -1,0 +1,47 @@
+📊 DAILY PORTFOLIO REPORT
+Wed 23 Sep 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $228.87  |  Your cost: $209.00
+P&L: +$99.35 (+9.5%)  |  Held: 110 days
+Analyst: Strong Buy (58 analysts) | Target: $323 → +41% upside
+https://stockanalysis.com/stocks/nvda/forecast/
+Moat: CUDA + data-center AI accelerator monopoly; 75% gross margin
+Trend: Above 50MA ($214.6) & 200MA ($198.6); RSI 58; MACD gap closing toward bullish cross; 5D +7.8%
+News: Anthropic eyes 1 GW data-center lease for NVDA/Google/Broadcom chips — CNBC, Sep 22
+https://www.cnbc.com/quotes/NVDA
+Why: Q2 FY27 revenue $96.2B (+106% YoY), GAAP EPS $2.46, guidance intact. Trading 3% below 52W high with RSI still healthy — no sell trigger and analyst upside remains large.
+Stop-loss: Reassess if price falls below $210.56
+Take-profit: Consider taking profit above $323 (analyst mean target)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [High Confidence]
+Price: $40.74  |  Your cost: $54.00
+P&L: -$397.80 (-24.6%)  |  Held: 91 days
+Analyst: Strong Buy (13 analysts) | Target: $69 → +69% upside
+https://stockanalysis.com/stocks/ionq/forecast/
+Moat: Trapped-ion quantum leader; SkyWater fab in-house; expanding OEM/partner network
+Trend: Above 50MA ($39.2) but below 200MA ($43.8); RSI 52; MACD just crossed bullish; 5D +8.0%
+News: SDT South Korea partnership expands to hardware production & regional commercialisation — Quiver Quant, Sep 23
+https://www.quiverquant.com/news/IonQ+stock+rises+as+investors+latch+onto+Korea+expansion+and+recent+product+momentum
+Why: Positive catalyst flow (SDT deal, raised FY26 revenue guide to $450-460M post-SkyWater close) and bullish MACD crossover argue for patience despite the 200MA overhang. No sell signals triggered.
+Stop-loss: Reassess if price falls below $38.43
+Take-profit: Consider taking profit above $69 (analyst mean target)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,366.55
+Total P&L:      -$298.45 (-11.2%)
+⚠️ Concentration: NVDA + IONQ both tech / semi-adjacent (100% of portfolio)
+Macro regime:   Cautious risk-on — Fed just hiked to 3.75-4.00%; dot-plot leans to one more hike; elevated yields pressure growth multiples.
+
+📅 THIS WEEK AHEAD
+- Fed speaker gauntlet (10 appearances Sep 23-25) — path-of-rates signal
+- U-Mich Consumer Sentiment final — Fri Sep 25
+- Prelim PCE next week — key inflation print for Oct 27-28 FOMC
+
+✅ No action needed today
