@@ -1,0 +1,47 @@
+📊 DAILY PORTFOLIO REPORT
+Thu 24 Sep 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $225.51  |  Your cost: $209.00
+P&L: +$82.55 (+7.9%)  |  Held: 111 days
+Analyst: Strong Buy (61 analysts) | Target: $328.66 → +45.7% upside
+https://stockanalysis.com/stocks/nvda/forecast/
+Moat: CUDA + Blackwell/Rubin lock-in for AI training workloads
+Trend: +4.7% above 50-MA, +13.3% above 200-MA, RSI 51 neutral, MACD bullish, +5.4% w/w
+News: IonQ deploys first on-prem QPU at NVIDIA Accelerated Quantum Research Center — Benzinga, 23 Sep 2026
+https://www.benzinga.com/trading-ideas/movers/26/09/61947635/ionq-makes-first-on-premise-quantum-deployment-at-nvidia-research-center
+Why: Q2 FY27 revenue $96.2B (+106% YoY), $89B Data Center, Q3 guide $108B — beat + raise fully intact. Trend, valuation (fwd P/E ~25) and analyst upside all support holding through the Nov earnings print.
+Stop-loss: Reassess if price falls below $211.07
+Take-profit: Consider taking profit above $328.66 (analyst mean target)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [High Confidence]
+Price: $42.54  |  Your cost: $54.00
+P&L: -$343.80 (-21.2%)  |  Held: 92 days
+Analyst: Strong Buy (12 analysts) | Target: $69.25 → +62.8% upside
+https://stockanalysis.com/stocks/ionq/forecast/
+Moat: Trapped-ion architecture + Superion 256 platform + deepening NVIDIA partnership
+Trend: +8.2% above 50-MA, -2.7% below 200-MA, RSI 65 (approaching overbought), MACD bullish crossover, +15.5% w/w on 233% avg volume
+News: IonQ demos first end-to-end real-time quantum error decoder; B. Riley/Jefferies raise targets to $100 — CNBC/Schaeffer's, 23 Sep 2026
+https://www.cnbc.com/2026/09/23/ionq-shares-rally-after-company-says-it-made-a-major-quantum-computing-breakthrough.html
+Why: Real-time error decoding is a genuine technical milestone that validates the trapped-ion roadmap, and NVDA Accelerated Quantum Research Center deployment gives commercial credibility. Position still underwater from June cost basis but momentum, moat and analyst consensus argue for holding into the Nov 11 print.
+Stop-loss: Reassess if price falls below $39.14
+Take-profit: Consider taking profit above $69.25 (analyst mean target)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,403.75
+Total P&L:      -$261.25 (-9.8%)
+⚠️ Concentration: NVDA + IONQ both semiconductor-adjacent (100% of portfolio)
+Macro regime:   Cautious risk-on — Fed under Chair Warsh delivered first hike since 2023 (25 bps to 3.75-4.00%), hawkish tone lifting yields, but AI capex cycle still anchors mega-cap tech.
+
+📅 THIS WEEK AHEAD
+- Fri 26 Sep: PCE inflation (Fed's preferred gauge) + final U-Mich sentiment
+- Thu 25 Sep: Initial jobless claims, durable goods, final Q2 GDP
+- Fedspeak throughout — every meeting now higher-vol under new Chair reaction function
+
+✅ No action needed today
