@@ -1,0 +1,47 @@
+📊 DAILY PORTFOLIO REPORT
+Fri 25 Sep 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $224.58  |  Your cost: $209.00
+P&L: +$77.90 (+7.5%)  |  Held: 112 days
+Analyst: Strong Buy (60 analysts) | Target: $329 → +46.5% upside
+https://stockanalysis.com/stocks/nvda/forecast/
+Moat: CUDA + AI-accelerator monopoly; data-center king
+Trend: Above 50/200 MA, RSI 54.7, MACD bullish (weakening), 5% below 52W high
+News: Nvidia to acquire Hugging Face for $12.9B; CUDA-Q platform expanded (Sep 14) — Motley Fool
+https://www.fool.com/investing/2026/09/08/massive-news-for-nvidia-stock-investors/
+Why: All 8 hold signals green — price above both MAs, RSI neutral, MACD bullish, Strong Buy with +46% upside. FY26 revenue $216B (+65% YoY), Q2 sales $44B. Hugging Face buy widens the AI-stack moat.
+Stop-loss: Reassess if price falls below $211
+Take-profit: Consider taking profit above $329 (analyst mean target)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [High Confidence]
+Price: $44.98  |  Your cost: $54.00
+P&L: -$270.60 (-16.7%)  |  Held: 93 days
+Analyst: Strong Buy (12 analysts) | Target: $69 → +54.0% upside
+https://stockanalysis.com/stocks/ionq/forecast/
+Moat: Trapped-ion quantum leader; SkyWater fab partnership
+Trend: Above 50/200 MA, RSI 62.3, MACD bullish strengthening, +11.5% past 5 days
+News: Real-time quantum error-correction decoder + South Korea SDT hardware deal (Sep 23) — StocksToTrade
+https://stockstotrade.com/news/ionq-inc-ionq-news-2026_09_23/
+Why: 8/8 hold signals — momentum flipped bullish (5D +11.5%, MACD strengthening), Q2 revenue +287% YoY, mgmt raised 2026 guide to $280-290M. Analyst chorus loud (B. Riley $100, Jefferies raised $75→$80).
+Stop-loss: Reassess if price falls below $41
+Take-profit: Consider taking profit above $69 (analyst mean target)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,472.30
+Total P&L:      -$192.70 (-7.2%)
+⚠️ Concentration: NVDA + IONQ = 100% AI / deep-tech growth theme (high correlation to Nasdaq beta and rate moves)
+Macro regime:   Risk-cautious. Fed hiked 25bps to 3.75–4.00% on Sep 16; market pricing potential further hike, 10Y yields near 20-year highs weighing on high-multiple growth.
+
+📅 THIS WEEK AHEAD
+- Aug PCE inflation (Fed's preferred gauge) — Fri
+- Q2 GDP final revision — Thu
+- Fed speakers post-FOMC (guidance signals)
+
+✅ No action needed today
