@@ -1,0 +1,47 @@
+📊 DAILY PORTFOLIO REPORT
+Tue 29 Sep 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $228.86  |  Your cost: $209.00
+P&L: +$99.30 (+9.5%)  |  Held: 116 days
+Analyst: Strong Buy (61 analysts) | Target: $327.70 → +43.2% upside
+https://stockanalysis.com/stocks/nvda/forecast/
+Moat: CUDA + AI accelerator monopoly, data-center dominance
+Trend: Above MA50 $216.50 & MA200 $199.69, RSI 58.6, MACD bullish, volume normal
+News: Nvidia board approved additional $150B share buyback authorization — StockAnalysis, Sep 2026
+https://stockanalysis.com/stocks/nvda/
+Why: Structural AI demand thesis intact; mega buyback signals strong FCF and capital-return confidence. All 8 hold signals hit, zero sell signals — well above key MAs with bullish MACD.
+Stop-loss: Reassess if price falls below $212
+Take-profit: Consider taking profit above $328 (analyst mean target)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [High Confidence]
+Price: $44.58  |  Your cost: $54.00
+P&L: -$282.60 (-17.4%)  |  Held: 97 days
+Analyst: Strong Buy (13 analysts) | Target: $67.14 → +50.6% upside
+Recent upgrades: Jefferies $80, B. Riley $100 (past 60 days)
+https://stockanalysis.com/stocks/ionq/forecast/
+Moat: Trapped-ion quantum tech lead, expanding OEM + enterprise partnerships (SDT Superion-256, Synopsys, SkyWater)
+Trend: Above MA50 $39.86 & MA200 $43.58, RSI 60.3, MACD bullish (fresh crossover), 5D +10.0%
+News: Real-time quantum error correction demo on single CPU + SDT partnership deploys Superion-256 in Asia — StocksToTrade, 23 Sep 2026
+https://stockstotrade.com/news/ionq-inc-ionq-news-2026_09_23/
+Why: Technical structure turned constructive — reclaimed both MAs with bullish MACD after long drawdown. Fundamentals strengthening: recent $80–$100 analyst targets vs $67 consensus (stale — see recent upgrades). Position underwater but momentum inflecting.
+Stop-loss: Reassess if price falls below $41
+Take-profit: Consider taking profit above $67 (analyst mean target)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,481.70
+Total P&L:      -$183.30 (-6.9%)
+Macro regime:   Risk-off tilt — Fed hiked 25bp in Sep (first hike since 2023); 10Y at ~5.27% (19y high); ~66% odds of another Oct hike.
+
+📅 THIS WEEK AHEAD
+- Tue 29 Sep: OpenAI Developer Day (tech-sentiment driver)
+- Wed 1 Oct: ADP Employment + ISM Manufacturing PMI
+- Fri 3 Oct: Nonfarm Payrolls, Unemployment Rate, ISM Services
+
+✅ No action needed today
