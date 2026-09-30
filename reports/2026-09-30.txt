@@ -1,0 +1,47 @@
+📊 DAILY PORTFOLIO REPORT
+Wed 30 Sep 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $227.21  |  Your cost: $209.00
+P&L: +$91.05 (+8.71%)  |  Held: 117 days
+Analyst: Strong Buy (29 analysts) | Target: $325.23 → +43.1% upside
+https://www.tipranks.com/stocks/nvda/forecast
+Moat: CUDA + Blackwell monopoly in AI training
+Trend: Above 50DMA ($217) and 200DMA ($200), near 52W high ($236.54); RSI 56.6 (neutral), MACD bullish; 1M +4.4%
+News: Nvidia to acquire Hugging Face for ~$12.93B; record Q2 print raised long-term revenue outlook — Reuters/Barchart, Sep 2026
+https://www.barchart.com/story/news/37149525/earnings-preview-what-to-expect-from-nvidia-s-report
+Why: Trend, breadth, and consensus all remain firmly bullish with 0 sell signals firing. Deep moat intact and next catalyst (Q3 print, Nov ~18) still ahead — no reason to trim here.
+Stop-loss: Reassess if price falls below $212.64
+Take-profit: Consider taking profit above $325.23 (analyst mean target)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [Medium Confidence]
+Price: $43.91  |  Your cost: $54.00
+P&L: -$302.70 (-18.69%)  |  Held: 98 days
+Analyst: Moderate Buy | Target: $67.17 → +53.0% upside
+https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-lifts-ionq-price-145510449.html
+Moat: Trapped-ion quantum lead + SkyWater foundry integration
+Trend: Above 50DMA ($40.05) and just above 200DMA ($43.55); RSI 58.1, MACD bullish (rising); 5D +7.8%, 1M +12.0% — recovering off lows, still 48% off 52W high ($84.64)
+News: FY2026 revenue guide raised to $450–460M (SkyWater-driven); Superion 256 launched; $8.18M Congruity360 quantum-security deal — Sep 2026
+https://www.marketbeat.com/instant-alerts/price-ionq-nyse-ionq-shares-up-21-still-a-buy-2026-09-08/
+Why: 8/8 hold signals with 0 sell triggers — technicals turning up and analyst upside is large. Confidence trimmed to Medium given position underwater 18.7%, IONQ still unprofitable, and beta 3.3 keeps drawdown risk elevated.
+Stop-loss: Reassess if price falls below $40.40
+Take-profit: Consider taking profit above $67.17 (analyst mean target)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,453.35
+Total P&L:      -$211.65 (-7.94%)
+Positions:      NVDA (Semiconductors) | IONQ (Quantum Computing) — different sub-sectors, no concentration flag
+Macro regime:   Risk-on tilt into Q4; Fed funds 3.50–3.75% with mixed guidance on next move, elevated but decelerating inflation, resilient labor market
+
+📅 THIS WEEK AHEAD
+- US ISM Manufacturing PMI (Oct 1) — activity read
+- Fed speakers throughout the week — policy path signals
+- Nonfarm Payrolls / Unemployment (Oct 2) — labor-market pivot check
+
+✅ No action needed today
