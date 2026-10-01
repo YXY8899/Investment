@@ -1,0 +1,46 @@
+📊 DAILY PORTFOLIO REPORT
+Thu 1 Oct 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $228.38  |  Your cost: $209.00
+P&L: +$96.90 (+9.3%)  |  Held: 118 days
+Analyst: Strong Buy (49 analysts) | Target: $255.78 → +12.0% upside
+https://www.tipranks.com/news/top-analyst-expects-nvidia-nvda-to-deliver-beat-and-raise-q3-results-lifts-price-target
+Moat: CUDA + Blackwell monopoly in AI training & inference
+Trend: Above 50MA ($217) and 200MA ($200); RSI 56.6; MACD bullish; -3.5% from 52w high
+News: Prior quarter revenue +56% YoY to $46.7B, EPS beat; next-quarter guide $54B; Blackwell DC +17% QoQ — The Motley Fool/Nasdaq
+https://www.fool.com/data-news/2025/08/27/nvidia-posts-56-revenue-jump-in-q2
+Why: 8/8 hold signals active — price above both MAs, MACD bullish, Strong Buy with +12% upside, Blackwell ramp intact. No sell triggers.
+Stop-loss: Reassess if price falls below $212.64
+Take-profit: Consider taking profit above $255.78 (analyst mean target)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [High Confidence]
+Price: $43.86  |  Your cost: $54.00
+P&L: -$304.20 (-18.8%)  |  Held: 99 days
+Analyst: Buy (6 analysts) | Target: $62.50 → +42.5% upside
+https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-lifts-ionq-price-145510449.html
+Moat: Trapped-ion quantum leader + SkyWater foundry vertical integration
+Trend: Above 50MA ($40) and barely above 200MA ($43.55); RSI 58.1; MACD bullish; +12% past month; still -48% from 52w high
+News: FY2026 revenue guide raised to $450-460M post-SkyWater; Q2 rev $80.1M +287% YoY; 4 IEEE Quantum Week best paper awards — SEC 8-K
+https://www.sec.gov/Archives/edgar/data/0001824920/000119312526208923/ionq-ex99_1.htm
+Why: 8/8 hold signals — momentum turning up (above both MAs, bullish MACD), guidance raised, analyst upside >40%. Position underwater but thesis strengthening.
+Stop-loss: Reassess if price falls below $40.35
+Take-profit: Consider taking profit above $62.50 (analyst mean target)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:   $2,457.70
+Total P&L:     -$207.30 (-7.8%)
+Macro regime:  Risk-off tilt — US government shutdown began Oct 1; Fed meets Oct 28 with ~100% odds of 25bps cut; shutdown may delay NFP and complicate Fed data.
+
+📅 THIS WEEK AHEAD
+- Fri Oct 2 — Nonfarm Payrolls at 8:30 AM ET (may be delayed by shutdown)
+- Wed Oct 7 — FOMC September meeting minutes at 2:00 PM ET
+- Ongoing — US government shutdown impact on official data releases
+
+✅ No action needed today
