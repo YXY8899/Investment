@@ -1,0 +1,46 @@
+📊 DAILY PORTFOLIO REPORT
+Fri 2 Oct 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $230.86  |  Your cost: $209.00
+P&L: +$109.30 (+10.5%)  |  Held: 119 days
+Analyst: Buy (consensus) | Target: $250 → +8.3% upside
+https://www.tipranks.com/news/top-analyst-expects-nvidia-nvda-to-deliver-beat-and-raise-q3-results-lifts-price-target
+Moat: CUDA + Blackwell near-monopoly in AI training
+Trend: Above 50D ($218) and 200D ($200), RSI 60, MACD bullish expanding
+News: SpaceX signs $920M/mo compute lease with Google for ~110K NVDA GPUs through mid-2029 — Barchart, Oct 2026
+https://www.barchart.com/story/news/36751671/the-case-for-nvidia-stock-hitting-275-in-2026
+Why: 8/8 Hold signals — uptrend intact, no sell triggers. SpaceX-Google deal reaffirms hyperscale AI capex. Watch Nov 18 Q3 FY27 earnings as next catalyst; China export scrutiny a mild overhang.
+Stop-loss: Reassess if price falls below $213
+Take-profit: Consider taking profit above $250 (analyst mean target)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [High Confidence]
+Price: $43.99  |  Your cost: $54.00
+P&L: -$300.30 (-18.5%)  |  Held: 100 days
+Analyst: Buy — 11 Buy / 2 Hold / 0 Sell | Target: $68.41 → +55.5% upside
+https://finance.yahoo.com/markets/stocks/articles/prediction-ionq-price-target-soars-142547934.html
+Moat: Trapped-ion quantum leadership + growing commercial pipeline
+Trend: Above 50D ($40.41, +8.9%), barely above 200D ($43.47, +1.2%), RSI 58, MACD positive but histogram cooling
+News: IonQ raised 2026 revenue guidance to $450–460M (vs $280–290M); Jefferies PT to $80 Buy, Mizuho cut to $52 — Yahoo Finance, late Sept 2026
+https://finance.yahoo.com/markets/stocks/articles/quantum-shock-ionq-falls-7-134501216.html
+Why: Massive guidance raise materially strengthens thesis. 8/8 Hold signals; -18% drawdown reflects pre-guidance deleveraging, not thesis break. Watch 200D MA ($43.47) as structural pivot.
+Stop-loss: Reassess if price falls below $40.47
+Take-profit: Consider taking profit above $68.41 (analyst mean target)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,474.00
+Total P&L:      -$191.00 (-7.2%)
+Macro regime:   Risk-neutral — Fed restrictive at 3.75–4.00% after Sept 25bp hike; next FOMC Oct 28. AI capex still driving tech bid, but rate-cut path remains contested.
+
+📅 THIS WEEK AHEAD
+- Oct NFP + wage growth (first-Fri jobs report)
+- Mid-Oct CPI print — key input for Oct 28 FOMC
+- Fed speakers ahead of FOMC blackout
+
+✅ No action needed today
