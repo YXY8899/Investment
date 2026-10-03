@@ -1,0 +1,46 @@
+📊 DAILY PORTFOLIO REPORT
+Sat 3 Oct 2026 — Weekend recap (Fri close)
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $233.95  |  Your cost: $209.00
+P&L: +$124.75 (+11.9%)  |  Held: 120 days
+Analyst: Strong Buy (40 analysts) | Target: $267.50 → +14.3% upside
+https://www.tipranks.com/news/nvidia-is-best-positioned-to-clear-a-high-bar-says-td-cowen-as-it-raises-pt-ahead-of-q2-print
+Moat: CUDA + Blackwell lock on AI training
+Trend: Above 50MA ($218) and 200MA ($201), RSI 62.9, MACD bullish and widening, volume 1.1x avg
+News: SpaceX-Google ink $920M/month deal for 110k NVDA GPUs through 2029 — Yahoo, Oct 2026
+https://finance.yahoo.com/news/nvidia-nvda-investment-intel-supports-111001416.html
+Why: Technicals bullish across the board, Strong Buy consensus with +14% to mean target, and the SpaceX-Google compute deal reinforces hyperscaler demand. Congress China-export scrutiny is noise, not thesis-breaking. Q3 earnings Nov 19 (47d out).
+Stop-loss: Reassess if price falls below $215.23
+Take-profit: Consider taking profit above $267.50 (analyst mean target)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [High Confidence]
+Price: $43.77  |  Your cost: $54.00
+P&L: -$306.90 (-18.9%)  |  Held: 101 days
+Analyst: Mixed Buy / Equal Weight | Target: $65.00 → +48.5% upside
+https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-lifts-ionq-price-145510449.html
+Moat: Trapped-ion quantum lead (256-qubit roadmap)
+Trend: Just above 50MA ($40.60) and 200MA ($43.46), RSI 57.4, MACD positive but histogram narrowing, volume 0.9x avg
+News: Jefferies initiates with Street-high $100 PT; Morgan Stanley lifts to $47 — Barchart/Yahoo, Oct 2026
+https://www.barchart.com/story/news/36698463/jefferies-says-ionq-stock-can-double-over-the-next-12-months-should-you-buy-it-here
+Why: Price holding above both MAs with upgrades flowing in and large upside to consensus. Still a speculative growth name sitting 48% below 52w high — patience is the trade. Q3 earnings call Nov 5 (33d out) is next catalyst.
+Stop-loss: Reassess if price falls below $40.27
+Take-profit: Consider taking profit above $65.00 (analyst mean target)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,482.85
+Total P&L:      -$182.15 (-6.8%)
+Macro regime:   Risk-on with caution — Fed at 3.75-4.00% after Sep hike; Oct 27-28 FOMC leans no-change (~53% priced); recent Nasdaq -4% pullback ended 9-week win streak.
+
+📅 THIS WEEK AHEAD
+- US CPI/PPI data (key for Fed path into Oct 27-28 FOMC)
+- Jobs/NFP report (employment leg of Fed dual mandate)
+- Mega-cap earnings season warm-up ahead of NVDA Nov 19
+
+✅ No action needed today — both positions HOLD
