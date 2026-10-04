@@ -1,0 +1,48 @@
+📊 DAILY PORTFOLIO REPORT
+Sun 4 Oct 2026 — Weekend (based on Fri Oct 2 close)
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $233.95  |  Your cost: $209.00
+P&L: +$124.75 (+11.9%)  |  Held: 121 days
+Analyst: Buy (28 analysts) | Target: $344 → +47.0% upside
+https://www.tipranks.com/news/top-analyst-expects-nvidia-nvda-to-deliver-beat-and-raise-q3-results-lifts-price-target
+Moat: CUDA + Blackwell dominance in AI training/inference, data-center lock-in
+Trend: Above MA50 ($218) and MA200 ($201). RSI 46.7 neutral. MACD bullish. 5d +3.9%, 1m +4.3%. Near 52w high $237.88.
+News: Citi raised PT to $220, Morgan Stanley to $210, expecting beat-and-raise at Q3 FY27 — tipranks, early Oct 2026
+https://www.tipranks.com/news/the-fly/nvidia-price-target-raised-to-210-from-206-at-morgan-stanley-thefly
+Why: All 8 hold signals intact — uptrend above both MAs, bullish MACD, strong analyst conviction, moat secure. Q2 FY27 beat ($96B rev, Q3 guide $108B) and Blackwell ramp support the thesis.
+Stop-loss: Reassess if price falls below $215
+Take-profit: Consider taking profit above $344 (analyst mean target)
+⚠️ Earnings: Nov 18, 2026 (45 days)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [High Confidence]
+Price: $43.77  |  Your cost: $54.00
+P&L: -$306.90 (-18.9%)  |  Held: 102 days
+Analyst: Moderate Buy (14 analysts, 9B/4H/1S) | Target: $69 → +57.6% upside
+https://www.marketbeat.com/instant-alerts/price-ionq-nyse-ionq-shares-up-21-still-a-buy-2026-09-08/
+Moat: Trapped-ion quantum tech lead, NVIDIA/Oak Ridge/Synopsys research partnerships
+Trend: Above MA50 ($40.60) and just above MA200 ($43.46). RSI 51.7 neutral. MACD bullish. 5d -3.8%, 1m +16.3%. Mid of 52w range $25.89–$84.64.
+News: 4 top papers awards at IEEE Quantum Week 2026 from joint work with NVIDIA, Synopsys, Oak Ridge — positive validation of tech lead
+https://finance.yahoo.com/markets/stocks/articles/quantum-shock-ionq-falls-7-134501216.html
+Why: Underwater but all 8 hold signals present — uptrend reasserting (1m +16%), bullish MACD, Moderate Buy consensus with large upside to $69, no high-impact negative news. 2026 revenue guide raised to $260–270M.
+Stop-loss: Reassess if price falls below $40.27
+Take-profit: Consider taking profit above $69 (analyst mean target)
+⚠️ Earnings: Nov 11, 2026 (38 days)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,482.85
+Total P&L:      -$182.15 (-6.84%)
+Macro regime:   Risk-on but fragile — Fed cut 25bps in Sep and Oct, rates at 3-year lows, but labor-market softness and valuation concerns rising.
+
+📅 THIS WEEK AHEAD
+- Mon Oct 5: ISM Services PMI (10:00 ET)
+- Wed Oct 7: FOMC Sept 15-16 meeting minutes (14:00 ET)
+- Wed Oct 14: September CPI release
+
+✅ No action needed today
