@@ -1,0 +1,49 @@
+📊 DAILY PORTFOLIO REPORT
+Mon 5 Oct 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $233.95  |  Your cost: $209.00
+P&L: +$124.75 (+11.94%)  |  Held: 122 days
+Analyst: Buy (30+ analysts) | Target: $250 mean, $265 JPM, $300 MS high → +6.9% to +28% upside
+https://finance.yahoo.com/news/jpmorgan-revamps-nvidia-stock-price-153700952.html
+Moat: CUDA + Blackwell AI accelerator dominance; 6M Blackwell units shipped
+Trend: Above 50MA ($218) & 200MA ($201); RSI 62.9 neutral; MACD bullish; Fri +1.34%
+News: JPMorgan raised PT to $265 (from $250), Overweight; Citi sees Q3 "beat & raise" — Tipranks, Oct 2026
+https://www.tipranks.com/news/top-analyst-expects-nvidia-nvda-to-deliver-beat-and-raise-q3-results-lifts-price-target
+Why: Zero sell signals, 8 hold signals. Blackwell ramp accelerating, consensus Buy, trend intact. Nasdaq -4.1% Fri was sector-wide, not NVDA-specific.
+Stop-loss: Reassess if price falls below $215.23
+Take-profit: Consider taking profit above $250 (analyst mean target)
+⚠️ Earnings: Nov 19-25, 2026 (~45 days)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [High Confidence]
+Price: $43.77  |  Your cost: $54.00
+P&L: -$306.90 (-18.94%)  |  Held: 103 days
+Analyst: Moderate Buy (18 analysts) | Target: $67 mean, $100 Jefferies high → +53% upside
+https://finder.techleap.nl/news/feed/ionq-tipped-to-triple-in-value-with-100-price-target-from-analyst
+Moat: Trapped-ion quantum leadership; 256-qubit Superion platform; SkyWater foundry acquired Jul 31
+Trend: Above 50MA ($40.60) & just above 200MA ($43.46); RSI 57.4 neutral; MACD bullish; 22-day +16.3%
+News: 2026 revenue guide raised to $450-460M post-SkyWater; $8.18M Congruity360 quantum-security deal — QuantumComputingReport, Sep 2026
+https://quantumcomputingreport.com/ionq-raises-full-year-2026-revenue-outlook-to-450-million-460-million-post-skywater-consolidation/
+Why: Zero sell signals, 7 hold signals. Still unprofitable (-553% net margin) but revenue trajectory raised; recovering from -48% drawdown off 52w high ($84.64).
+Stop-loss: Reassess if price falls below $40.27
+Take-profit: Consider taking profit above $67 (analyst mean target)
+⚠️ Earnings: Nov 11, 2026 (~37 days)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,482.85
+Total P&L:      -$182.15 (-6.83%)
+Sectors: NVDA (Semis/AI) + IONQ (Quantum/Tech) — no concentration flag
+Macro regime: Mixed risk-on; Fed cut 25bps in Sep + Oct (first cuts since 2024), officials divided on more; MS lifted S&P 500 12m target to 7,800. Fri Nasdaq -4.1% selloff.
+
+📅 THIS WEEK AHEAD
+- Tue Oct 6: Aug U.S. international trade report (8:30 ET)
+- Wed Oct 7: FOMC minutes from Sep 15-16 meeting (14:00 ET)
+- Later: Sep CPI (Oct 14), Sep PPI (Oct 15), FOMC rate decision (Oct 28)
+
+✅ No action needed today
