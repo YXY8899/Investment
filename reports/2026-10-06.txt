@@ -1,0 +1,48 @@
+📊 DAILY PORTFOLIO REPORT
+Tue 6 Oct 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $238.90  |  Your cost: $209.00
+P&L: +$149.50 (+14.3%)  |  Held: 123 days
+Analyst: Strong Buy (54 analysts) | Target: $305.38 → +27.8% upside
+https://www.marketbeat.com/stocks/NASDAQ/NVDA/price-target/
+Moat: CUDA software lock-in + full-stack AI systems (Blackwell to Vera)
+Trend: Above 50D $218.92 & 200D $201.02, RSI 66.9, MACD bullish & widening, volume normal (126M vs ~123M avg); record close, 0.5% under 52W high $240.10
+News: Morgan Stanley reinstates NVDA as top semi pick, $300 PT, cites $150B buyback and undemanding valuation — Yahoo Finance, 2 Oct 2026
+https://sg.finance.yahoo.com/news/nvidia-returns-morgan-stanley-top-110209395.html
+Why: 8/8 hold signals and zero sell signals. Q2 FY27 beat ($96.2B rev, +106% YoY, 75% GM, Q3 guided $108B) and RSI still under 70, so the momentum is backed by fundamentals rather than overheated.
+Stop-loss: Reassess if price falls below $219.79
+Take-profit: Consider taking profit above $305.38 (analyst mean target)
+Next earnings: 18 Nov 2026 (43 days)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [High Confidence]
+Price: $42.97  |  Your cost: $54.00
+P&L: -$330.90 (-20.4%)  |  Held: 104 days
+Analyst: Buy (12 analysts) | Target: $66.63 → +55.1% upside
+https://public.com/stocks/ionq/forecast-price-target
+Moat: Trapped-ion quantum lead + vertical integration via SkyWater fab
+Trend: Above 50D $40.80 but under 200D $43.43, RSI 54.3, MACD above signal but histogram fading, volume light (16.4M vs ~21M avg); -3.6% over 5 days
+News: Bank of America initiates IonQ at Buy on scaling potential — 24/7 Wall St, 28 Sep 2026
+https://247wallst.com/investing/2026/10/01/ionq-lost-30-of-its-value-over-12-months-two-wall-street-ratings-agencies-say-share-prices-will-more-than-double-over-the-next-12-months/
+Why: 7/8 hold signals and no sell signals; Q2 revenue +287% YoY with FY guide raised, and $2B pro-forma cash funds the runway. Main caveat is price stuck under the 200D MA and gross margin falling to 25% after SkyWater, so momentum is soft.
+Stop-loss: Reassess if price falls below $39.98
+Take-profit: Consider taking profit above $66.63 (analyst mean target)
+⚠️ Earnings: est. 4-11 Nov 2026 (29-36 days, unconfirmed)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,483.60
+Total P&L:      -$181.40 (-6.8%)
+Macro regime:   Risk-on with S&P 500 and Nasdaq near records; a weak September jobs print points to the Fed holding this month, while higher oil and yields are the main headwind.
+
+📅 THIS WEEK AHEAD
+- Tue 6 Oct: Aug trade balance + Dallas Fed's Logan speaks
+- Wed 7 Oct: FOMC minutes (Sep 15-16 meeting), 2 PM ET
+- Thu 8 to Fri 9 Oct: Jobless claims + UMich Oct sentiment (prelim); Q3 earnings season starts the following week
+
+✅ No action needed today
