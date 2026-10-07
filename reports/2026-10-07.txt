@@ -1,0 +1,47 @@
+📊 DAILY PORTFOLIO REPORT
+Wed 7 Oct 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $239.24  |  Your cost: $209.00
+P&L: +$151.20 (+14.5%)  |  Held: 124 days
+Analyst: Strong Buy (61 analysts) | Target: $327.70 → +37.0% upside
+https://www.tipranks.com/news/nvidia-and-amd-stocks-what-drove-the-rally-and-which-stock-has-more-upside
+Moat: CUDA software lock-in + AI accelerator dominance (75% gross margin)
+Trend: Above 50d ($219.77) and 200d ($201.36) MA, RSI 67, MACD bullish and widening, volume 0.8x avg
+News: Record close $239.24; BNP Paribas lifts PT to $345, Morgan Stanley names NVDA top semi pick — Yahoo Finance, 6 Oct
+https://finance.yahoo.com/markets/stocks/articles/nvidia-hits-record-high-wall-003921500.html
+Why: 8 of 8 hold signals and no sell signals; Q2 FY27 beat ($96.2B rev, EPS $2.22 vs $2.10) with Q3 guide of $108B. RSI near 70 and price close to 52w high ($243.37), so don't add here.
+Stop-loss: Reassess if price falls below $220.10
+Take-profit: Consider taking profit above $327.70 (analyst mean target)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [High Confidence]
+Price: $43.29  |  Your cost: $54.00
+P&L: -$321.30 (-19.8%)  |  Held: 105 days
+Analyst: Moderate Buy (17 analysts) | Target: $69.92 → +61.5% upside (range $42-$100; recent: BofA $60 Buy initiation)
+https://www.marketbeat.com/instant-alerts/price-ionq-nyse-ionq-shares-up-21-still-a-buy-2026-09-08/
+Moat: Trapped-ion tech lead + $2B cash (pro forma); Superion 256 platform
+Trend: Above 50d ($40.95), just under 200d ($43.41), RSI 55, MACD bullish but fading, volume 0.8x avg
+News: Real-time quantum error-decoding breakthrough; first QPU going into NVIDIA quantum research center — CNBC, 23 Sep
+https://www.cnbc.com/2026/09/23/ionq-shares-rally-after-company-says-it-made-a-major-quantum-computing-breakthrough.html
+Why: 7 of 8 hold signals (only miss: price $0.12 below 200d MA); Q2 revenue +287% to $80.1M and FY guide raised. Still deeply loss-making and volatile, so the High rating rests on technicals and targets, not on profits.
+Stop-loss: Reassess if price falls below $40.13
+Take-profit: Consider taking profit above $69.92 (analyst mean target)
+⚠️ Earnings: est. 4-11 Nov (28-35 days, date not confirmed)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,494.90
+Total P&L:      -$170.10 (-6.4%)
+Macro regime:   Risk-on. S&P 500 (7,819) and Nasdaq at records, led by AI chips, but the 10y yield at 5.28% is a valuation headwind for growth names.
+
+📅 THIS WEEK AHEAD
+- Wed 7 Oct: FOMC minutes (Sep 15-16 meeting), 2pm ET
+- Fri 9 Oct: UMich consumer sentiment and inflation expectations
+- Wed 14 Oct: September CPI, 8:30am ET
+
+✅ No action needed today
