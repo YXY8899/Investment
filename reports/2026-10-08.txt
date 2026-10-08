@@ -1,0 +1,47 @@
+📊 DAILY PORTFOLIO REPORT
+Thu 8 Oct 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $237.47  |  Your cost: $209.00
+P&L: +$142.35 (+13.6%)  |  Held: 125 days
+Analyst: Strong Buy (61 analysts) | Target: $328.72 → +38.4% upside
+https://stockanalysis.com/stocks/nvda/forecast/
+Moat: CUDA software lock-in + full-stack AI data-center platform
+Trend: Above 50MA $220.58 and 200MA $201.68 | RSI 64 | MACD bullish (4.90 vs 4.63) | Vol 0.67x avg (light) | 2.4% below 52w high $243.37
+News: SpaceX in talks to raise ~$40B in loans to buy Nvidia GPUs; Morgan Stanley names NVDA top chip pick — CNBC, 7 Oct
+https://www.cnbc.com/quotes/NVDA
+Why: All 8 hold signals met and zero sell signals; Q3 FY27 guide of $108B (~89% YoY) at ~24x forward P/E keeps valuation reasonable. RSI is 64, not yet overbought, so momentum near record highs is intact.
+Stop-loss: Reassess if price falls below $218.47
+Take-profit: Consider taking profit above $328.72 (analyst mean target)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [High Confidence]
+Price: $41.34  |  Your cost: $54.00
+P&L: -$379.80 (-23.4%)  |  Held: 106 days
+Analyst: Moderate Buy (15 analysts) | Target: $63.83 → +54.4% upside
+https://www.marketbeat.com/stocks/NYSE/IONQ/forecast/
+Moat: Trapped-ion qubit fidelity lead + DARPA/government partnerships
+Trend: Just above 50MA $41.10, below 200MA $43.39 | RSI 48 | MACD bullish but narrowing (0.77 vs 0.73) | Vol 0.88x avg
+News: IonQ advances to final stage of DARPA Quantum Benchmarking Initiative; stock -4.5% earlier on yield-driven quantum sell-off — TipRanks, 7 Oct
+https://www.tipranks.com/news/why-did-quantum-computing-stocks-ionq-qbts-rgti-and-qubt-plunge-wednesday
+Why: 7 of 8 hold signals (fails only 200MA) and no sell signals; Q2 revenue +287% and raised FY26 outlook support the thesis, but losses remain large. The drop was sector-wide on rising yields, not company-specific — yet the stop sits only ~2.6% below price, so watch it closely.
+Stop-loss: Reassess if price falls below $40.28
+Take-profit: Consider taking profit above $63.83 (analyst mean target)
+⚠️ Earnings: est. 4–11 Nov 2026 (27–34 days, not yet confirmed)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,427.55
+Total P&L:      -$237.45 (-8.9%)
+Macro regime:   Mixed / late-cycle tightening — Fed hiked in Sept, 10Y ~5.3% and Brent >$100 are pressuring speculative tech even as S&P/Nasdaq hit records on mega-cap AI strength.
+
+📅 THIS WEEK AHEAD
+- Thu 8 Oct: Weekly jobless claims (after weak Sept payrolls)
+- Tue 14 Oct: September CPI — key for Oct 27–28 FOMC hike odds
+- Mid-Oct: Q3 earnings season kicks off (big banks first)
+
+✅ No action needed today
