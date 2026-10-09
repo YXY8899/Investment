@@ -1,0 +1,47 @@
+📊 DAILY PORTFOLIO REPORT
+Fri 9 Oct 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $230.48  |  Your cost: $209.00
+P&L: +$107.40 (+10.3%)  |  Held: 126 days
+Analyst: Strong Buy (61 analysts) | Target: $328.72 → +42.6% upside
+https://stockanalysis.com/stocks/nvda/forecast/
+Moat: CUDA software lock-in + ~75% gross margin AI accelerator lead
+Trend: Above 50DMA ($221.39) and 200DMA ($201.93), RSI 54, MACD bullish but narrowing, volume normal (118M vs 121M avg)
+News: Chips slide after OpenAI tells investors annualized revenue is ~$50B, below the ~$68B reported — Yahoo Finance, 8 Oct
+https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-8-dow-sp-500-nasdaq-080537884.html
+Why: 8 of 9 hold signals and no sell signals. The 2.9% drop is sector-wide sentiment rather than an NVDA-specific problem. Q2 FY27 beat (revenue $96.2B, +106% YoY) and Q3 guide of $108B keep the thesis intact, and BNP raised its target to $345 on 5 Oct.
+Stop-loss: Reassess if price falls below $216.96
+Take-profit: Consider taking profit above $328.72 (analyst mean target)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [Low Confidence]
+Price: $39.45  |  Your cost: $54.00
+P&L: -$436.50 (-26.9%)  |  Held: 107 days
+Analyst: Moderate Buy (N/A analysts) | Target: $63.83 → +61.8% upside
+https://www.marketbeat.com/instant-alerts/price-ionq-nyse-ionq-stock-price-down-47-whats-next-2026-10-08/
+Moat: Trapped-ion quantum lead + $2B pro-forma cash
+Trend: Below 50DMA ($41.25) and 200DMA ($43.34), RSI 42, MACD bearish crossover, volume slightly high (22.8M vs 21.4M avg)
+News: IonQ advances to Stage C of DARPA Quantum Benchmarking Initiative, worth up to $300M — IonQ IR, 7 Oct
+https://ionq.com/news/ionq-advances-to-final-stage-of-darpas-quantum-benchmarking-initiative
+Why: S6 triggered (-10.3% over 5 days, from the tech/quantum de-rating with no company-specific bad news), but that is 1 sell signal against 5 of 9 hold signals, so this is a judgement-call hold. Fundamentals are intact (Q2 revenue +287%, FY guide raised to $280-290M, DARPA win), but margins have compressed and the trend is broken. A daily close below the stop means cut.
+Stop-loss: Reassess if price falls below $39.06
+Take-profit: Consider taking profit above $63.83 (analyst mean target)
+⚠️ Earnings: est. 4-11 Nov (26-33 days, not yet confirmed)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,335.90
+Total P&L:      -$329.10 (-12.3%)
+Macro regime:   Risk-off tilt. The Fed is in a hiking cycle (next FOMC 27-28 Oct), 10Y yields are up ~50bp in a month, and the AI trade is wobbling after OpenAI's revenue reset.
+
+📅 THIS WEEK AHEAD
+- Tue 13 Oct: Q3 bank earnings (JPM, GS, WFC, C) kick off earnings season
+- Wed 14 Oct: September CPI, key for the October hike odds
+- Thu 15 Oct: September PPI
+
+✅ No action needed today (IONQ is close to its stop-loss, so watch it)
