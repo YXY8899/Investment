@@ -1,0 +1,47 @@
+📊 DAILY PORTFOLIO REPORT
+Sun 11 Oct 2026 — Weekend edition (data as of Fri 9 Oct close)
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $229.28  |  Your cost: $209.00
+P&L: +$101.40 (+9.7%)  |  Held: 128 days
+Analyst: Strong Buy (62 analysts) | Target: $328.72 → +43.4% upside
+https://stockanalysis.com/stocks/nvda/forecast/
+Moat: CUDA ecosystem + full-stack AI data-center lock-in
+Trend: Above 50MA $222.08 and 200MA $202.15, RSI 53, MACD bullish but histogram fading, volume low (0.7x avg); -0.5% day, -2.0% 5d, +5.0% 1m
+News: AI chips sold off on FT report OpenAI run-rate is ~$50B (vs ~$70B cited); rebounded after OpenAI guided to $70B+ by year-end — CNBC/FT, 8-9 Oct
+https://cryptobriefing.com/nvidia-micron-rebound-openai-revenue/
+Why: 8/8 hold signals and zero sell signals; Q2 FY27 revenue $96.2B (+106% YoY) with Q3 guide of $108B keeps the thesis intact. The OpenAI scare was definitional and sector-wide, not NVDA-specific; watch TSMC results Thu.
+Stop-loss: Reassess if price falls below $217.64
+Take-profit: Consider taking profit above $328.72 (analyst mean target)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [Medium Confidence]
+Price: $39.89  |  Your cost: $54.00
+P&L: -$423.30 (-26.1%)  |  Held: 109 days
+Analyst: Moderate Buy (15 analysts) | Target: $63.83 → +60.0% upside (recent: Mizuho $52, Hold $49)
+https://www.marketbeat.com/stocks/NYSE/IONQ/forecast/
+Moat: Trapped-ion quantum leader, ~$3B cash
+Trend: Below 50MA $41.33 and 200MA $43.27, RSI 44, MACD bearish crossover, volume low (0.6x avg); +1.1% day, -8.9% 5d, +8.3% 1m
+News: IonQ slid ~8% on the week as quantum names pulled back despite new contract and technical milestones — TipRanks, 10 Oct
+https://tipranks.com/news/weekend-updates/ionqs-quantum-breakthroughs-collide-with-market-jitters
+Why: 5/8 hold signals vs 1 sell signal (S6: -8.9% in 5 days), a sector-wide drop with no company-specific bad news. Q2 revenue +287% and a raised FY guide keep the thesis alive, but the trend is broken, so treat earnings as the key test.
+Stop-loss: Reassess if price falls below $36.70 (8% floor, already under 50MA)
+Take-profit: Consider taking profit above $63.83 (analyst mean target)
+⚠️ Earnings: ~4-5 Nov 2026, unconfirmed (~24 days)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,343.10
+Total P&L:      -$321.90 (-12.1%)
+Macro regime:   Cautious risk-on: S&P/Nasdaq near records, but AI-bubble jitters and a hot-inflation / rate-hike debate ahead of the 27-28 Oct FOMC keep tech volatile.
+
+📅 THIS WEEK AHEAD
+- Tue 13-Wed 14 Oct: Big bank earnings (JPM, GS, C, WFC, BAC, MS)
+- Wed 14 Oct: September CPI (a hot print revives hike bets)
+- Thu 15 Oct: TSMC Q3 earnings (key AI-demand read for NVDA), plus PPI and retail sales
+
+✅ No action needed today
