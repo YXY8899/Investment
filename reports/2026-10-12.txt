@@ -1,0 +1,49 @@
+📊 DAILY PORTFOLIO REPORT
+Mon 12 Oct 2026 — Pre-market (prices = Fri 9 Oct close)
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $229.28  |  Your cost: $209.00
+P&L: +$101.40 (+9.7%)  |  Held: 129 days
+Analyst: Buy (55 analysts) | Target: $321.89 → +40.4% upside
+https://www.marketbeat.com/instant-alerts/consensus-nvidia-corporation-nasdaq-nvda-stock-has-average-price-target-of-32189-2026-10-10/
+Moat: CUDA ecosystem + AI data-center GPU lead
+Trend: Above 50d MA $221.39 and 200d MA $201.93 | RSI 53 | MACD 3.95 vs signal 3.82 (bullish, narrowing) | Volume low (85M vs ~121M avg) | 1d -0.5%, 5d -0.2%, 1m +3.0% | 52w $164.27-$243.37
+News: NVDA hit a 52-week high of $243.37 early last week, then eased on AI-valuation jitters after OpenAI's revenue report. Reflection AI acquisition talks also reported. (CNBC/TipRanks, 9 Oct)
+https://www.investing.com/equities/nvidia-corp-news
+Why: 8/8 hold signals and 0 sell signals: uptrend intact above both MAs, RSI neutral, consensus Buy with 40% upside. Last quarter beat ($96.2B revenue vs $91.9B expected, ~$108B guide), so the AI thesis is intact.
+Stop-loss: Reassess if price falls below $216.96 (just below 50d MA)
+Take-profit: Consider taking profit above $321.89 (analyst mean target)
+Earnings: ~18 Nov (est., 37 days)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [Low Confidence]
+Price: $39.89  |  Your cost: $54.00
+P&L: -$423.30 (-26.1%)  |  Held: 110 days
+Analyst: Moderate Buy (~18 analysts) | Target: $69.92 → +75.3% upside (Sep data)
+https://www.marketbeat.com/instant-alerts/price-ionq-nyse-ionq-shares-up-21-still-a-buy-2026-09-08/
+Moat: Trapped-ion tech + government contracts (DARPA QBI Stage C)
+Trend: Below 50d MA $41.25 and 200d MA $43.34 | RSI 44 | MACD 0.24 below signal 0.59 (bearish crossover) | Volume low (13M vs ~21M avg) | 5d -10.3%, 1m +3.4%
+News: IonQ advances to Stage C of DARPA's Quantum Benchmarking Initiative, worth up to $300M through 2029. The $300M is a ceiling, not committed funding. (7 Oct)
+https://www.vermoegenszentrum.ch/en/stock-exchange-and-markets/news/ionq-advances-stage-c-darpa-quantum-benchmarking-program-under-deal
+Why: S6 triggered (more than 8% drop in 5 days), but the drop was sector-wide, driven by the 10-year yield hitting 5.36%. Company news is positive, and 5/8 hold signals (consensus Buy, 75% upside, moat intact) outweigh 1 sell signal, so I kept HOLD. Technicals are weak (below both MAs, bearish MACD), so confidence is low.
+Stop-loss: Formula level $40.43 (50d MA floor) is already breached. Reassess now, and treat a close below $36.70 (-8%) as the exit trigger.
+Take-profit: Consider taking profit above $69.92 (analyst mean target)
+⚠️ Earnings: ~4-11 Nov (23-30 days, date unconfirmed)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,343.10
+Total P&L:      -$321.90 (-12.1%)
+Concentration: none (NVDA = Semiconductors, IONQ = Quantum Computing)
+Macro regime:   Equities are risk-on near record highs (S&P ~7,812, Nasdaq up 4 weeks in a row). Rates are the risk: the 10-year yield hit its highest since 2002 after September's Fed hike, which is pressuring long-duration growth names like IONQ.
+
+📅 THIS WEEK AHEAD
+- Mon 12 Oct: Columbus Day. Bond market closed, stocks open.
+- Wed 14 Oct: September CPI. Key for whether the Fed pauses (next FOMC 28 Oct).
+- Thu 15 Oct: PPI and retail sales. Big-bank Q3 earnings kick off this week.
+
+✅ No action needed today. IONQ is below its stop: watch $36.70.
