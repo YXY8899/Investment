@@ -1,0 +1,47 @@
+📊 DAILY PORTFOLIO REPORT
+Tue 13 Oct 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $226.32  |  Your cost: $209.00
+P&L: +$86.60 (+8.3%)  |  Held: 130 days
+Analyst: Buy (28 analysts) | Target: $344 → +52.0% upside
+https://www.benzinga.com/quote/NVDA/price-targets
+Moat: CUDA ecosystem lock-in, dominant AI accelerator share
+Trend: Above 50MA $222.08 and 200MA $202.15; RSI 53; MACD fresh bearish cross; vol 70M vs 120M avg (low); 5d -5.3%, 7% off 52w high $243.37
+News: Microsoft unveils Maia 300 in-house AI chip; all 30 SOX names fall — FX Leaders, 12 Oct
+https://www.fxleaders.com/news/2026/10/12/nvda-stock-falls-to-225-as-microsoft-chip-and-talks-to-invest-in-reflection-ai-raise-debt-fears/
+Why: 7 of 8 hold signals and no sell signals. Q2 FY27 beat (rev $96.2B, +106% YoY; Q3 guide $108B), so the dip looks like a sector pullback on yields and custom-chip worries, not a broken thesis. The new MACD bearish cross is the one thing to watch.
+Stop-loss: Reassess if price falls below $217.64
+Take-profit: Consider taking profit above $344 (analyst mean target)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [Low Confidence]
+Price: $36.27  |  Your cost: $54.00
+P&L: -$531.90 (-32.8%)  |  Held: 111 days
+Analyst: Strong Buy (13 analysts) | Target: $67.14 → +85.1% upside
+https://bullstory.io/en/stocks/ionq/forecast/price-target
+Moat: Trapped-ion tech lead plus vertical integration (SkyWater fab)
+Trend: Below 50MA $41.33 and 200MA $43.27; RSI 44 (35 incl. Mon); MACD bearish, widening; vol 31.7M vs 21.2M avg (1.5x, heavy selling); 5d -15.6%
+News: IonQ buys cybersecurity firm Elisity for up to $1.3B in stock, raising dilution fears; shares -9.1% — Yahoo Finance/Motley Fool, 12 Oct
+https://finance.yahoo.com/markets/stocks/articles/ionq-stock-falls-1-3-180434373.html
+Why: 1 sell signal (S6: down 15.6% in 5 days, company-specific) and only 4 of 8 hold signals, so this is a borderline hold. It stays a hold because fundamentals are intact (Q2 rev +287%, FY guide raised to $280-290M, about $2B cash) and the drop came from a dilution deal, not a broken business. A close below the stop means exit.
+Stop-loss: Reassess if price falls below $35.91 (deal reference floor $33.07 is next support)
+Take-profit: Consider taking profit above $67.14 (analyst mean target)
+⚠️ Earnings: ~5 Nov 2026, not yet confirmed (23 days)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,219.70
+Total P&L:      -$445.30 (-16.7%)
+Macro regime:   Mildly risk-off for growth stocks: Treasury yields are rising, headline CPI is running about 3.6-3.7%, no Fed cuts are priced through 2027 and October hike odds are about 19%.
+
+📅 THIS WEEK AHEAD
+- Wed 14 Oct: September CPI (headline est +0.6% m/m, 3.6-3.7% y/y)
+- Thu 15 Oct: Retail sales, PPI, jobless claims; TSMC Q3 earnings (AI chip demand read for NVDA)
+- Late week: Fed Chair Warsh speaks before the Fed blackout starts 17 Oct (FOMC 27-28 Oct)
+
+✅ No action needed today. IONQ is close to its stop at $35.91.
