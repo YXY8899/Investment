@@ -1,0 +1,49 @@
+📊 DAILY PORTFOLIO REPORT
+Wed 14 Oct 2026 — Pre-market (prices = 13 Oct close)
+
+──────────────────────
+
+🔵 NVDA — HOLD  [High Confidence]
+Price: $228.52  |  Your cost: $209.00
+P&L: +$97.60 (+9.3%)  |  Held: 131 days
+Analyst: Buy (28 analysts) | Target: $344 → +50.5% upside (Benzinga, 4 Sep; other trackers ~$303)
+https://www.benzinga.com/quote/NVDA/price-targets
+Moat: CUDA software lock-in + ~90% AI accelerator share
+Trend: Above 50MA $223.03 and 200MA $202.54, RSI 52, MACD bearish cross (below signal), volume 0.7x avg
+News: Chips pressured by Broadcom AI warning and Microsoft Maia 300 chip; NVDA broke 5-day losing streak with +1% — TradingKey, 13 Oct
+https://www.tradingkey.com/analysis/stocks/us-stocks/262213952-stock-nvidia-nvda-price-prediction-ai-chip-msft-cxmt-maia-tradingkey
+Why: 7 of 8 hold signals; zero sell signals. Fundamentals are very strong (Q2 FY27 revenue $96.2B, +106% YoY, 75% gross margin, Q3 guide $108B), and the 5% pullback from the $243 high looks like a normal sector rotation. The only soft spot is the MACD bearish crossover.
+Stop-loss: Reassess if price falls below $218.57
+Take-profit: Consider taking profit above $344 (analyst mean target)
+Next earnings: ~18-19 Nov (unconfirmed, outside 30-day window)
+
+──────────────────────
+
+🔴 IONQ — SELL  [Low Confidence]
+Price: $34.73  |  Your cost: $54.00
+P&L: -$578.10 (-35.7%)  |  Held: 112 days
+Analyst: Strong Buy (13 analysts) | Target: $67.14 → +93.3% upside (Bullstory, 27 Sep)
+https://bullstory.io/en/stocks/ionq/forecast/price-target
+Moat: Trapped-ion quantum tech leadership + $2B cash after the SkyWater deal
+Trend: Below 50MA $41.25 and 200MA $43.12, RSI 32 (near oversold), MACD bearish and widening, volume 1.1x avg
+News: IonQ to buy cybersecurity firm Elisity in an all-stock deal for up to $1.3B; shares fell 10% — CNBC, 12 Oct
+https://www.cnbc.com/2026/10/12/ionq-elisity-acquisition-cybersecurity.html
+Why: S6 fired. The stock is down 19.8% in 5 days with no recovery, and the drop is company-specific (dilutive all-stock M&A, no Elisity revenue disclosed), so it counts at full weight. Only 4 of 8 hold signals pass. With RSI near 30, consider trimming or exiting on any bounce toward $36-38 rather than panic-selling at the open.
+Stop-loss: Already below the 50-day stop ($40.43). Hard exit below $31.95 (-8%), or below the $33.07 deal-collar floor.
+Take-profit: If you keep it, consider taking profit above $67 (analyst mean target)
+⚠️ Earnings: ~4-9 Nov (unconfirmed, ~21-26 days)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,184.50
+Total P&L:      -$480.50 (-18.0%)
+Concentration: none flagged (NVDA = Semiconductors, IONQ = Quantum Computing). Note that both are high-beta AI/tech names.
+Macro regime:   Cautious, late-cycle risk-on. The S&P is near record highs, but the Fed is in hiking mode (hiked in Sep), the 10Y is ~5.25%, Brent is ~$105, and AI-complex jitters are hitting chips.
+
+📅 THIS WEEK AHEAD
+- Wed 14 Oct: September CPI (consensus 3.6% YoY headline, up from 3.4%) + Fed Beige Book
+- This week: TSMC Q3 earnings (AI demand read-through for NVDA) + big-bank Q3 reports
+- Ongoing: Fed October hike-vs-December debate after the weak September payrolls (+29K)
+
+🚨 Action needed: IONQ
