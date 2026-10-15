@@ -1,0 +1,47 @@
+📊 DAILY PORTFOLIO REPORT
+Thu 15 Oct 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [Medium Confidence]
+Price: $221.30  |  Your cost: $209.00
+P&L: +$61.50 (+5.9%)  |  Held: 132 days
+Analyst: Strong Buy (62 analysts) | Target: $328.72 → +48.5% upside
+https://stockanalysis.com/stocks/nvda/forecast/
+Moat: CUDA software lock-in + AI data-center GPU leadership
+Trend: Below 50MA $223.21, above 200MA $202.69 | RSI 43.9 | MACD bearish (1.98 vs signal 3.23) | Vol normal (0.99x)
+News: Nvidia falls 3% as hot CPI hits chips; Microsoft Maia 300 custom-chip worry — FX Leaders, 14 Oct
+https://www.fxleaders.com/news/2026/10/14/nvidia-stock-nvda-falls-toward-220-as-data-center-debt-yields-weigh-on-sentiment/
+Why: 6 of 8 hold signals and zero sell signals — the drop is macro-driven (hot CPI, rate-hike odds), not company-specific, and Q2 beat ($96.2B rev vs $92.3B est) with Q3 guide ~$108B. Price just slipped under the 50-day MA with a bearish MACD, so watch the $218 level closely.
+Stop-loss: Reassess if price falls below $218.75
+Take-profit: Consider taking profit above $328.72 (analyst mean target)
+
+──────────────────────
+
+🔴 IONQ — SELL  [Medium Confidence]
+Price: $31.42  |  Your cost: $54.00
+P&L: -$677.40 (-41.8%)  |  Held: 113 days
+Analyst: Buy (14 analysts) | Target: $67.00 → +113.2% upside
+https://www.tipranks.com/news/ionq-stock-forecast-what-analysts-see-after-the-1-3b-elisity-deal
+Moat: Trapped-ion quantum tech + IP lead, but pre-profit
+Trend: Below 50MA $41.04 and 200MA $43.05 | RSI 26.6 (oversold) | MACD bearish | Vol high (1.88x)
+News: IonQ prices $2B equity offering (plus 100M warrants) days after $1.3B all-stock Elisity deal — 24/7 Wall St, 14 Oct
+https://247wallst.com/investing/2026/10/14/ionq-falls-6-as-2b-equity-offering-follows-1-3b-elisity-stock-deal-d-wave-and-rigetti-retreat-4/
+Why: 2 sell signals — S4 (two back-to-back dilutive equity deals plus 100M new warrants hurt the per-share thesis) and S6 (down 24% in 5 days, company-specific, no recovery); only 3 of 8 hold signals. RSI is oversold near the $25.89 52-wk low, so a bounce is possible — consider exiting into strength rather than at the open.
+Stop-loss: N/A (SELL) — if still held, hard exit below $25.89 (52-wk low)
+Take-profit: N/A (SELL) — analyst mean $67 looks stale vs dilution
+⚠️ Earnings: ~4–11 Nov (est., 20–27 days)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,049.10
+Total P&L:      -$615.90 (-23.1%)
+Macro regime:   Risk-off — hot Sep CPI (3.7% y/y) lifted yields and Oct 28 FOMC hike odds to ~40–54%, with tech/AI leading the sell-off.
+
+📅 THIS WEEK AHEAD
+- Thu 15 Oct: Sep retail sales, PPI and jobless claims (8:30 ET) — more rate-hike risk if hot
+- Thu 15 Oct: TSMC Q3 earnings — key AI-demand read-through for NVDA
+- Fed speakers ahead of 27–28 Oct FOMC (hike vs hold repricing)
+
+🚨 Action needed: IONQ
