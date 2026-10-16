@@ -1,0 +1,49 @@
+📊 DAILY PORTFOLIO REPORT
+Fri 16 Oct 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [Medium Confidence]
+Price: $217.23  |  Your cost: $209.00
+P&L: +$41.15 (+3.9%)  |  Held: 133 days
+Analyst: Buy (MarketBeat consensus) | Target: $321.89 → +48.2% upside
+https://marketbeat.com/instant-alerts/price-nvidia-nasdaq-nvda-shares-down-18-heres-what-happened-2026-10-15
+Moat: CUDA ecosystem + data-center GPU dominance (Q2 FY27 rev $96.2B, +106% YoY, 75% GM)
+Trend: Below 50-day MA ($223.17), above 200-day MA ($202.84). RSI 40.2. MACD bearish crossover (0.91 vs signal 2.77). Volume normal (126M vs 118M avg). 1d -1.8%, 5d -5.7%, 1m +1.6%.
+News: Nvidia sinks as chip sell-off deepens on hot inflation data — Yahoo Finance, 15 Oct
+https://finance.yahoo.com/markets/stocks/article/nvidia-stock-sinks-as-chip-sell-off-deepens-on-hot-inflation-data-203235137.html
+Why: 6 of 8 hold signals (lost 50-day MA and MACD turned bearish), zero sell signals. Pullback is macro/rates and AI-financing jitters, not company-specific — fundamentals and Q3 guide ($108B) intact.
+Stop-loss: Reassess if price falls below $215.06 (formula capped 1% below price; 200-day MA $202.84 is next support)
+Take-profit: Consider taking profit above $321.89 (analyst mean target)
+Next earnings: ~18 Nov 2026 (est., 33 days)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [Low Confidence]
+Price: $34.35  |  Your cost: $54.00
+P&L: -$589.50 (-36.4%)  |  Held: 114 days
+Analyst: Strong Buy (14 analysts) | Target: $64.06 → +86.5% upside (stale — recent cuts: Morgan Stanley $43 EW, Rosenblatt $70 Buy)
+https://stockanalysis.com/stocks/ionq/
+Moat: Trapped-ion quantum tech lead + large cash pile
+Trend: Below 50-day MA ($40.93) and 200-day MA ($42.99). RSI 36.7. MACD bearish (-1.58 vs -0.40). Volume 2.2x avg (47.7M). 1d +9.3%, 5d -12.9%, 1m -6.8%.
+News: IonQ prices $2B stock + warrant offering at $40; Elisity all-stock deal up to $1.3B — SEC 424B5, 14 Oct
+https://www.sec.gov/Archives/edgar/data/0001824920/000119312526421074/d165327d424b5.htm
+Why: 1 sell signal (S6: -12.9% in 5 days, only partial rebound) vs 4 hold signals. Dilution of ~25-30% hurts but adds cash and doesn't break the thesis; selling at -36% after a dilution flush is poor timing, but conviction is low.
+Stop-loss: Reassess if price falls below $34.01 (formula capped 1% below price; Oct 14 low $31.42 is key support)
+Take-profit: Consider taking profit above $64.06 (analyst mean target)
+⚠️ Earnings: ~5 Nov 2026 (est., 20 days)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,116.65
+Total P&L:      -$548.35 (-20.6%)
+⚠️ Concentration: NVDA + IONQ both in Technology / compute hardware (100% of portfolio)
+Macro regime:   Risk-off for tech — hot Sept CPI (+0.6% m/m headline) lifted long yields and Fed hike odds; AI-financing worries (CoreWeave, Oracle) weighing on semis.
+
+📅 THIS WEEK AHEAD
+- Tue 20 Oct: Netflix Q3 earnings; housing starts
+- ~Wed 21 Oct: Tesla Q3 earnings (date varies by source); Meta, IBM, Lam Research also report this week
+- Fri 23 Oct: US flash PMIs + final UMich sentiment; FOMC follows on 28 Oct
+
+✅ No action needed today
