@@ -1,0 +1,49 @@
+📊 DAILY PORTFOLIO REPORT
+Sun 18 Oct 2026 — Weekend review (US market closed; data as of Fri 16 Oct close)
+
+──────────────────────
+
+🔵 NVDA — HOLD  [Medium Confidence]
+Price: $214.13  |  Your cost: $209.00
+P&L: +$25.65 (+2.5%)  |  Held: 135 days
+Analyst: Strong Buy (58 analysts) | Target: $302.83 → +41.4% upside
+https://walnutinvest.com/stocks/nvda/forecast
+Moat: CUDA software lock-in + AI data-center scale
+Trend: Below 50MA $223.08, above 200MA $202.97 | RSI 37.5 | MACD bearish crossover | Vol normal (1.0x) | 1D -1.4%, 5D -6.6%, 1M -2.4%
+News: Nvidia sinks as chip sell-off deepens on hot inflation data, CoreWeave debt worries — Yahoo Finance, 15-16 Oct
+https://finance.yahoo.com/markets/stocks/article/nvidia-stock-sinks-as-chip-sell-off-deepens-on-hot-inflation-data-203235137.html
+Why: 6 of 9 hold signals (above 200MA, healthy RSI, Strong Buy, 41% upside, moat intact, no company-specific bad news) and zero sell signals. The pullback is macro and sector-wide after a Q2 beat ($96.2B rev, Q3 guide $108B), but losing the 50MA with bearish MACD caps confidence.
+Stop-loss: Reassess if price falls below $211.99
+Take-profit: Consider taking profit above $302.83 (analyst mean target)
+Earnings: est. Wed 18 Nov (31 days, unconfirmed)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [Low Confidence]
+Price: $31.28  |  Your cost: $54.00
+P&L: -$681.60 (-42.1%)  |  Held: 116 days
+Analyst: Buy (13 analysts) | Target: $67.14 → +114.6% upside
+https://bullstory.io/en/stocks/ionq/forecast/price-target
+Moat: Trapped-ion fidelity lead + full-stack quantum/networking roll-up
+Trend: Below 50MA $40.76 and 200MA $42.92 | RSI 31.8 (near oversold) | MACD bearish | Vol 1.3x avg | 1D -8.9%, 5D -21.6%, 1M -22.5% | 52W low $25.89
+News: IonQ prices $2.0B stock offering days after $1.3B all-stock Elisity deal; shares -9.6% on dilution fears — MarketBeat, 14 Oct
+https://www.marketbeat.com/instant-alerts/price-ionq-nyse-ionq-stock-falls-96-heres-why-2026-10-14/
+Why: Only 1 sell signal (S6: -21.6% in 5 days, company-specific dilution) vs 4 hold signals; growth thesis intact (Q2 rev +287%, FY guide raised to $280-290M) and ~$1.9B fresh cash removes funding risk. But trend is broken and dilution is real, so this is a low-conviction hold with a tight line.
+Stop-loss: Reassess if price falls below $30.97 (next support: 52W low $25.89)
+Take-profit: Consider taking profit above $67.14 (analyst mean target)
+⚠️ Earnings: est. early Nov (~5 Nov, ~18 days, unconfirmed)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,009.05
+Total P&L:      -$656.00 (-24.6%)
+Macro regime:   Risk-off — hot Sept CPI revived Fed hike bets (~17%), semis index fell 11%+ last week on AI-financing and CoreWeave debt worries; Fed in blackout before 27-28 Oct FOMC.
+
+📅 THIS WEEK AHEAD
+- Tue 20 Oct: Netflix, GM, RTX earnings
+- Wed 21 Oct: Tesla, Meta, Texas Instruments, IBM earnings (AI-trade test)
+- Thu-Fri 22-23 Oct: Jobless claims, Western Digital earnings, flash PMIs
+
+✅ No action needed today
+IONQ is close to its stop-loss. If it breaks $31 next week, review the position.
