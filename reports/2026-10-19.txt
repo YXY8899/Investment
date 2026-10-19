@@ -1,0 +1,49 @@
+📊 DAILY PORTFOLIO REPORT
+Mon 19 Oct 2026 — Pre-market (prices = Fri 16 Oct close)
+
+──────────────────────
+
+🔵 NVDA — HOLD  [Medium Confidence]
+Price: $214.13  |  Your cost: $209.00
+P&L: +$25.65 (+2.5%)  |  Held: 136 days
+Analyst: Strong Buy (58 analysts) | Target: $302.83 → +41.4% upside (Aug 2026 snapshot)
+https://walnutinvest.com/stocks/nvda/forecast
+Moat: CUDA software lock-in + AI data-center GPU dominance
+Trend: Below 50-DMA $223.08, above 200-DMA $202.97 | RSI 37.5 | MACD bearish (-0.18 vs signal 2.18) | Vol normal (1.0x) | 1D -1.4%, 5D -6.6%, 1M -2.4%
+News: AI stocks sold off, Nasdaq -2.15% on Fri; CoreWeave debt worries weigh on NVDA — Yahoo Finance, 16 Oct
+https://finance.yahoo.com/markets/stocks/articles/markets-news-oct-16-2026-103800633.html
+Why: 0 sell signals and 6/8 hold signals (above 200-DMA, RSI neutral, Strong Buy, big upside, no company-specific bad news, moat intact). The pullback is sector-wide AI de-risking, not an NVDA problem; Q2 rev $96.2B (+106% YoY), 75% gross margin.
+Stop-loss: Reassess if price falls below $197.00 (8% floor; 50-DMA level $218.62 already lost)
+Take-profit: Consider taking profit above $302.83 (analyst mean target)
+⚠️ Earnings: ~18 Nov 2026 (30 days, unconfirmed)
+
+──────────────────────
+
+🔴 IONQ — SELL  [Low Confidence]
+Price: $31.28  |  Your cost: $54.00
+P&L: -$681.60 (-42.1%)  |  Held: 117 days
+Analyst: Buy, 12 of 14 (14 analysts) | Target: $67 (stale — see recent cuts) → +114% | Recent: Morgan Stanley $43 (cut from $49), Rosenblatt $100 held
+https://www.tikr.com/blog/ionq-has-lost-56-since-last-october-rosenblatt-sees-176-upside
+Moat: Trapped-ion quantum hardware lead + growing acquired networking/security stack
+Trend: Below 50-DMA $40.76 and 200-DMA $42.92 | RSI 31.8 (near oversold) | MACD bearish, widening | Vol 1.3x avg | 1D -8.9%, 5D -21.6%, 1M -22.5%
+News: $2B stock+warrant offering at $40 days after $1.3B all-stock Elisity deal — heavy dilution — Motley Fool, 14 Oct
+https://www.fool.com/investing/2026/10/14/why-ionq-stock-just-crashed/
+Why: S6 triggered — down 21.6% in 5 days on company-specific dilution, and the 15 Oct bounce fully erased; only 4/8 hold signals (below both MAs, bearish MACD, high-impact negative news). RSI near 30 means a relief bounce is possible — consider selling or trimming into strength toward $35-40 rather than at the lows.
+Stop-loss: N/A (SELL) — if holding, hard exit below $28.78 (8% below price)
+Take-profit: N/A (SELL) — recent target $43 (Morgan Stanley) if holding
+⚠️ Earnings: ~4-11 Nov 2026 (16-23 days, unconfirmed)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,009.05
+Total P&L:      -$655.95 (-24.6%)
+Concentration: none (NVDA = Semiconductors, IONQ = Quantum Computing)
+Macro regime:   Risk-off tilt for tech — Nasdaq had its worst week since June as the AI trade unwound, and a hot CPI revived higher-for-longer rate risk ahead of the late-Oct FOMC.
+
+📅 THIS WEEK AHEAD
+- Fed blackout 17-29 Oct; FOMC decision ~28 Oct sets the tone
+- Tue 20 Oct: Netflix Q3 earnings (after close) kicks off mega-cap tech season
+- Thu 22 Oct: Weekly jobless claims + Conference Board LEI
+
+🚨 Action needed: IONQ
