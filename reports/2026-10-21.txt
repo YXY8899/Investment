@@ -1,0 +1,48 @@
+📊 DAILY PORTFOLIO REPORT
+Wed 21 Oct 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [Medium Confidence]
+Price: $216.47  |  Your cost: $209.00
+P&L: +$37.35 (+3.6%)  |  Held: 138 days
+Analyst: Buy (28 analysts) | Target: $344 → +58.9% upside (Benzinga, 4 Sep)
+https://www.benzinga.com/quote/NVDA/price-targets
+Moat: CUDA software lock-in + ~92% data-center AI share
+Trend: Below 50-DMA $222.92, above 200-DMA $203.26 | RSI 40.9 | MACD bearish (histogram narrowing) | Vol 77M vs 118M avg (low) | 5d -5.3%, 1m -4.8%
+News: Nvidia loses $365B in a week as rising yields raise AI-financing doubts — Invezz, 19 Oct
+https://invezz.com/news/2026/10/19/nvidia-stock-loses-365-billion-in-a-week-could-the-ai-boom-be-running-out-of-money/
+Why: 0 sell signals, 6/8 hold signals. Fundamentals are intact (Q2 revenue +106%, 75% GM, $108B Q3 guide). The pullback is a sector-wide rates/financing scare, though losing the 50-DMA plus a bearish MACD is why confidence is Medium.
+Stop-loss: Reassess if price falls below $218.46 (50-DMA rule; price already sits below it, so watch the $199.15 hard floor, -8%)
+Take-profit: Consider taking profit above $344 (analyst mean target)
+⚠️ Earnings: 18 Nov 2026, expected (28 days)
+
+──────────────────────
+
+🔴 IONQ — SELL  [Low Confidence]
+Price: $31.26  |  Your cost: $54.00
+P&L: -$682.20 (-42.1%)  |  Held: 119 days
+Analyst: Strong Buy (13 analysts) | Target: $67.14 → +114.8% upside (Bullstory, 27 Sep)
+https://bullstory.io/en/stocks/ionq/forecast/price-target
+Moat: Trapped-ion quantum leader + vertical stack (SkyWater fab)
+Trend: Below 50-DMA $40.26 and 200-DMA $42.78 (death cross) | RSI 32.6 | MACD bearish | Vol 20.5M vs 22.5M avg (normal) | 5d -10.0%, 1m -22.8%
+News: IonQ prices $2.0B equity offering at $40 plus 100M warrants at $69.46 — IonQ IR, 14 Oct
+https://investors.ionq.com/news/news-details/2026/IonQ-Announces-Pricing-of-2-0-Billion-Equity-Offering/default.aspx
+Why: S6 fired (-10% in 5 days with no recovery, partly company-specific dilution and the $1.15B Elisity stock deal), and only 4/8 hold signals remain. The trend is broken and the stop has been breached by about 21%, so cut or trim. Revenue +287% and $4B+ of cash argue against a full exit.
+Stop-loss: N/A (SELL); the rule level would have been $39.46
+Take-profit: N/A (SELL); analyst mean target is $67.14
+⚠️ Earnings: ~4–9 Nov 2026, unconfirmed (14–19 days)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,020.15
+Total P&L:      -$644.85 (-24.2%)
+Macro regime:   Cautious, rotating risk. A hot 14 Oct CPI lifted yields and put Fed hike odds near 14%; megacap tech/AI is under pressure while small caps lead (Russell +1.65% on 20 Oct).
+
+📅 THIS WEEK AHEAD
+- Tesla and Meta Q3 earnings, 21 Oct after close (a test of AI capex)
+- Microsoft and Alphabet earnings, expected 28 Oct
+- FOMC decision 28 Oct (about 85% hold, about 14% hike)
+
+🚨 Action needed: IONQ
