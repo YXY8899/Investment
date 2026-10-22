@@ -1,0 +1,50 @@
+📊 DAILY PORTFOLIO REPORT
+Thu 22 Oct 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [Medium Confidence]
+Price: $221.97  |  Your cost: $209.00
+P&L: +$64.85 (+6.2%)  |  Held: 139 days
+Analyst: Strong Buy (33 analysts) | Target: $323 → +45.7% upside
+https://www.tipranks.com/stocks/nvda/forecast
+Moat: CUDA ecosystem + full-stack AI data-center lock-in
+Trend: Just below 50MA $223.01, above 200MA $203.43 | RSI 47.9 | MACD below signal but histogram narrowing | Vol 86M vs ~118M avg (light) | 1D +2.5%, 5D -5.3%, 1M -4.8%
+News: Musk says SpaceX bringing ~200k Nvidia GB300s online per month, ~$40B chip financing discussed — Yahoo Finance, 21 Oct
+https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-pops-hours-elon-013406375.html
+Why: 6/8 hold signals and zero sell signals — consensus Strong Buy with ~46% upside, Q2 FY27 revenue +106% YoY to $96.2B, Q3 guide $108B. Only soft spots are price a hair under the 50-day MA and a still-negative MACD after a 2-week pullback from $230.
+Stop-loss: Reassess if price falls below $218.55
+Take-profit: Consider taking profit above $323 (analyst mean target)
+⚠️ Earnings: 18 Nov 2026, est. unconfirmed (27 days)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [Low Confidence]
+Price: $32.28  |  Your cost: $54.00
+P&L: -$651.60 (-40.2%)  |  Held: 120 days
+Analyst: Buy (13 analysts) | Target: $67 (stale — see recent cuts) → +107% upside. Recent: Rosenblatt $100→$70 Buy, Morgan Stanley $49→$43 Equal Weight (mid-Oct)
+https://www.investing.com/news/analyst-ratings/rosenblatt-cuts-ionq-stock-price-target-on-dilution-concerns-93CH-4951468
+Moat: Trapped-ion quantum leader, broadest full-stack quantum platform
+Trend: Below 50MA $40.04 and 200MA $42.69 | RSI 36.0 | MACD bearish, histogram narrowing | Vol 16.7M vs ~22.5M avg | 1D +3.3%, 5D -10.0%, 1M -22.8% | 52W low $25.89
+News: IonQ prices $2.0B equity offering at $40 plus warrants at $69.46, on top of $1.3B all-stock Elisity deal — IonQ IR, 14 Oct
+https://investors.ionq.com/news/news-details/2026/IonQ-Announces-Pricing-of-2-0-Billion-Equity-Offering/default.aspx
+Why: 1 sell signal (S4: heavy dilution, roughly 20-30% pro forma) vs 4/8 hold signals — downtrend intact below both MAs, but cash runway is now very large and revenue is still growing fast (Q2 $80M, FY guide $280-290M). One signal does not justify an automatic sell at -40% days before earnings; treat a break below the stop as the exit trigger.
+Stop-loss: Reassess if price falls below $31.96
+Take-profit: Consider taking profit above $67 (analyst mean target, stale)
+⚠️ Earnings: ~4 Nov 2026, est. unconfirmed (13 days)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,078.25
+Total P&L:      -$586.75 (-22.0%)
+Concentration: No shared sector (NVDA Semiconductors, IONQ Quantum Computing) — but both are high-beta AI/tech growth names
+Macro regime:   Cautious risk-on — AI/chip stocks rebounded Wed (Nasdaq +1.05%) but futures are lower Thu with oil near $100, and markets price ~75% odds of another Fed hike this year (tightening bias).
+
+📅 THIS WEEK AHEAD
+- FOMC decision 27-28 Oct (Fed in blackout; hike odds for Oct under 1-in-6)
+- Core PCE inflation 29 Oct
+- ECB and BOJ decisions 28-30 Oct; IONQ earnings ~4 Nov
+
+✅ No action needed today
+IONQ is on a tight stop — a close below $31.96 means reassess.
