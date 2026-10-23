@@ -1,0 +1,48 @@
+📊 DAILY PORTFOLIO REPORT
+Fri 23 Oct 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [Medium Confidence]
+Price: $212.21  |  Your cost: $209.00
+P&L: +$16.05 (+1.5%)  |  Held: 140 days
+Analyst: Buy (approx. 49 analysts) | Target: $328.72 → +54.9% upside
+https://www.marketscreener.com/quote/stock/NVIDIA-CORPORATION-57355629/consensus/
+Moat: CUDA software lock-in + full-stack AI data-center platform
+Trend: Below 50D MA ($223.01), above 200D MA ($203.43); RSI 39; MACD bearish crossover; volume normal (125M vs ~118M avg)
+News: Chip selloff resumed, NVDA -4.4% on 22 Oct on AI-financing worries. SOX had its longest losing streak since 2008. Huang says the selloff will pass — Bloomberg/The Edge, 17-22 Oct
+https://theedgemalaysia.com/node/822194
+Why: 6/8 hold signals (above 200D MA, RSI healthy, Buy consensus, 55% upside, Q2 beat $96.2B vs $92.3B, moat intact) and 0 sell signals. Short-term trend is weak (below 50D MA, MACD bearish) but the pressure is sector-wide, not company-specific.
+Stop-loss: Reassess if price falls below $210.09 (capped at 1% below price; 50D-MA anchor $218.55 is above current price)
+Take-profit: Consider taking profit above $328.72 (analyst mean target)
+⚠️ Earnings: ~18 Nov 2026, estimated (26 days)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [Low Confidence]
+Price: $31.16  |  Your cost: $54.00
+P&L: -$685.20 (-42.3%)  |  Held: 121 days
+Analyst: Strong Buy (12 analysts) | Target: $67.73 → +117.4% upside (recent targets range $43-$75: MS $43 EW, Mizuho $52, Rosenblatt $70, Wedbush $75)
+https://www.tipranks.com/news/ionq-stock-forecast-what-analysts-see-after-the-1-3b-elisity-deal
+Moat: Trapped-ion quantum IP + broad quantum/networking/security platform
+Trend: Below 50D MA ($40.04) and 200D MA ($42.69); RSI 34 (near oversold); MACD bearish, histogram narrowing; volume normal (18.9M vs ~22.5M avg)
+News: $2.0B equity offering priced at $40, with 100M warrants at $69.46, plus an all-stock Elisity deal worth up to $1.3B. These bring heavy dilution — IonQ IR, 14 Oct
+https://investors.ionq.com/news/news-details/2026/IonQ-Announces-Pricing-of-2-0-Billion-Equity-Offering/default.aspx
+Why: 0 sell signals, but only 4 of 8 hold signals (RSI, Strong Buy, big upside, moat), so this is a weak HOLD. The dilution overhang and a downtrend below both MAs (-21% in 1 month) argue against adding.
+Stop-loss: Reassess if price falls below $30.85 (capped at 1% below price; 50D-MA anchor $39.24 is above price; 52W low $25.89)
+Take-profit: Consider taking profit above $67.73 (analyst mean target)
+⚠️ Earnings: ~4-11 Nov 2026, not confirmed (12-19 days)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $1,995.85
+Total P&L:      -$669.15 (-25.1%)
+Macro regime:   Risk-off in tech. Chips are under pressure on AI-financing and credit worries (CoreWeave bond stress) after warm CPI/PPI, with the Fed in blackout before next week's FOMC.
+
+📅 THIS WEEK AHEAD
+- Fri 23 Oct: S&P flash PMIs + UMich inflation expectations (9:45-10:00 ET)
+- Wed 28 Oct: FOMC decision 2pm ET; MSFT + GOOGL earnings after close
+- Thu 29 Oct: Q3 GDP + Sep PCE (8:30 ET); AMZN earnings after close
+
+✅ No action needed today
