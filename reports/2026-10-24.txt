@@ -1,0 +1,49 @@
+📊 DAILY PORTFOLIO REPORT
+Sat 24 Oct 2026 — Weekend recap (prices = Fri 23 Oct close)
+
+──────────────────────
+
+🔵 NVDA — HOLD  [Medium Confidence]
+Price: $210.96  |  Your cost: $209.00
+P&L: +$9.80 (+0.9%)  |  Held: 141 days
+Analyst: Buy (28 analysts) | Target: $344 → +63.1% upside (as of 4 Sep; Seaport reiterated Sell $180 on 23 Oct)
+https://www.benzinga.com/quote/NVDA/price-targets
+Moat: CUDA ecosystem + AI accelerator leadership
+Trend: Below 50MA $222.48, above 200MA $203.67 | RSI 38 | MACD bearish, histogram widening | Vol low (80M vs 118M avg) | 1M -6.1%
+News: NVDA -4.4% on 22 Oct as SOX fell 6.7% on AI-financing fears after Meta results — FX Leaders, 23 Oct
+https://www.fxleaders.com/news/2026/10/23/nvidia-nvda-stock-falls-4-4-to-212-21-as-ai-financing-fears-hit-chips/
+Why: 6/8 hold signals and zero sell signals; the drop is sector-wide contagion from Meta's capex read, not company news, and Q3 guide ($108B) remains strong. Momentum is weak (below 50MA, bearish MACD), so confidence is Medium, not High.
+Stop-loss: Reassess if price falls below $218.03 (formula level — price is already below it; hard 8% floor $194.08)
+Take-profit: Consider taking profit above $344 (analyst mean target)
+⚠️ Earnings: 18 Nov 2026 (25 days)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [Low Confidence]
+Price: $31.27  |  Your cost: $54.00
+P&L: -$681.90 (-42.1%)  |  Held: 122 days
+Analyst: Strong Buy (13 analysts) | Target: $67.14 → +114.7% upside (as of 27 Sep — likely stale, cuts since)
+https://bullstory.io/en/stocks/ionq/forecast/price-target
+Moat: trapped-ion quantum tech lead + acquired foundry (SkyWater)
+Trend: Below 50MA $39.48 and 200MA $42.50 | RSI 34 | MACD bearish but histogram narrowing | Vol low (13M vs 22.5M avg) | 1M -30.5%
+News: IonQ priced $2.0B equity offering at $40/share, days after $1.3B all-stock Elisity deal — dilution overhang — IonQ IR, 14 Oct
+https://investors.ionq.com/news/news-details/2026/IonQ-Announces-Pricing-of-2-0-Billion-Equity-Offering/default.aspx
+Why: Only 4/8 hold signals (RSI, analyst rating, upside, moat) and no formal sell signal — the offering adds cash but heavy dilution and insider selling keep pressure on. Price is near the 52W low $25.89 and well below every MA; treat as a speculative hold and reassess on Q3 results.
+Stop-loss: Reassess if price falls below $38.69 (formula level — price is already below it; hard 8% floor $28.77)
+Take-profit: Consider taking profit above $67.14 (analyst mean target)
+⚠️ Earnings: ~early Nov 2026, unconfirmed (est. ~11 days)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $1,992.90
+Total P&L:      -$672.10 (-25.2%)
+Macro regime:   Risk-off tilt in AI/chips on capex-financing worries; hotter inflation has markets pricing a Fed hold now and rising odds of a December hike.
+
+📅 THIS WEEK AHEAD
+- Wed 28 Oct: FOMC decision (hold expected; watch for hike signals)
+- Wed 28 / Thu 29 Oct: MSFT + GOOGL, then AMZN earnings — key AI-capex read for NVDA
+- Thu 29 Oct: Q3 GDP (advance) + PCE inflation
+
+✅ No action needed today
+⚠️ Note: both holdings trade below their 50-day-MA stop levels — review position sizing, esp. IONQ (-42%).
