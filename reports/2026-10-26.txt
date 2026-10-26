@@ -1,0 +1,48 @@
+📊 DAILY PORTFOLIO REPORT
+Mon 26 Oct 2026 — Pre-market (prices as of Fri 23 Oct close)
+
+──────────────────────
+
+🔵 NVDA — HOLD  [Medium Confidence]
+Price: $210.96  |  Your cost: $209.00
+P&L: +$9.80 (+0.9%)  |  Held: 143 days
+Analyst: Buy (55 analysts) | Target: $321.47 → +52.4% upside
+https://www.marketbeat.com/stocks/NASDAQ/NVDA/forecast/
+Moat: CUDA software lock-in + AI data-center GPU dominance
+Trend: Below 50MA $222.48, above 200MA $203.67 | RSI 38 | MACD bearish, below signal | Vol low (0.7x avg) | 1D -0.6%, 5D -1.5%, 1M -6.1%
+News: Chips sell off on renewed AI-capex worries after Meta results; NVDA -4.4% on 22 Oct — HeyGoTrade, 23 Oct
+https://www.heygotrade.com/en/news/nvidia-nvda-stock-news-october-23-2026/
+Why: 6/8 hold signals and no sell signals. Fundamentals are intact (Q2 revenue +106% YoY, Q3 guide of $108B), but the price has slipped below the 50-day MA with bearish MACD, so momentum is soft going into hyperscaler earnings this week.
+Stop-loss: Reassess if price falls below $208.85
+Take-profit: Consider taking profit above $321 (analyst mean target)
+⚠️ Earnings: 18 Nov 2026, estimated (23 days)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [Low Confidence]
+Price: $31.27  |  Your cost: $54.00
+P&L: -$681.90 (-42.1%)  |  Held: 124 days
+Analyst: Moderate Buy | Consensus $63.33 (stale — see recent cuts). Recent: Morgan Stanley $43 EW, Rosenblatt $70 Buy (both 15 Oct) → +37.5% to $43
+https://site.financialmodelingprep.com/market-news/ionq-stock-price-target-cut-dilutive-financing-deal
+Moat: Trapped-ion quantum tech lead + early commercial revenue scale
+Trend: Below 50MA $39.48 and 200MA $42.50 | RSI 34 | MACD bearish but histogram narrowing | Vol low (0.6x avg) | 1D +0.4%, 5D 0.0%, 1M -30.5%
+News: IonQ down 24% in a month after a $2B equity raise (warrants at $69.46) and the all-stock Elisity deal (up to $1.3B) fuel dilution fears — 24/7 Wall St, 22 Oct
+https://247wallst.com/investing/2026/10/22/ionq-is-now-down-24-in-a-month-is-ionq-a-toxic-stock-or-ready-for-a-recovery/
+Why: Only 4/8 hold signals (RSI, rating, upside, moat). It is below both MAs with bearish MACD after heavy dilution, but there are no formal sell signals: the 5-day change is flat and revenue guidance is $280-290M. Weak hold, and a high-risk position, down 42%.
+Stop-loss: Reassess if price falls below $30.96 (capped below price, since the 50MA is far above)
+Take-profit: Consider taking profit above $43 (Morgan Stanley, most recent target)
+⚠️ Earnings: about 4-9 Nov 2026, not yet confirmed (about 9-14 days)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $1,992.90
+Total P&L:      -$672.10 (-25.2%)
+Macro regime:   Cautious risk-off tilt. The Fed is expected to hold at 3.75-4.00%, with markets watching for any December hike signal, and AI-capex doubts after Meta are weighing on chips.
+
+📅 THIS WEEK AHEAD
+- FOMC decision Wed 28 Oct (ECB and BoJ also meet this week)
+- Mega-cap earnings: MSFT and GOOGL Wed 28 Oct, AMZN and INTC Thu 29 Oct. AI capex guidance is key for NVDA
+- Q3 GDP (preliminary) and September PCE inflation, later this week
+
+✅ No action needed today
