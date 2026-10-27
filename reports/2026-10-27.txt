@@ -1,0 +1,49 @@
+📊 DAILY PORTFOLIO REPORT
+Tue 27 Oct 2026 — Pre-market (prices = 26 Oct close)
+
+──────────────────────
+
+🔵 NVDA — HOLD  [Medium Confidence]
+Price: $216.00  |  Your cost: $209.00
+P&L: +$35.00 (+3.3%)  |  Held: 144 days
+Analyst: Buy / Strong Buy (28 analysts) | Target: $328.95 → +52.3% upside
+https://www.benzinga.com/quote/NVDA/price-targets
+Moat: CUDA software lock-in + ~75% gross margin AI accelerator leadership
+Trend: Below 50D MA $222.30, above 200D MA $203.82 | RSI 44 | MACD -2.73 under signal -0.94 (bearish) | Vol 90M vs 114M avg (low)
+News: Nvidia rebounds 2.4% as AI chips rally on Anthropic IPO filing, ahead of Fed and Big Tech earnings — Coinpaper/TheStreet, 26 Oct
+https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-26-2026
+Why: 6 of 8 hold signals and zero sell signals — Q2 FY27 revenue $96.2B (+106% YoY) beat and Q3 guided to $108B, with 50%+ upside to targets. Short-term momentum is weak (below 50D MA, bearish MACD) after a 10% pullback from the 6 Oct high, so confidence is Medium, not High.
+Stop-loss: Reassess if price falls below $217.85 (formula = 98% of 50D MA; price is already just under it, so treat $198.72 / -8% as the hard floor)
+Take-profit: Consider taking profit above $328.95 (analyst mean target)
+⚠️ Earnings: ~18 Nov 2026, unconfirmed (22 days)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [Low Confidence]
+Price: $30.76  |  Your cost: $54.00
+P&L: -$697.20 (-43.0%)  |  Held: 125 days
+Analyst: Buy (13 analysts) | Target: $66.63 → +116.6% upside (pre-offering, likely stale)
+https://247wallst.com/investing/2026/10/01/ionq-lost-30-of-its-value-over-12-months-two-wall-street-ratings-agencies-say-share-prices-will-more-than-double-over-the-next-12-months/
+Moat: Trapped-ion quantum tech lead + SkyWater foundry vertical integration
+Trend: Below 50D MA $39.17 and 200D MA $42.40 | RSI 33 (near oversold) | MACD -2.78 under signal -2.16 (bearish) | Vol 17.0M vs 22.2M avg (low) | -32% in 1 month
+News: IonQ launches $2B equity offering as quantum sector sells off — dilution overhang, plus all-stock Elisity deal — Forbes / Foreign Policy Journal, 14-15 Oct
+https://www.forbes.com/sites/greatspeculations/2026/10/14/what-is-happening-with-ionq-stock/
+Why: Only 4 of 8 hold signals — trend, MACD and dilution news are negative, but there is no sell trigger (5-day flat, no S1-S6 hit) and FY26 revenue guidance of $450-460M was raised in Sept. Q3 results in early Nov are the decisive test; a guidance miss would flip this to SELL.
+Stop-loss: Reassess if price falls below $38.39 (formula = 98% of 50D MA; price is already far below it, so treat $28.30 / -8% as the hard floor, 52W low $25.89)
+Take-profit: Consider taking profit above $66.63 (analyst mean target)
+⚠️ Earnings: ~4-5 Nov 2026, unconfirmed (8-9 days)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,002.80
+Total P&L:      -$662.20 (-24.8%)
+Note: no shared sector (Semis vs Quantum), but both are high-beta AI/tech names that are moving together in AI-capex selloffs
+Macro regime:   Cautious risk-on — stocks bounced Monday on the Anthropic IPO filing, but AI-debt/capex fears linger and the Fed is expected to hold rates on Wednesday.
+
+📅 THIS WEEK AHEAD
+- Wed 28 Oct: FOMC rate decision (hold expected), with MSFT + GOOGL earnings after the close
+- Thu 29 Oct: AMZN + INTC earnings, and advance Q3 GDP
+- Fri 30 Oct: Sept PCE inflation / personal income and outlays
+
+✅ No action needed today
