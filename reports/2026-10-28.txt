@@ -1,0 +1,48 @@
+📊 DAILY PORTFOLIO REPORT
+Wed 28 Oct 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [Medium Confidence]
+Price: $217.94  |  Your cost: $209.00
+P&L: +$44.70 (+4.3%)  |  Held: 145 days
+Analyst: Buy / Strong Buy (69 analysts) | Target: $331.04 → +51.9% upside
+https://www.chartmill.com/stock/quote/NVDA/analyst-ratings
+Moat: CUDA software lock-in + AI accelerator leadership (Q3 FY27 guide $108B rev, 74% GM)
+Trend: Below 50-day MA ($222.30), above 200-day ($203.82); RSI 44; MACD below signal but histogram narrowing; volume 0.7x avg (light)
+News: Chips rally 2nd day as Anthropic IPO filing and SpaceX $40B GPU debt deal revive AI trade; neocloud weakness weighs on October (-~4% 1M) — FinanceFeeds/CNBC, 26-27 Oct
+https://financefeeds.com/nvidia-nvda-stock-216-tuesday-spacex-40-billion-gpu-debt-anthropic-ipo-rally-bull-243-bear-190/
+Why: Zero sell signals and 6/8 hold signals (above 200-day MA, neutral RSI, Buy consensus, 50%+ upside, moat intact). Only blemishes are price just under the 50-day MA and a bearish MACD, so confidence is Medium.
+Stop-loss: Reassess if price falls below $217.85 (just under 50-day MA — sits right at today's price, watch closely)
+Take-profit: Consider taking profit above $331 (analyst mean target)
+⚠️ Earnings: ~18 Nov 2026, est. (21 days)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [Medium Confidence]
+Price: $32.95  |  Your cost: $54.00
+P&L: -$631.50 (-39.0%)  |  Held: 126 days
+Analyst: Strong Buy (12 analysts; 11 Buy, 1 Hold) | Target: ~$67 → +103% upside
+https://www.tipranks.com/news/ionq-ionq-q3-earnings-preview-wall-street-sees-254-revenue-surge
+Moat: Trapped-ion leader (99.99% 2-qubit fidelity) + SkyWater fab vertical integration
+Trend: Below 50-day ($39.17) and 200-day ($42.40) MAs; RSI 33 (near oversold); MACD below signal but turning up; +7.1% yesterday on avg volume
+News: Q3 results confirmed for 5 Nov after close; Street sees rev ~$141M (+254% YoY), FY26 guide $450-460M. Overhang: $2.0B equity offering priced 14 Oct — TipRanks/IonQ IR, 23 Oct
+https://www.stocktitan.net/news/IONQ/ion-q-to-report-third-quarter-2026-financial-results-on-november-5-vwy51orwf1yu.html
+Why: No sell signals fire (5-day flat, consensus Buy, no new thesis-breaking news) and 5/8 hold signals, but the trend is clearly down (-32% in 1M) after dilution. Hold into earnings; the 5 Nov print is the thesis test.
+Stop-loss: Reassess if price falls below $38.39 — ⚠️ already below this level (price under 50-day MA); hard floor $30.31 (-8%)
+Take-profit: Consider taking profit above $67 (analyst mean target)
+⚠️ Earnings: 5 Nov 2026 (8 days)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $2,078.20
+Total P&L:      -$586.80 (-22.0%)
+Macro regime:   Cautious risk-on — chips bouncing, but hot inflation (CPI 3.7%) keeps the Fed on hold at 3.75-4.00% with a December hike in play.
+
+📅 THIS WEEK AHEAD
+- Wed 28 Oct: FOMC decision (hold ~93% priced) + Chair Warsh presser
+- Wed 28 Oct AMC: Microsoft & Alphabet earnings; Thu 29 Oct: Amazon (AI capex read-through for NVDA)
+- Mon 2 Nov: Apple earnings; Tue 3 Nov: US midterm elections
+
+✅ No action needed today
