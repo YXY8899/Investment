@@ -1,0 +1,49 @@
+📊 DAILY PORTFOLIO REPORT
+Sat 31 Oct 2026 — Weekend (US market closed; prices = Fri 30 Oct close)
+
+──────────────────────
+
+🔵 NVDA — HOLD  [Medium Confidence]
+Price: $204.64  |  Your cost: $209.00
+P&L: -$21.80 (-2.1%)  |  Held: 148 days
+Analyst: Buy (53 analysts) | Target: $305.38 → +49.2% upside
+https://www.marketbeat.com/stocks/NASDAQ/NVDA/forecast/
+Moat: CUDA software lock-in + AI accelerator leadership
+Trend: Below 50-day MA ($221.75), right on 200-day MA ($204.38). RSI 35.1. MACD bearish, gap widening. Volume 1.5x avg (high). Fri -4.2%, 5d -3.0%, 1m -11.4%.
+News: Nvidia -4.2% as Intel's weak guidance (-28%) and Amazon spark AI-capex fears; SOX -7%+ — Invezz/AP, 30 Oct
+https://invezz.com/news/2026/10/30/why-nvidia-shares-are-down-over-4-on-friday
+Why: 6 of 8 hold signals and no sell signals. Fundamentals are strong (Q2 revenue +106% YoY, Q3 guided to $108B). Friday's drop came from Intel/Amazon dragging the whole sector, not from Nvidia itself, but momentum is weak until it gets back above the 50-day MA.
+Stop-loss: Formula level $217.32 (50-day MA x 0.98) is already above the price, so reassess now. Hard floor $188.27 (-8%). The 200-day MA ($204) is the key level to hold.
+Take-profit: Consider taking profit above $305 (analyst mean target)
+⚠️ Earnings: 17 Nov 2026 (17 days)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [Low Confidence]
+Price: $30.04  |  Your cost: $54.00
+P&L: -$718.80 (-44.4%)  |  Held: 129 days
+Analyst: Moderate Buy (N/A analysts) | Target: ~$67 → +123% upside (consensus may be stale, Aug data; Jefferies Buy $80)
+https://www.tickflow.io/stock/IONQ/forecast
+Moat: Trapped-ion quantum leader, $485M backlog, ~$4B cash
+Trend: Below 50-day MA ($38.20) and 200-day MA ($42.04). RSI 34.7. MACD slightly bearish. Volume normal. Fri -5.3%, 5d -3.9%, 1m -31.7%.
+News: $2B equity + warrant raise ($40/sh) and all-stock Elisity deal (up to $1.3B) cause dilution selloff — Motley Fool, 14 Oct
+https://www.fool.com/investing/2026/10/14/why-ionq-stock-just-crashed/
+Why: No sell signal fired, but only 4 of 8 hold signals: price is below both MAs, MACD is bearish and the dilution news is negative. Revenue is still growing fast (+287% YoY, FY26 guidance $280-290M), but the stock has broken down and Q3 results are the next test.
+Stop-loss: Formula level $37.44 is already above the price, so reassess now. Hard floor $27.64 (-8%), close to the 52-week low of $25.89.
+Take-profit: Consider taking profit above $67 (analyst mean target)
+⚠️ Earnings: ~4-11 Nov 2026, date not confirmed (4-11 days)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $1,924.40
+Total P&L:      -$740.60 (-27.8%)
+Concentration:  None (NVDA = Semiconductors, IONQ = Quantum Computing). Both are high-beta AI/tech.
+Macro regime:   Risk-off. The Fed hiked in Sept, held at 3.75-4.00% on 28 Oct (10-2 vote) and a December hike is priced in. Nasdaq fell 2.9% Friday on AI-capex fears.
+
+📅 THIS WEEK AHEAD
+- Mon 2 Nov: ISM Manufacturing; Apple and Palantir earnings after the close
+- Tue 3 Nov: US midterm elections; AMD earnings (key read-across for NVDA); JOLTS
+- Fri 6 Nov: October jobs report (8:30 ET), which could move December hike odds
+
+✅ No action needed today. Both are HOLD under the rules, but both are already below their stop-loss levels. Review IONQ (-44%) before its earnings.
