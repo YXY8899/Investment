@@ -1,0 +1,48 @@
+📊 DAILY PORTFOLIO REPORT
+Mon 2 Nov 2026 — Pre-market (prices = Fri 30 Oct close)
+
+──────────────────────
+
+🔵 NVDA — HOLD  [Medium Confidence]
+Price: $204.64  |  Your cost: $209.00
+P&L: -$21.80 (-2.1%)  |  Held: 150 days
+Analyst: Buy (28 analysts) | Target: $344 → +68.1% upside
+https://www.benzinga.com/quote/NVDA/price-targets
+Moat: CUDA software lock-in + AI data-center dominance (DC rev $89.0B, +117% YoY)
+Trend: Below 50MA $221.75, just above 200MA $204.38; RSI 35; MACD bearish (below signal); volume 168M vs ~114M avg (high, selloff). 1d -4.2%, 5d -3.0%, 1m -11.4%
+News: NVDA -4.2% as Intel's weak Q4 outlook and Amazon results spark AI-spending selloff; chip index -7%, AMD -11% — Invezz/Reuters, 30 Oct
+https://invezz.com/news/2026/10/30/why-nvidia-shares-are-down-over-4-on-friday/
+Why: 0 sell signals, 6/8 hold signals (above 200MA, RSI neutral, Buy consensus, big upside, no company-specific bad news, moat intact). Friday's drop was sector contagion, not NVDA-specific; last quarter beat ($96.2B rev, +106%) with Q3 guide $108B.
+Stop-loss: Reassess if price falls below $188.27 (8% floor; 50MA rule $217.31 already breached — watch 200MA $204)
+Take-profit: Consider taking profit above $344 (analyst mean target)
+⚠️ Earnings: 17 Nov 2026 (15 days)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [Low Confidence]
+Price: $30.04  |  Your cost: $54.00
+P&L: -$718.80 (-44.4%)  |  Held: 131 days
+Analyst: Buy / Strong Buy (13 analysts) | Target: $67.14 → +123.5% upside (as of 27 Sep — likely to be cut)
+https://bullstory.io/en/stocks/ionq/forecast/price-target
+Moat: Trapped-ion tech lead + full-stack quantum/networking roll-up; ~$2B+ cash
+Trend: Below 50MA $38.20 and 200MA $42.04; RSI 35; MACD bearish; volume 23M vs ~22M avg (normal). 1d -5.3%, 5d -3.9%, 1m -31.7%
+News: IonQ prices $2B equity offering at $40 plus all-stock $1.3B Elisity deal — dilution drives month-long slide — FinChannel, Oct 2026
+https://finchannel.com/ionq-shares-slide-as-company-prices-2-billion-equity-offering/138161/american-business-trends/stock-prices/2026/10/
+Why: 0 hard sell signals but only 4/8 hold signals — trend broken below both MAs and dilution weighs, while revenue (+287% YoY) and the thesis remain intact. Q3 results in 3 days (implied move ~14%) are the decision point; reassess right after.
+Stop-loss: Reassess if price falls below $27.64 (8% floor; 50MA rule $37.44 already breached; 52w low $25.89)
+Take-profit: Consider taking profit above $67.14 (analyst mean target)
+⚠️ Earnings: 5 Nov 2026 (3 days)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $1,924.40
+Total P&L:      -$740.60 (-27.8%)
+Macro regime:   Risk-off tilt for tech. AI-capex payback fears hit chips after Intel/Amazon; Fed held at 3.75-4.00% with 2 hawkish dissents and markets pricing ~70-80% odds of a December hike.
+
+📅 THIS WEEK AHEAD
+- Tue 3 Nov: US midterm elections + JOLTS
+- Wed-Thu: AMD, Qualcomm, Apple, Palantir earnings (AI read-through for NVDA); IONQ reports Thu 5 Nov
+- Fri 6 Nov: October jobs report (consensus ~55-65k, unemployment 4.2%)
+
+✅ No action needed today. Watch IONQ earnings Thu and NVDA's 200-day MA ($204).
