@@ -1,0 +1,50 @@
+📊 DAILY PORTFOLIO REPORT
+Tue 3 Nov 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [Medium Confidence]
+Price: $202.06  |  Your cost: $209.00
+P&L: -$34.70 (-3.3%)  |  Held: 151 days
+Analyst: Strong Buy (≈46 analysts) | Target: $318.85 → +57.8% upside
+https://www.marketbeat.com/stocks/NASDAQ/NVDA/price-target/
+Moat: CUDA software lock-in + AI data-center GPU dominance
+Trend: Below 50MA $221.75 and 200MA $204.38 | RSI 35 | MACD bearish, widening | Vol 119M vs 114M avg (normal) | 1d -1.3%, 5d -3.0%, 1m -11.4%
+News: NVDA fell 4.2% Oct 30 in chip selloff after Intel's weak outlook; slid another 1.3% Nov 2 — Gotrade, 2 Nov 2026
+https://www.heygotrade.com/en/news/nvidia-nvda-stock-news-november-2-2026/
+Why: 0 sell signals, 5 of 8 hold signals (RSI healthy, Buy consensus, 58% upside, no thesis-breaking news, moat intact). Q2 FY27 beat ($96.2B, +106% YoY, 75% GM, Q3 guide $108B), but price lost both MAs on sector weakness, so trend is the risk into earnings.
+Stop-loss: Reassess if price falls below $200.04 (50-day-MA stop $217.32 already breached; capped 1% below price)
+Take-profit: Consider taking profit above $318.85 (analyst mean target)
+⚠️ Earnings: Nov 17 (14 days)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [Low Confidence]
+Price: $28.17  |  Your cost: $54.00
+P&L: -$774.90 (-47.8%)  |  Held: 132 days
+Analyst: Buy (46 of 54 analysts) | Target: $62.50 median → +121.9% upside (likely stale after a 65% drawdown, no recent individual targets found)
+https://finance.yahoo.com/markets/stocks/articles/ionq-inc-ionq-stock-sinks-210002917.html
+Moat: trapped-ion quantum tech leader + acquired full-stack platform (SkyWater fab)
+Trend: Below 50MA $38.20 and 200MA $42.04 | RSI 31 (near oversold) | MACD just under signal (bearish) | Vol 20.8M vs 22.0M avg (normal) | 1d -6.2%, 5 sessions -8.4%, 1m -31.7%
+News: IonQ priced a $2B equity offering (plus 129.5M warrant shares) right after a $1.3B all-stock Elisity deal, a major dilution overhang — TipRanks, Oct 2026
+https://www.tipranks.com/news/ionq-ionq-stock-2b-raise-and-elisity-deal-bring-major-dilution-risks
+Why: 1 sell signal (S6: -8.4% over 5 sessions, no recovery) vs 4 of 8 hold signals; a single Low-confidence signal does not justify selling 2 days before a binary earnings print near the $25.89 52-week low. Q2 revenue was +287% ($80.1M) with FY guide $280-290M, so the business thesis holds but the stock is broken technically. Treat Nov 5 as the decision point.
+Stop-loss: Reassess if price falls below $27.89 (50-day-MA stop $37.44 already breached; key support $25.89 52w low)
+Take-profit: Consider taking profit above $62.50 (analyst median target)
+⚠️ Earnings: Nov 5 after close (2 days)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $1,855.40
+Total P&L:      -$809.60 (-30.4%)
+Macro regime:   Cautious, leaning risk-off: Fed held 3.75-4.00% on Oct 28 but markets price ~75-80% odds of a December hike, the 10Y yield touched 5%, VIX ~22.
+
+📅 THIS WEEK AHEAD
+- Tue Nov 3: US midterm elections (control of Congress matters for data-center and chip policy)
+- Wed-Thu: AMD, Qualcomm and IonQ (Nov 5) earnings, read-through for semis and quantum
+- Fri Nov 6: October jobs report (consensus ~+55k after Sep +29k), key for December hike odds
+
+✅ No action needed today. Watch IONQ closely on Nov 5 earnings.
+
+Data: Yahoo Finance chart API (prices/technicals); fundamentals and news via web search. Not investment advice.
