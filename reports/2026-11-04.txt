@@ -1,0 +1,48 @@
+📊 DAILY PORTFOLIO REPORT
+Wed 4 Nov 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [Medium Confidence]
+Price: $206.69  |  Your cost: $209.00
+P&L: -$11.55 (-1.1%)  |  Held: 152 days
+Analyst: Strong Buy (62 analysts) | Target: $327.14 → +58.3% upside
+https://stockanalysis.com/stocks/nvda/forecast/
+Moat: CUDA ecosystem + AI data-center dominance
+Trend: Below 50-DMA $221.46, just above 200-DMA $204.56; RSI 39; MACD bearish (-4.67 vs signal -3.04); volume 90M vs ~113M avg (light). 5d -5.2%, 1m -13.5%
+News: Chips sell off after Intel's weak outlook, NVDA -4.2% — Benzinga, 30 Oct
+https://www.benzinga.com/trading-ideas/movers/26/10/62731938/nvidia-shares-drop-amid-chip-selloff-whats-happening
+Why: 0 sell signals and 5/8 hold signals; the slide is sector-wide (Intel guide, AI capex doubts), not company-specific, and fundamentals are strong (Q2 FY27 revenue $96.2B, +106% YoY, EPS $2.22 vs $2.10 est). Weak technicals (below 50-DMA, bearish MACD) keep confidence at Medium.
+Stop-loss: Formula level $217.03 is already above price (below 50-DMA) — hard stop: reassess if price falls below $190.15
+Take-profit: Consider taking profit above $327 (analyst mean target)
+⚠️ Earnings: ~17-18 Nov (est., ~14 days)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [Low Confidence]
+Price: $29.99  |  Your cost: $54.00
+P&L: -$720.30 (-44.5%)  |  Held: 133 days
+Analyst: Moderate Buy (~15 analysts) | Target: $64.23 → +114.2% upside (targets being cut: B. Riley $100→$75 on 2 Nov, Rosenblatt $100→$70)
+https://www.marketbeat.com/stocks/NYSE/IONQ/forecast/
+Moat: Trapped-ion tech lead + full-stack quantum M&A
+Trend: Below 50-DMA $37.64 and 200-DMA $41.84; RSI 38; MACD bearish (-2.58 vs -2.44); volume 17M vs ~22M avg. 5d -9.0%, 1m -30.2%, near 52w low $25.89
+News: Shares fall 6.4% as B. Riley cuts target to $75 (Buy kept) — MarketBeat, 2 Nov
+https://www.marketbeat.com/instant-alerts/price-ionq-nyse-ionq-stock-falls-64-after-analyst-downgrade-2026-11-02/
+Why: 1 sell signal (S6: -9% in 5 days, only a partial +6.5% rebound on 3 Nov) vs 4/8 hold signals; dilution from the $2B offering and $1.3B all-stock Elisity deal hurts, but 2026 revenue guidance was raised to $280-290M. With earnings tomorrow, hold for the print rather than sell at the lows — a weak print or guidance cut flips this to SELL.
+Stop-loss: Formula level $36.89 is already above price (below 50-DMA) — hard stop: reassess if price falls below $27.59
+Take-profit: Consider taking profit above $64 (analyst mean target)
+⚠️ Earnings: Thu 5 Nov after close (1 day)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $1,933.15
+Total P&L:      -$731.85 (-27.5%)
+Macro regime:   Cautious/risk-off tilt — AI-capex doubts and higher yields after a hot Sep CPI hit tech in late Oct; markets now weigh midterm results and possible further Fed tightening (unconfirmed).
+
+📅 THIS WEEK AHEAD
+- Wed 4 Nov: Midterm election results digestion (futures lower overnight)
+- Thu 5 Nov: IONQ Q3 earnings; AMD and Qualcomm also report this week
+- Fri 6 Nov: October jobs report (NFP)
+
+✅ No action needed today
