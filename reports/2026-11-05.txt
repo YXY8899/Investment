@@ -1,0 +1,49 @@
+📊 DAILY PORTFOLIO REPORT
+Thu 5 Nov 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [Low Confidence]
+Price: $200.13  |  Your cost: $209.00
+P&L: -$44.35 (-4.2%)  |  Held: 153 days
+Analyst: Buy (46 analysts) | Target: $318.85 → +59.3% upside
+https://www.marketbeat.com/stocks/NASDAQ/NVDA/price-target/
+Moat: CUDA ecosystem + ~75% gross margin AI data-center lead
+Trend: Below 50D MA ($221.20) and 200D MA ($204.67), RSI 34.5, MACD bearish (-5.31 vs signal -3.50), volume high (1.3x avg); 7-day losing streak, -5d -7.1%, -1m -16.3%
+News: Nvidia falls 3.2% as chip stocks slide while broader market rallies on Democratic midterm win — Invezz, 4 Nov
+https://invezz.com/news/2026/11/04/why-is-nvidia-stock-falling-while-broader-markets-rally-on-democratic-midterm-win/
+Why: Zero sell signals — the drop is sector-wide (data-center capex worries post-midterms), not company-specific, and fundamentals are strong (Q2 rev $96.2B +106% YoY, EPS beat, Q3 guide $108B). Only 4/8 hold signals though: price broke the 200D MA and MACD is bearish, so conviction is low into earnings.
+Stop-loss: Reassess if price falls below $216.78 — ALREADY BREACHED (price below 50D MA); hard floor $184.12 (-8%)
+Take-profit: Consider taking profit above $318.85 (analyst mean target)
+⚠️ Earnings: 17 Nov 2026 after close (12 days)
+
+──────────────────────
+
+🔴 IONQ — SELL  [Low Confidence]
+Price: $29.54  |  Your cost: $54.00
+P&L: -$733.80 (-45.3%)  |  Held: 134 days
+Analyst: Moderate Buy (15 analysts) | Target: $64.23 → +117.4% upside
+https://www.marketbeat.com/stocks/NYSE/IONQ/forecast/
+Moat: Trapped-ion tech lead (99.99% two-qubit fidelity) + full-stack M&A
+Trend: Far below 50D MA ($37.39) and 200D MA ($41.73), RSI 36.9, MACD bearish (-2.55 vs signal -2.46, narrowing), volume low (0.76x avg); -5d -8.9%, -1m -31.8%, near 52W low $25.89
+News: IonQ drops 32% in a month after $2.0B equity offering and $1.15B all-stock Elisity deal; B. Riley cuts PT to $75, Rosenblatt to $70 — 24/7 Wall St, 3 Nov
+https://247wallst.com/investing/2026/11/03/ionq-just-dropped-32-in-a-month-is-ionq-stock-hopeless-or-ready-for-a-rebound/
+Why: S6 triggered (-8.9% in 5 days, no recovery) driven by company-specific dilution, with price below both MAs and bearish MACD. Analysts still see upside, but Q3 results land TONIGHT (5 Nov after close, ~14% implied move) — consider trimming or exiting before the print if you can't stomach a binary move.
+Stop-loss: $36.89 (50D MA rule) — ALREADY BREACHED; hard floor $27.18 (-8%)
+Take-profit: Consider taking profit above $64.23 (analyst mean target)
+⚠️ Earnings: 5 Nov 2026 after close (today)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $1,886.85
+Total P&L:      -$778.15 (-29.2%)
+Concentration: none flagged (NVDA Semiconductors, IONQ Quantum Computing)
+Macro regime:   Mixed/risk-selective — Fed held at 3.75-4.00% on 28 Oct with two hawkish dissents; Dow rallied on the Democratic midterm sweep while chips/AI sold off and the Nasdaq 100 sits near correction.
+
+📅 THIS WEEK AHEAD
+- Thu 5 Nov: IonQ Q3 earnings (after close); Qualcomm results digested
+- Fri 6 Nov: October jobs report (NFP)
+- Tue 10 Nov: October CPI (8:30 ET); NVDA earnings 17 Nov
+
+🚨 Action needed: IONQ
