@@ -1,0 +1,47 @@
+📊 DAILY PORTFOLIO REPORT
+Fri 6 Nov 2026 — Pre-market (prices = Thu 5 Nov close)
+
+──────────────────────
+
+🔵 NVDA — HOLD  [Low Confidence]
+Price: $181.60  |  Your cost: $209.00
+P&L: -$137.00 (-13.1%)  |  Held: 154 days
+Analyst: Strong Buy (64 analysts) | Target: $252.59 → +39.1% upside
+https://in.marketscreener.com/quote/stock/NVIDIA-CORPORATION-57355629/consensus/
+Moat: CUDA software lock-in + ~75% gross margin AI data-center leader
+Trend: Below 50MA $220.64 and 200MA $204.66 | RSI 25.4 (oversold) | MACD bearish (-7.22 vs signal -4.24) | Volume 302M = 2.7x avg | 1d -9.3%, 5d -15.0%, 1m -23.5%
+News: Nvidia drops 9% as AI chip rout sends Nasdaq into correction; SOX -12% on regulation and data-center fears, H200 China import delays — Yahoo Finance, 5 Nov
+https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html
+Why: Only 4/8 hold signals; the trend is broken, but the 5-day drop is sector-wide contagion (S6 counted half), so there are no full sell signals. Fundamentals are intact (Q2 revenue +106% YoY, Q3 guide $108B), and the 17 Nov earnings report is the next real test.
+Stop-loss: Reassess if price falls below $167.07 (8% floor; the 50MA rule gives $216.23, above the current price, so it is already breached)
+Take-profit: Consider taking profit above $252.59 (analyst mean target)
+⚠️ Earnings: 17 Nov 2026 (11 days)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [Medium Confidence]
+Price: $26.43  |  Your cost: $54.00
+P&L: -$827.10 (-51.1%)  |  Held: 135 days
+Analyst: Moderate Buy (15 analysts) | Target: $63.83 → +141.5% upside (as of 28 Sep; may lag the selloff)
+https://www.marketbeat.com/instant-alerts/analyst-ionq-nyse-ionq-now-covered-by-bank-of-america-2026-09-28/
+Moat: Trapped-ion quantum tech lead + $3.7B cash runway
+Trend: Below 50MA $37.12 and 200MA $41.62 | RSI 31.1 (near oversold) | MACD bearish | Volume 35M = 1.6x avg | 1d -10.5%, 5d -16.7%, 1m -36.1%
+News: IonQ Q3 beat: revenue $173.8M (+336% YoY) vs $141.7M est, FY26 guide raised to $505-515M; shares +3-5% after hours — Benzinga, 5 Nov
+https://www.benzinga.com/markets/earnings/26/11/62952831/ionq-tops-estimates-in-q3-raises-2026-outlook
+Why: 5/8 hold signals, and the strong beat-and-raise argues against a thesis break; the 5-day drop matches the AI-wide rout (S6 counted half). The stock is still in a deep downtrend with a -51% unrealised loss, so the 52-week low of $24.92 is the line to watch.
+Stop-loss: Reassess if price falls below $24.32 (8% floor; the 50MA rule gives $36.38, above the current price)
+Take-profit: Consider taking profit above $63.83 (analyst mean target)
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $1,700.90
+Total P&L:      -$964.10 (-36.2%)
+Concentration: none by sector, but both holdings are high-beta AI/tech names that fell together
+Macro regime:   Risk-off. The Nasdaq fell 5.5% on 5 Nov, its worst day in 19 months, and is now in a correction as the AI trade unwinds after the midterms; rate traders now price the next Fed hike for March.
+
+📅 THIS WEEK AHEAD
+- Fri 6 Nov: October jobs report (NFP), Fed speakers Musalem and Bowman, UMich sentiment
+- Tue 10 Nov: October CPI, 8:30 ET
+- Tue 17 Nov: NVDA Q3 FY27 earnings, the key AI-trade catalyst
+
+✅ No action needed today. Both are HOLD, but watch the stop levels closely.
