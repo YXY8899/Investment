@@ -1,0 +1,48 @@
+📊 DAILY PORTFOLIO REPORT
+Sun 8 Nov 2026 — Pre-market (prices as of Fri 6 Nov close)
+
+──────────────────────
+
+🔵 NVDA — HOLD  [Medium Confidence]
+Price: $186.64  |  Your cost: $209.00
+P&L: -$111.80 (-10.7%)  |  Held: 156 days
+Analyst: Strong Buy (77 ratings, 78% bullish) | Target: ~$275 → +47% upside (approx; range $210-$345)
+https://fn2.ai/earnings/nvda/analysts
+Moat: CUDA software lock-in + Blackwell lead in AI data-center compute
+Trend: Below 50MA $219.81 and 200MA $204.67 | RSI 30.8 (near oversold) | MACD bearish, widening | Volume 1.5x avg
+News: Nvidia -9.3% on 5 Nov in AI chip rout; Nasdaq -5.5%, AMD -17% — Motley Fool, 5 Nov
+https://www.fool.com/coverage/stock-market-today/2026/11/05/stock-market-today-nov-5-nvidia-slides-on-ai-chip-selloff-as-election-uncertainty-weighs/
+Why: 5 of 8 hold signals (RSI, consensus, 47% upside, no company-specific bad news, moat intact) vs one sell signal: S6, a -8.8% 5-day drop, half-weighted because it is sector-wide with a +2.8% Friday bounce. Q2 beat ($96.2B, +106%) and $108B Q3 guide are intact; let the 17 Nov earnings decide rather than selling into a sector panic.
+Stop-loss: Reassess if price falls below $184.77 (50MA is overhead, formula cap; 8% floor $171.71)
+Take-profit: Consider taking profit above $275 (analyst mean target)
+⚠️ Earnings: Tue 17 Nov 2026, after close (9 days)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [Medium Confidence]
+Price: $32.62  |  Your cost: $54.00
+P&L: -$641.40 (-39.6%)  |  Held: 137 days
+Analyst: Moderate Buy (14 analysts) | Target: $63 median → +93% upside (post-earnings cuts: Jefferies $65, BofA $50)
+https://tickernerd.com/stock/ionq-forecast/
+Moat: Trapped-ion quantum leader, full-stack platform, Superion 256 sold out for 2027
+Trend: Below 50MA $36.93 and 200MA $41.54 | RSI 48.4 | MACD fresh bullish crossover | Volume 1.9x avg
+News: IonQ Q3 revenue $173.8M (+336%) beats; FY26 guide raised to $505-515M — Benzinga, 5 Nov
+https://www.benzinga.com/markets/earnings/26/11/62952831/ionq-tops-estimates-in-q3-raises-2026-outlook
+Why: 6 of 8 hold signals and no sell signals; stock rose 23.4% on Friday after the beat and raised guide, and MACD turned bullish. Risks: still loss-making (adj EPS -$0.29), 32M new shares issued for Elisity, and analysts cutting targets on lower quantum valuations.
+Stop-loss: Reassess if price falls below $32.29 (50MA is overhead, formula cap; 8% floor $30.01)
+Take-profit: Consider taking profit above $63 (analyst median target)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $1,911.80
+Total P&L:      -$753.20 (-28.3%)
+Concentration: none flagged (NVDA Semiconductors, IONQ Quantum Computing), but both are high-beta AI/tech names
+Macro regime:   Risk-off for AI/tech: Nasdaq in correction after the midterms. Fed on hold with inflation above target and some talk of a hike.
+
+📅 THIS WEEK AHEAD
+- Oct CPI (mid-week, date unconfirmed) and PPI (Fri 13 Nov, provisional)
+- AI earnings test: CoreWeave, Nebius, Cisco, Applied Materials
+- Next week: NVDA earnings 17 Nov + Huang congressional briefing 18 Nov
+
+✅ No action needed today
