@@ -1,0 +1,48 @@
+📊 DAILY PORTFOLIO REPORT
+Mon 9 Nov 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [Medium Confidence]
+Price: $186.64  |  Your cost: $209.00
+P&L: -$111.80 (-10.7%)  |  Held: 157 days
+Analyst: Buy (46 analysts) | Target: $212.84 → +14.0% upside (other trackers up to ~$254)
+https://www.marketbeat.com/stocks/NASDAQ/NVDA/price-target/
+Moat: CUDA software lock-in + AI data-center GPU leadership
+Trend: Below 50D MA $219.81 and 200D MA $204.67 | RSI 30.8 (near oversold) | MACD bearish, still widening | Vol 1.5x avg | 5D -8.8%, 1M -19.0%
+News: Nvidia drops 9.3% on Nov 5 in sector-wide AI chip selloff, no company news — Trefis, 6 Nov 2026
+https://www.trefis.com/stock/nvda/articles/623357/what-sent-nvidia-stock-lower/2026-11-06
+Why: 5 of 8 hold signals (RSI, consensus, upside, no company news, moat intact). The only sell signal is the 5-day drop (S6), counted at half-weight: it was a sector/macro selloff, and the stock bounced 2.8% on Friday. Fundamentals are strong (Q2 revenue $96.2B, +106% YoY; Q3 guide $108B), but the trend is broken going into earnings.
+Stop-loss: Reassess if price falls below $184.77 (the formula level of $215.41 is above today's price, so it is capped at 1% below price; 52W low $164.27)
+Take-profit: Consider taking profit above $212.84 (analyst mean target)
+⚠️ Earnings: 17 Nov 2026 (8 days)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [Medium Confidence]
+Price: $32.62  |  Your cost: $54.00
+P&L: -$641.40 (-39.6%)  |  Held: 138 days
+Analyst: Moderate Buy (18 analysts) | Target: $66.00 → +102% upside (set before Q3; post-Q3 updates not yet found)
+https://www.benzinga.com/quote/IONQ/sentiment
+Moat: Trapped-ion quantum leader, $1.2B backlog, owns its fab via SkyWater
+Trend: Below 50D MA $36.93 and 200D MA $41.54 | RSI 48.4 | MACD bullish crossover | Vol 1.9x avg | 1D +23.4%, 5D +8.6%
+News: Record Q3 revenue $173.8M (+336% YoY, beat ~$141.6M est.); FY26 guide raised to $505-515M — IonQ IR, 5 Nov 2026
+https://www.ionq.com/news/ionq-announces-record-3q26-revenues-and-raises-fy2026-guidance-to-505---515-million-as-backlog-grows-to-1-2-billion
+Why: 6 of 8 hold signals and zero sell signals. A strong beat-and-raise plus a fresh MACD bullish crossover point to a turn. The price is still below both MAs, adjusted EBITDA is -$133.6M, and $83.5M of Q3 revenue came from the SkyWater acquisition.
+Stop-loss: Reassess if price falls below $32.29 (the formula level of $36.19 is above today's price, so it is capped at 1% below price; 52W low $24.92)
+Take-profit: Consider taking profit above $66.00 (analyst mean target)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $1,911.80
+Total P&L:      -$753.20 (-28.3%)
+Concentration: none by sector, but both holdings are high-beta AI/tech names that move with the Nasdaq
+Macro regime:   Risk-off. Nov 5 was the Nasdaq's worst day since Apr 2025 (-5.5%). Strong jobs data raised the odds that the Fed's next move under Chair Warsh is a hike. Friday's rebound was only partial.
+
+📅 THIS WEEK AHEAD
+- Tue 10 Nov: October CPI (8:30 ET), the key test for rate-hike fears
+- Mid/late week: October PPI and Fed speakers
+- Wed 11 Nov: Veterans Day (bond market closed, stocks open). Next week: NVDA earnings 17 Nov
+
+✅ No action needed today
