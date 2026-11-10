@@ -1,0 +1,47 @@
+📊 DAILY PORTFOLIO REPORT
+Tue 10 Nov 2026 — Pre-market
+
+──────────────────────
+
+🔴 NVDA — SELL  [Medium Confidence]
+Price: $178.67  |  Your cost: $209.00
+P&L: -$151.65 (-14.5%)  |  Held: 158 days
+Analyst: Buy (53 of 55 Buy/Strong Buy) | Target: $212.84 (46 analysts) → +19.1% upside
+https://www.marketbeat.com/stocks/NASDAQ/NVDA/price-target/
+Moat: CUDA ecosystem + ~90% AI accelerator share
+Trend: Below 50DMA $219.04 and 200DMA $204.63, RSI 27.4 (oversold), MACD bearish and widening, volume 457M vs ~118M avg (3.9x)
+News: Nvidia board investigates CEO Jensen Huang over relationship with alleged Chinese spy; stock -4.3%, ~$200B lost — Yahoo Finance, 9 Nov
+https://finance.yahoo.com/technology/live/nvidia-scandal-live-updates-nvidia-stock--board-investigates-ceo-jensen-huang-affair-alleged-chinese-spy-163130372.html
+Why: S6 (-11.6% in 5 days, company-specific, closed at the low) plus S4 (CEO key-person and China-security risk now unresolved) = 2 sell signals; only 3 of 8 hold signals (consensus, upside, moat). Fundamentals are strong (Q2 rev $96.2B +106%, Q3 guide $108B) and RSI is oversold, so trimming before earnings is a reasonable alternative to a full exit.
+Stop-loss: N/A (SELL) — if still holding, reassess below $164.27 (52-week low)
+Take-profit: N/A (SELL) — analyst mean $212.84 for reference
+⚠️ Earnings: 17 Nov 2026 (7 days)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [Medium Confidence]
+Price: $35.34  |  Your cost: $54.00
+P&L: -$559.80 (-34.6%)  |  Held: 139 days
+Analyst: Moderate Buy (15 analysts) | Target: $60.23 → +70.4% upside
+https://www.marketbeat.com/instant-alerts/consensus-ionq-inc-ionq-what-are-analysts-saying-about-this-stock-2026-11-09/
+Moat: trapped-ion quantum tech lead + acquired foundry/networking stack
+Trend: Below 50DMA $36.85 and 200DMA $41.48, RSI 53.9, MACD bullish crossover, volume 33.3M vs ~22.3M avg (1.5x)
+News: Q3 revenue $173.8M (+336% YoY), FY26 guide raised to $505-515M; stock +23% on 6 Nov — IonQ 8-K (SEC), 5 Nov
+https://www.sec.gov/Archives/edgar/data/0001824920/000119312526449779/ionq-ex99_1.htm
+Why: No sell signals; 6 of 8 hold signals (RSI, MACD, consensus, upside, no high-impact negative news, moat intact), with price still under both MAs. Watch for dilution: about half of Q3 revenue came from the SkyWater acquisition, targets were cut to $40-65, and lock-ups expire 14 Nov.
+Stop-loss: Reassess if price falls below $32.51 (8% floor; 50DMA rule gives $36.11, which is above today's price)
+Take-profit: Consider taking profit above $60.23 (analyst mean target)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $1,953.55
+Total P&L:      -$711.45 (-26.7%)
+Macro regime:   Mixed, leaning risk-off for AI/tech — the Fed is in a hiking cycle (about 85% odds of a December hike after strong jobs data), and tech fell about 7% last week while the Dow rallied.
+
+📅 THIS WEEK AHEAD
+- Tue 10 Nov: October CPI, 8:30am ET (consensus +0.3% headline, +0.2% core)
+- Fri 13 Nov: October PPI (consensus +0.4%, +0.3% core)
+- CoreWeave, Cisco, Applied Materials earnings this week; NVDA reports 17 Nov
+
+🚨 Action needed: NVDA
