@@ -1,0 +1,47 @@
+📊 DAILY PORTFOLIO REPORT
+Wed 11 Nov 2026 — Pre-market (prices = 10 Nov close)
+
+──────────────────────
+
+🔴 NVDA — SELL  [Medium Confidence]
+Price: $168.89  |  Your cost: $209.00
+P&L: -$200.55 (-19.2%)  |  Held: 159 days
+Analyst: Strong Buy (~55 analysts) | Target: $319 → +88.9% upside (targets being cut: Mizuho $250, Citi $285, Wells $300)
+https://www.marketbeat.com/stocks/NASDAQ/NVDA/forecast/
+Moat: CUDA software lock-in + AI accelerator leadership
+Trend: Below 50-DMA $218 and 200-DMA $204.5, RSI 23.9 (oversold), MACD bearish and widening, volume 3.5x avg; -18.3% in 5 days, near 52-wk low $164.27
+News: Board hires Wachtell + ex-US Attorney to probe reports Huang was target of foreign intelligence effort; FBI probe, lawsuits filed (claims unverified) — Motley Fool, 10 Nov
+https://www.fool.com/coverage/stock-market-today/2026/11/10/stock-market-today-nov-10-nvidia-stock-plunges-5-5-as-ceo-scandal-overshadows-its-upcoming-earnings-report/
+Why: S4 (CEO probe = key-person and export-control risk) plus S6 (-18% in 5 days, company-specific) give 2 sell signals vs only 3 of 8 hold signals. Stock is deeply oversold, so a bounce on earnings is possible; consider trimming or exiting rather than averaging down until the probe is clearer.
+Stop-loss: If you keep it, reassess below $164 (52-week low)
+Take-profit: Consider taking profit above $319 (analyst mean target)
+⚠️ Earnings: 17 Nov 2026 (6 days)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [Medium Confidence]
+Price: $34.99  |  Your cost: $54.00
+P&L: -$570.30 (-35.2%)  |  Held: 140 days
+Analyst: Strong Buy (14 analysts) | Target: $54.28 → +55.1% upside
+https://stockanalysis.com/stocks/ionq/forecast/
+Moat: Trapped-ion quantum tech lead + $3.7B cash pile
+Trend: Below 50-DMA $36.76 and 200-DMA $41.44, RSI 53.1, MACD bullish crossover, volume 0.8x avg; +16.7% in 5 days
+News: Record Q3 revenue $173.8M (+336% YoY), FY26 guide raised to $505-515M; stock +23% — Q3 8-K, 5 Nov
+https://www.sec.gov/Archives/edgar/data/0001824920/000119312526449779/ionq-ex99_1.htm
+Why: 6 of 8 hold signals (healthy RSI, bullish MACD, Strong Buy, 55% upside, no negative news, moat intact) and no sell signals. Risks: still below both MAs, heavy dilution, and lock-up expiry on 14 Nov could add selling pressure.
+Stop-loss: Reassess if price falls below $34.64 (just under 50-DMA, tight)
+Take-profit: Consider taking profit above $54.28 (analyst mean target)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $1,894.15
+Total P&L:      -$770.85 (-28.9%)
+Macro regime:   Risk-off tilt: hot October core CPI (+0.3% for a 3rd month) revived Fed hike fears, 10Y yield near 5%, VIX above 21.
+
+📅 THIS WEEK AHEAD
+- Fri 13 Nov: October PPI (8:30 ET); Sat 14 Nov: IONQ lock-up expiry
+- Tue 17 Nov: October retail sales + NVDA Q3 earnings
+- Wed 18 Nov: FOMC minutes (Oct 27-28 meeting)
+
+🚨 Action needed: NVDA
