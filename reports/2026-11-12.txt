@@ -1,0 +1,47 @@
+📊 DAILY PORTFOLIO REPORT
+Thu 12 Nov 2026 — Pre-market
+
+──────────────────────
+
+🔴 NVDA — SELL  [Medium Confidence]
+Price: $173.73 (Nov 11 close; ~6-7% lower pre-market)  |  Your cost: $209.00
+P&L: -$176.35 (-16.9%)  |  Held: 160 days
+Analyst: Buy (~54 analysts) | Target: $318.85 (stale — see recent cuts: Wells Fargo $300 Nov 10, Bernstein $200 Nov 11, Baird $200 Nov 12) → recent avg ~$233, +34% upside
+https://investinglive.com/stocks/bernstein-halves-nvidia-target-to-200-the-3rd-broker-in-2-days-to-step-back-over-huang/
+Moat: CUDA software ecosystem + AI data-center GPU dominance (Q2 rev $96.2B, +106% YoY, 75% GM)
+Trend: Below 50MA $217 and 200MA $204, RSI 28.7 (oversold), MACD bearish below signal, volume 2.2x avg
+News: Board reportedly preparing to oust CEO Jensen Huang after affair allegations; shares -8% after hours — WSJ/Reuters via Forbes, 12 Nov
+https://www.forbes.com/sites/siladityaray/2026/11/12/nvidia-shares-plunge-as-board-reportedly-prepares-to-oust-ceo-jensen-huang/
+Why: 2 sell signals — company-specific leadership crisis (S4) and a 13.2% 5-day drop with no recovery (S6), plus 3 brokers cutting targets in 2 days. RSI is oversold and fundamentals are intact, so trim or exit before the Nov 17 earnings instead of panic-selling at the open.
+Stop-loss: N/A (SELL verdict; price already below 50-day MA)
+Take-profit: N/A (SELL verdict)
+⚠️ Earnings: Tue 17 Nov 2026 (5 days)
+
+──────────────────────
+
+🔵 IONQ — HOLD  [Medium Confidence]
+Price: $34.06  |  Your cost: $54.00
+P&L: -$598.20 (-36.9%)  |  Held: 141 days
+Analyst: Moderate Buy (~14 analysts) | Target: $57.08 → +67.6% upside
+https://www.tipranks.com/news/ionq-ionq-stock-soars-23-after-earnings-but-analysts-see-75-more-upside
+Moat: Trapped-ion quantum leadership + vertical integration via SkyWater foundry
+Trend: Below 50MA $36.69 and 200MA $41.38, RSI 51, MACD bullish above signal, volume 0.7x avg
+News: Q3 revenue $173.8M (+336% YoY), FY26 guide raised to $505-515M; stock +23% next day — SEC 8-K, 5 Nov
+https://www.sec.gov/Archives/edgar/data/0001824920/000119312526449779/ionq-ex99_1.htm
+Why: 6 of 8 hold signals and no sell signals — strong earnings beat, bullish MACD turn, neutral RSI and big upside to target. It is still under both MAs and post-earnings targets were trimmed (MS $40, B. Riley $70), so conviction is moderate.
+Stop-loss: Reassess if price falls below $31.34 (8% floor; 50-day MA rule gives $35.95, already above price)
+Take-profit: Consider taking profit above $57.08 (analyst mean target)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $1,890.45
+Total P&L:      -$774.55 (-29.1%)
+Macro regime:   Risk-off — hot Oct CPI (core +0.3% m/m) has a Dec Fed hike fully priced and Nasdaq-100 is ~14% off its Oct peak after the midterm selloff.
+
+📅 THIS WEEK AHEAD
+- Fri 13 Nov: October PPI (hot print would add to Fed hike bets)
+- Nvidia board decision on CEO Jensen Huang (pending)
+- Tue 17 Nov: NVDA Q3 FY27 earnings (guide ~$108B); heavy Fed speaker slate all week
+
+🚨 Action needed: NVDA
