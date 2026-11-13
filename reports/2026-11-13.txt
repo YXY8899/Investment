@@ -1,0 +1,47 @@
+📊 DAILY PORTFOLIO REPORT
+Fri 13 Nov 2026 — Pre-market
+
+──────────────────────
+
+🔴 NVDA — SELL  [Medium Confidence]
+Price: $166.19  |  Your cost: $209.00
+P&L: -$214.05 (-20.5%)  |  Held: 161 days
+Analyst: wave of downgrades to Hold (6 targets cut 12 Nov) | Target: ~$203 avg of new targets → +22.0% upside (pre-news consensus stale)
+https://www.cnbc.com/2026/11/12/jensen-huang-nvidia-affair-ceo.html
+Moat: CUDA software lock-in + AI accelerator leadership (intact)
+Trend: Below 50MA $215.96 and 200MA $204.34, RSI 26 (oversold), MACD bearish, volume 740M = 5.2x avg
+News: Jensen Huang resigns as CEO effective immediately; CFO Colette Kress interim CEO; stock hit $148.80 intraday — CNBC, 12 Nov
+https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-ceo-live-updates.html
+Why: 2 sell signals - founder-CEO exit is a thesis-changing, company-specific shock (S4) and price fell 8.5% in 5 days with no recovery (S6); only 3 of 8 hold signals. Oversold and earnings are 4 days out, so consider exiting into any pre-earnings bounce rather than at the open.
+Stop-loss: If still holding, exit below $152.89 (8% floor; 50-day MA level is far above price)
+Take-profit: Consider exiting above ~$203 (avg of post-news analyst targets)
+⚠️ Earnings: Tue 17 Nov 2026, after close (4 days) — guide $108B rev
+
+──────────────────────
+
+🔵 IONQ — HOLD  [Medium Confidence]
+Price: $30.86  |  Your cost: $54.00
+P&L: -$694.20 (-42.9%)  |  Held: 142 days
+Analyst: Moderate Buy | Target: $60.23 mean → +95.2% upside
+https://www.marketbeat.com/instant-alerts/analyst-ionq-nyse-ionq-price-target-cut-to-6500-by-analysts-at-jefferies-financial-group-2026-11-06/
+Moat: trapped-ion tech lead + full stack via SkyWater fab; $1.2B backlog
+Trend: Below 50MA $36.55 and 200MA $41.31, RSI 44, MACD above signal (bullish, fading), volume normal
+News: Shares -9.4% Thu on sector risk-off; no company-specific trigger. Follows Q3 beat (rev $173.8M, +336%) and FY guide raised to $505-515M on 5 Nov — MarketBeat, 12 Nov
+https://www.marketbeat.com/instant-alerts/price-ionq-nyse-ionq-stock-price-down-94-heres-why-2026-11-12/
+Why: No sell signals and 6 of 8 hold signals - fundamentals strengthened on earnings and the analyst target sits ~95% above price. Trend is still weak (below both MAs) and dilution from the $1.15B Elisity stock deal is a risk.
+Stop-loss: Reassess if price falls below $28.39 (8% floor; 50-day MA level $35.82 is above price)
+Take-profit: Consider taking profit above $60.23 (analyst mean target)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $1,756.75
+Total P&L:      -$908.25 (-34.1%)
+Macro regime:   Risk-off - hot Oct CPI (10 Nov) has traders pricing a December Fed hike (upper bound 4.00%), and the Nasdaq is in correction territory, led by AI/tech.
+
+📅 THIS WEEK AHEAD
+- Tue 17 Nov: Oct retail sales (8:30 ET)
+- Tue 17 Nov: NVDA Q3 FY27 earnings (after close)
+- Wed 18 Nov: FOMC minutes from Oct 27-28 meeting
+
+🚨 Action needed: NVDA
