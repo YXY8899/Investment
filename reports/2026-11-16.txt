@@ -1,0 +1,49 @@
+📊 DAILY PORTFOLIO REPORT
+Mon 16 Nov 2026 — Pre-market
+(Prices = Fri 13 Nov close)
+
+──────────────────────
+
+🔴 NVDA — SELL  [Medium Confidence]
+Price: $162.85  |  Your cost: $209.00
+P&L: -$230.75 (-22.1%)  |  Held: 164 days
+Analyst: Buy (35 analysts) | Target: $317.83 → +95.2% upside. Recent: Baird cut to Neutral, $200 (11 Nov); Morgan Stanley Buy, $300
+https://www.tipranks.com/news/article/nvidia-stock-loses-a-wall-street-supporter
+Moat: CUDA ecosystem lock-in, ~75% gross margin, fwd P/E ~12x (approx)
+Trend: Below 50DMA $214.65 and 200DMA $204.19 | RSI 24.9 (oversold) | MACD bearish (-14.2 vs signal -10.1) | Vol 366M = 2.5x avg
+News: Jensen Huang resigns as CEO and director amid espionage/smuggling probe; CFO Colette Kress is interim CEO — SEC 8-K, 12 Nov 2026
+https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm
+Why: 2 sell signals — S4 (founder-CEO exit plus China export/smuggling risk) and S6 (-12.7% in 5 days, company-specific, no recovery); only 3 of 8 hold signals. RSI is deeply oversold and earnings land tomorrow, so the cleanest exit is into any earnings bounce rather than a panic sale at the lows.
+Stop-loss: If still held after earnings, exit below $148.80 (52-week low)
+Take-profit: Sell into a rebound toward $186 (pre-resignation level); mean target $317.83 no longer the base case
+⚠️ Earnings: 17 Nov 2026, after close (1 day). Q3 guide $108B ±2%
+
+──────────────────────
+
+🔵 IONQ — HOLD  [Medium Confidence]
+Price: $28.88  |  Your cost: $54.00
+P&L: -$753.60 (-46.5%)  |  Held: 145 days
+Analyst: Moderate Buy (15 analysts: 10 Buy/3 Hold/2 Sell) | Target: $60.00 → +107.8% upside. Recent: B. Riley $75 (2 Nov), Morgan Stanley $40
+https://www.tikr.com/blog/cantor-fitzgerald-cut-its-ionq-target-to-60-it-still-sees-84-upside
+Moat: Trapped-ion quantum leader, $1.2B backlog, $3.7B pro-forma cash
+Trend: Below 50DMA $36.35 and 200DMA $41.23 | RSI 40.9 | MACD bullish crossover (-1.36 vs signal -1.72) | Vol 22.0M = normal
+News: CFO Inder Singh steps down effective immediately; successor starts 3 Dec — Invezz, 13 Nov 2026
+https://invezz.com/news/2026/11/13/its-not-just-nvidia-ionq-stock-is-also-slipping-on-leadership-shake-up
+Why: 1 sell signal (S6, -11.5% in 5 days, measured from the 6 Nov post-earnings spike) against 5 of 8 hold signals. Q3 beat (revenue $173.8M vs $141.6M est.), FY guide raised to $505-515M, and the CFO handover is orderly, so the thesis holds despite heavy cash burn.
+Stop-loss: Reassess if price falls below $26.57 (8% floor; 50DMA-based stop $35.62 already breached)
+Take-profit: Consider taking profit above $60.00 (analyst mean target)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $1,680.65
+Total P&L:      -$984.35 (-36.9%)
+Concentration: none (NVDA semiconductors, IONQ quantum computing; both high-beta tech)
+Macro regime:   Cautious, leaning risk-off: hot Oct CPI and 10Y ~5.07% have markets pricing a ~75-80% chance of a 25bp Fed hike on 9 Dec. S&P 500 rebounded 2.5% last week, but AI names lag.
+
+📅 THIS WEEK AHEAD
+- Mon 16 Nov: Fed Chair Warsh speaks (12:00 ET)
+- Tue 17 Nov: NVDA Q3 FY27 earnings after close
+- Midweek: Oct Retail Sales + FOMC minutes; Anthropic IPO expected this week
+
+🚨 Action needed: NVDA
