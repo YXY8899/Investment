@@ -1,0 +1,47 @@
+📊 DAILY PORTFOLIO REPORT
+Tue 17 Nov 2026 — Pre-market
+
+──────────────────────
+
+🔴 NVDA — SELL  [Medium Confidence]
+Price: $156.14  |  Your cost: $209.00
+P&L: -$264.30 (-25.3%)  |  Held: 165 days
+Analyst: Buy-leaning (77 analysts) | Mean $327 (stale — see recent downgrades). Recent: Bernstein $200, Evercore $186, Truist $174, HSBC $170 (Nov 12-16) → ~$195, +25% upside
+https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-nvidia-hit-with-downgrades-after-huangs-exit-5027576
+Moat: CUDA ecosystem + AI accelerator dominance (intact, leadership now in question)
+Trend: Below 50MA $213 and 200MA $204, RSI 22.7 (oversold), MACD bearish, volume 2.2x avg. -12.6% 5d, -27% 1m, near 52w low $148.80
+News: Huang resigned as CEO Nov 12; Kress interim; board not considering return; new US export license rule for SE Asia/Brazil — CNBC, 16 Nov
+https://www.cnbc.com/2026/11/16/nvidia-stock-price-jensen-huang.html
+Why: 2 sell signals — founder-CEO exit is company-specific, thesis-changing news (S4) and a -12.6% 5-day fall with no recovery (S6), plus a wave of downgrades. RSI 22 is deeply oversold and earnings tonight could cause a sharp move either way; Q3 guide was $108B revenue.
+Stop-loss: N/A (SELL). If holding through earnings, hard floor $143.65 (-8%)
+Take-profit: N/A (SELL). Recent analyst cluster ~$195 for reference
+⚠️ Earnings: Tue 17 Nov after close (0 days)
+
+──────────────────────
+
+🔴 IONQ — SELL  [Medium Confidence]
+Price: $26.45  |  Your cost: $54.00
+P&L: -$826.50 (-51.0%)  |  Held: 146 days
+Analyst: Moderate Buy (~17 analysts) | Target $60.23 → +127.7% upside. Recent cuts: Jefferies $65, Needham $48, Mizuho $42, Morgan Stanley $40
+https://www.marketbeat.com/instant-alerts/analyst-ionq-nyse-ionq-price-target-cut-to-6500-by-analysts-at-jefferies-financial-group-2026-11-06/
+Moat: Trapped-ion tech lead + $1.2B backlog
+Trend: Below 50MA $36.09 and 200MA $41.17, RSI 37, MACD just above signal but rolling over, volume normal. -25.2% 5d, 52w low $24.92
+News: Resale prospectus for up to 34.6M shares by selling holders, after CFO/COO Inder Singh quit Nov 13 — Benzinga, 16 Nov
+https://www.benzinga.com/trading-ideas/movers/26/11/63303121/ionq-stock-dives-monday-whats-driving-the-action
+Why: 2 sell signals — the CFO exit plus heavy dilution (resale overhang after a $2B offering) is high-impact negative news (S4), and -25% in 5 days with no recovery (S6), which is mostly company-specific. Fundamentals are strong (Q3 revenue +336%, FY guide raised), but the stock is losing support and is close to its 52-week low.
+Stop-loss: N/A (SELL). If holding, floor $24.33 (-8%, below 52w low)
+Take-profit: N/A (SELL). Analyst mean $60.23 for reference
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $1,574.20
+Total P&L:      -$1,090.80 (-40.9%)
+Macro regime:   Risk-off. Hot CPI has markets pricing a December Fed hike, the 10y yield is above 5%, and the AI/tech selloff deepened (Nasdaq -2.5% Mon)
+
+📅 THIS WEEK AHEAD
+- NVDA Q3 earnings: Tue 17 Nov after close
+- FOMC minutes: Wed 18 Nov, plus October retail sales and industrial production this week
+- Monthly options expiration: Fri 20 Nov
+
+🚨 Action needed: NVDA, IONQ
