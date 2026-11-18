@@ -1,0 +1,45 @@
+📊 DAILY PORTFOLIO REPORT
+Wed 18 Nov 2026 — Pre-market
+
+──────────────────────
+
+🔵 NVDA — HOLD  [Low Confidence]
+Price: $155.46 (pre-mkt ~$160, +3%)  |  Your cost: $209.00
+P&L: -$267.70 (-25.6%)  |  Held: 166 days
+Analyst: Buy (52 analysts) | Target: $239 → +53.7% upside (consensus $320 is stale — post-earnings targets: Citi $225, Piper $230, Jefferies $250, Cantor $250)
+https://finbold.com/wall-street-analysts-update-nvidia-stock-target-after-earnings/
+Moat: CUDA software lock-in + AI data-center scale leader
+Trend: Below 50d $211.76 and 200d $203.87 | RSI 22.5 (oversold) | MACD bearish | Volume 2.5x avg
+News: Q3 FY27 beat — revenue $115.8B (+103% YoY) vs ~$109B est, EPS $2.68 vs $2.48, Q4 guide $130B, +$150B buyback — NVIDIA IR, 17 Nov
+https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027
+Why: No sell signals fired: the earnings beat and raised outlook show the business is intact, and 5-day drop of -7.95% is just under the S6 limit. Confidence is low because Jensen Huang resigned on 12 Nov over a scandal (CFO Kress is interim CEO), the price is under both MAs, and the Fed is set to hike.
+Stop-loss: Reassess if price falls below $143.02 (8% floor; the 50-day-MA rule gives $207.52, which the price is already well below)
+Take-profit: Consider taking profit above $239 (average of post-earnings analyst targets)
+
+──────────────────────
+
+🔴 IONQ — SELL  [Low Confidence]
+Price: $24.84 (pre-mkt ~$25.63, +3%)  |  Your cost: $54.00
+P&L: -$874.80 (-54.0%)  |  Held: 147 days
+Analyst: Buy (N/A analysts) | Target: $62.28 → +150.7% upside (recent cuts: Morgan Stanley $40 EW, BofA $50)
+https://www.gurufocus.com/news/9181570/ionq-ionq-raises-2026-revenue-guidance-after-strong-q3-surpassing-estimates
+Moat: Trapped-ion quantum tech lead + largest quantum revenue base
+Trend: Below 50d $35.78 and 200d $41.10 | RSI 34.7 | MACD fresh bearish crossover | Volume 1.2x avg | Lowest close in a year
+News: CFO Inder Singh leaves effective immediately, with no reason given; 34.6M-share resale registration filed — Company 8-K, 13 Nov
+https://www.tikr.com/blog/ionq-sinks-8-as-inder-singh-exits-effective-immediately-in-finance-leadership-shake-up
+Why: S6 fired: the stock fell -29.0% in 5 days, with 6 straight down days and no recovery. This was mainly IonQ's own news (CFO exit, share overhang), not fallout from a peer's earnings. Q3 was strong (revenue $173.8M, +336%; FY guide raised to $505–515M), but in a hiking cycle the chart and the share overhang argue for cutting or trimming, possibly into today's pre-market bounce.
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $1,522.50
+Total P&L:      -$1,142.50 (-42.9%)
+Concentration: none (NVDA = Semiconductors, IONQ = Quantum Computing); both are high-beta tech
+Macro regime:   Risk-off — hot CPI, 10Y yield ~5.1%, VIX ~23, and markets put ~93% odds on a 25bp Fed hike, with more expected by spring
+
+📅 THIS WEEK AHEAD
+- Wed 18 Nov 2pm ET: FOMC minutes (Oct meeting) — watch the hike path
+- 18–19 Nov: APEC Leaders' Summit — US-China chip curbs in focus
+- Wed 25 Nov: October PCE inflation; market closed Thu 26 Nov (Thanksgiving)
+
+🚨 Action needed: IONQ
