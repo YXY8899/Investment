@@ -1,0 +1,46 @@
+📊 DAILY PORTFOLIO REPORT
+Thu 19 Nov 2026 — Pre-market
+
+──────────────────────
+
+🔴 NVDA — SELL  [Medium Confidence]
+Price: $150.96  |  Your cost: $209.00
+P&L: -$290.20 (-27.8%)  |  Held: 167 days
+Analyst: Buy (TipRanks consensus; StockAnalysis 61 analysts ~$273) | Target: $229.30 → +51.9% upside
+https://www.tipranks.com/news/nvidia-stock-nvda-rises-on-q3-beat-goldman-sachs-sees-favorable-risk-reward-despite-heightened-risks
+Moat: CUDA software lock-in + AI accelerator leadership
+Trend: Below 50MA $210.30 and 200MA $203.72; RSI 21 (oversold); MACD bearish (-16.9 vs signal -13.1); volume 2.2x avg; 5d -13.1%, 1m -30.3%, near 52w low $148.80
+News: Nvidia slips despite Q3 beat as CEO succession and China risks weigh — Motley Fool, 18 Nov
+https://www.fool.com/coverage/stock-market-today/2026/11/18/stock-market-today-nov-18-nvidia-slips-on-strong-results-as-succession-and-china-business-risks-weigh/
+Why: S4 (Jensen Huang's exit as CEO, a key-person thesis change that set off a wave of target cuts) plus S6 (-13% in 5 days, company-specific) give 2 sell signals; only 3/8 hold signals. Q3 revenue $115.8B (+103%) and EPS $2.68 beat, but the stock fell after the beat. RSI 21 is deeply oversold, so a staged exit on a bounce toward $165-175 beats dumping into capitulation.
+Stop-loss: N/A (SELL); hard floor if holding for a bounce: $138.88 (-8%)
+Take-profit: N/A (SELL); mean target $229.30 if thesis re-validates
+
+──────────────────────
+
+🔴 IONQ — SELL  [Medium Confidence]
+Price: $23.48  |  Your cost: $54.00
+P&L: -$915.60 (-56.5%)  |  Held: 148 days
+Analyst: Moderate Buy (15 analysts: 10 Buy/3 Hold/2 Sell) | Target: $60.23 → +156.5% upside
+https://www.marketbeat.com/instant-alerts/price-ionq-nyse-ionq-stock-price-down-56-heres-what-happened-2026-11-18/
+Moat: Trapped-ion quantum tech lead + acquisitive platform
+Trend: Below 50MA $35.48 and 200MA $41.02; RSI 33; MACD bearish crossover (-2.39 vs signal -1.90); volume normal (1.1x); 5d -31.1%, 1m -24.9%, 1-year low
+News: IonQ extends losing streak on dilution worries after $2B stock sale (follows CFO exit 13 Nov) — 24/7 Wall St, 18 Nov
+https://247wallst.com/investing/2026/11/18/ionq-drops-5-extending-losing-streak-on-dilution-worries-after-2-billion-stock-sale-d-wave-slides-3-rigetti-dips/
+Why: S4 (CFO's abrupt exit plus $2B equity sale and a 34.6M-share resale filing) and S6 (-31% in 5 days, company-specific) give 2 sell signals; only 4/8 hold signals. Q3 revenue +336% to $173.8M beat, but widening losses and dilution are crushing the stock. Targets are being cut (Needham $48, Jefferies $65), so treat the consensus as optimistic.
+Stop-loss: N/A (SELL); hard floor if holding: $21.60 (-8%)
+Take-profit: N/A (SELL); mean target $60.23
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $1,459.20
+Total P&L:      -$1,205.80 (-45.2%)
+Macro regime:   Risk-off. The Fed is hawkish with a December 9 hike near-fully priced (funds 3.75-4.00%), the Dow fell 560 pts on 18 Nov, and AI/speculative tech is de-rating.
+
+📅 THIS WEEK AHEAD
+- Thu 19 Nov: Initial jobless claims + Philly Fed manufacturing
+- Wed 25 Nov: Q3 GDP (2nd est) + October PCE inflation
+- Thu 26 Nov: Thanksgiving, market closed (Fri 27 half-day)
+
+🚨 Action needed: NVDA, IONQ
