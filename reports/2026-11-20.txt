@@ -1,0 +1,50 @@
+📊 DAILY PORTFOLIO REPORT
+Fri 20 Nov 2026 — Pre-market
+
+──────────────────────
+
+🔴 NVDA — SELL  [Medium Confidence]
+Price: $145.98  |  Your cost: $209.00
+P&L: -$315.10 (-30.2%)  |  Held: 168 days
+Analyst: Buy (63 analysts) | Target: $244.18 → +67.3% upside
+https://stockanalysis.com/stocks/nvda/forecast/
+Moat: CUDA ecosystem + AI data-center dominance (intact)
+Trend: Below 50-day MA ($208.86) and 200-day MA ($203.58), RSI 19.6 (deeply oversold), MACD bearish (-17.76 vs signal -14.05), volume 1.9x 3M avg — 52-week low, 1M -34%
+News: Board says no plans to reinstate Jensen Huang as CEO after scandal; California AG subpoena; Hopper/H200 China shipments halted — NBC News, 19 Nov
+https://www.nbcnews.com/business/business-news/live-blog/nvidia-stock-earnings-report-jensen-huang-rcna609804
+Why: 2 sell signals — S4 (founder-CEO exit plus regulatory probe adds leadership/policy risk; 9+ downgrades to Hold) and S6 (-12.2% over 5 days, no recovery, premarket ~$142). Q3 beat (rev $115.8B, +103% YoY, Q4 guide $130B) and an RSI under 20 argue for selling into a bounce rather than chasing lows.
+Stop-loss: N/A (SELL) — formula level $204.68 is above price; hard floor -8% = $134.30
+Take-profit: N/A (SELL) — analyst mean $244.18 for reference
+Earnings: next late Feb 2027 (not within 30 days)
+
+──────────────────────
+
+🔴 IONQ — SELL  [Medium Confidence]
+Price: $22.71  |  Your cost: $54.00
+P&L: -$938.70 (-57.9%)  |  Held: 149 days
+Analyst: Buy (14 analysts) | Target: $62.27 → +174.2% upside
+https://247wallst.com/investing/2026/11/06/ionq-beat-and-raised-can-the-quantum-stock-buck-the-tech-selloff
+Moat: trapped-ion quantum lead + full-stack acquisitions
+Trend: Below 50-day MA ($35.20) and 200-day MA ($40.96), RSI 31.8, MACD bearish and widening (-2.71 vs -2.06), volume 1.2x avg — 8-day losing streak, closed at 52-week low
+News: CFO Inder Singh steps down effective immediately, CEO interim PFO; dilution from up to $1.3B stock-funded Elisity deal — HeyGoTrade, 13 Nov
+https://www.heygotrade.com/en/news/ionq-ionq-stock-news-november-16-2026/
+Why: 2 sell signals — S4 (abrupt CFO exit plus heavy share dilution) and S6 (-26.4% in 5 days, no recovery). Record Q3 revenue ($173.8M) and the raised 2026 guide ($505-515M) keep the long-term thesis alive, but momentum and risk-off rates pressure on speculative tech favour cutting the position.
+Stop-loss: N/A (SELL) — formula level $34.50 is above price; hard floor -8% = $20.89
+Take-profit: N/A (SELL) — analyst mean $62.27 for reference
+Earnings: next ~Feb 2027 (not within 30 days)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $1,411.20
+Total P&L:      -$1,253.80 (-47.0%)
+Concentration: none flagged (NVDA Semiconductors, IONQ Quantum Computing)
+Macro regime:   Risk-off — S&P 500 down 6 sessions in a row (-2.0% Thu); hawkish Fed (Waller, Oct minutes weigh more tightening) and AI-trade unwind after the Anthropic IPO.
+
+📅 THIS WEEK AHEAD
+- Fri 20 Nov: Fed's Waller (8:25 ET) and Cook (12:15 ET) speak; final UMich sentiment
+- Wed 25 Nov: Oct PCE inflation and Q3 GDP 2nd estimate
+- Thu 26 Nov: Thanksgiving, markets closed; Fri 27 Nov early close. FOMC decision on 9 Dec
+
+🚨 Action needed: NVDA, IONQ
+
