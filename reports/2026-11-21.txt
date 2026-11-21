@@ -1,0 +1,47 @@
+📊 DAILY PORTFOLIO REPORT
+Sat 21 Nov 2026 — Weekend review (markets closed; data as of Fri 20 Nov close)
+
+──────────────────────
+
+🔴 NVDA — SELL  [Medium Confidence]
+Price: $125.53  |  Your cost: $209.00
+P&L: -$417.35 (-39.9%)  |  Held: 169 days
+Analyst: Buy, downgrades mounting (61 analysts) | Mean $273 (stale — see recent cuts) / Recent: Bernstein $200, Baird $200, Evercore $186, KeyBanc $170 → +35% to +59% upside
+https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-nvidia-hit-with-downgrades-after-huangs-exit-5027576
+Moat: CUDA + data-center networking lead (operationally intact)
+Trend: Far below 50d ($207) and 200d MA ($203); RSI 15 deeply oversold; MACD bearish and widening; volume 3.7x avg (capitulation-like); -14.0% Fri, -22.9% 5d, -40.8% 1m
+News: SEC reportedly probing Nvidia accounting; stock -14%, 7th straight weekly loss — Reuters via Bloomberg, 20 Nov 2026
+https://www.bloomberg.com/news/articles/2026-11-20/wall-street-regulator-probing-nvidia-s-accounting-reuters-says
+Why: S4 (SEC accounting probe on top of Huang's exit, interim CEO Kress, board probe and lawsuits) and S6 (-23% in 5 days, company-specific, no recovery) trip. Q3 beat ($115.8B rev, +103%) and $130B guide keep the business case alive, but governance and accounting risk now dominate; RSI 15 makes a relief bounce likely, so selling into strength is an option.
+Stop-loss: N/A (SELL) — if holding, hard stop at $115.49 (-8%)
+Take-profit: N/A (SELL) — reassess on any bounce toward $170-200 (recent targets)
+
+──────────────────────
+
+🔴 IONQ — SELL  [Medium Confidence]
+Price: $20.72  |  Your cost: $54.00
+P&L: -$998.40 (-61.6%)  |  Held: 150 days
+Analyst: Strong Buy (14 analysts) | Target: $54.28 → +162% upside (range $40-70)
+https://stockanalysis.com/stocks/ionq/forecast/
+Moat: Trapped-ion quantum tech lead + $1.2B backlog
+Trend: Far below 50d ($34.88) and 200d MA ($40.91); RSI 29 oversold; MACD bearish and widening; volume 1.3x avg; at 52w low ($20.51); -8.8% Fri, -28.3% 5d, -33.5% 1m
+News: CFO Inder Singh steps down effective immediately; filing for resale of ~34.6M shares — HeyGoTrade, 13-16 Nov 2026
+https://www.heygotrade.com/en/news/ionq-ionq-stock-news-november-16-2026/
+Why: S4 (sudden CFO exit plus a share-resale overhang after a $2B offering) and S6 (-28% in 5 days, 9-day losing streak) trip. Q3 beat (rev +336%) and raised FY guide ($505-515M) support the thesis, but dilution and the risk-off tape are winning; deeply oversold, so a bounce is possible.
+Stop-loss: N/A (SELL) — if holding, hard stop at $19.06 (-8%)
+Take-profit: N/A (SELL) — reassess on any bounce toward the 50d MA ($35)
+
+──────────────────────
+
+💼 PORTFOLIO SUMMARY
+Total value:    $1,249.25
+Total P&L:      -$1,415.75 (-53.1%)
+Concentration: no shared sector (NVDA Semis, IONQ Quantum), but both are high-beta AI/tech and fell together
+Macro regime:   Risk-off — AI trade unwinding (S&P/Nasdaq -3%+ Fri), Fed minutes lean toward more hikes, PCE running ~3.8%, dollar firm
+
+📅 THIS WEEK AHEAD
+- Mon 23 Nov: Flash PMIs + NY Fed's Williams speaks
+- Wed 25 Nov: October PCE inflation + Q3 GDP (2nd estimate)
+- Thu 26 Nov: Thanksgiving, market closed; Fri 27 Nov half-day (next FOMC 9 Dec)
+
+🚨 Action needed: NVDA, IONQ
